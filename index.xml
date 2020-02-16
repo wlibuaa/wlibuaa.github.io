@@ -5,12 +5,22 @@
     <link>https://wlibuaa.github.io/</link>
       <atom:link href="https://wlibuaa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Feb 2020 22:12:38 +0100</lastBuildDate>
     <image>
       <url>https://wlibuaa.github.io/images/logo_huaa9067b0baf12591fb286940a489acd3_303493_300x300_fit_lanczos_2.png</url>
       <title>Li Group</title>
       <link>https://wlibuaa.github.io/</link>
     </image>
+    
+    <item>
+      <title>Li2011</title>
+      <link>https://wlibuaa.github.io/publication/li2011/</link>
+      <pubDate>Sun, 16 Feb 2020 22:12:38 +0100</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li2011/</guid>
+      <description>&lt;h2 id=&#34;abstarct&#34;&gt;Abstarct&lt;/h2&gt;
+&lt;p&gt;A linearized tensor renormalization group algorithm is developed to calculate the thermodynamic properties of low-dimensional quantum lattice models. This new approach employs the infinite time-evolving block decimation technique, and allows for treating directly the transfer-matrix tensor network that makes it more scalable. To illustrate the performance, the thermodynamic quantities of the quantum XY spin chain as well as the Heisenberg antiferromagnet on a honeycomb lattice are calculated by the linearized tensor renormalization group method, showing the pronounced precision and high efficiency.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
