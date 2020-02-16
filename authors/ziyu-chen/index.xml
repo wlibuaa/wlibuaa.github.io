@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ziyu Chen | Li Group</title>
+    <link>https://wlibuaa.github.io/authors/ziyu-chen/</link>
+      <atom:link href="https://wlibuaa.github.io/authors/ziyu-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ziyu Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wlibuaa.github.io/images/logo_huaa9067b0baf12591fb286940a489acd3_303493_300x300_fit_lanczos_2.png</url>
+      <title>Ziyu Chen</title>
+      <link>https://wlibuaa.github.io/authors/ziyu-chen/</link>
+    </image>
+    
+    <item>
+      <title>Exponential Thermal Tensor Network Approach for Quantum Lattice Models</title>
+      <link>https://wlibuaa.github.io/publication/chen-2018-c/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2018-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Series-Expansion Thermal Tensor Network Approach for Quantum Lattice Models</title>
+      <link>https://wlibuaa.github.io/publication/chen-2017-b/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2017-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topology-Driven Phase Transitions in the Classical Monomer-Dimer-Loop Model</title>
+      <link>https://wlibuaa.github.io/publication/li-2015-c/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2015-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kosterlitz-Thouless Transitions and Phase Diagrams of the Interacting Monomer-Dimer Model on a Checkerboard Lattice</title>
+      <link>https://wlibuaa.github.io/publication/li-2014-a/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2014-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

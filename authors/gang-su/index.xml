@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gang Su | Li Group</title>
+    <link>https://wlibuaa.github.io/authors/gang-su/</link>
+      <atom:link href="https://wlibuaa.github.io/authors/gang-su/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gang Su</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wlibuaa.github.io/images/logo_huaa9067b0baf12591fb286940a489acd3_303493_300x300_fit_lanczos_2.png</url>
+      <title>Gang Su</title>
+      <link>https://wlibuaa.github.io/authors/gang-su/</link>
+    </image>
+    
+    <item>
+      <title>Simplex Valence-Bond Crystal in the Spin-1 Kagome Heisenberg Antiferromagnet</title>
+      <link>https://wlibuaa.github.io/publication/liu-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/liu-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Product State and Quantum Phase Transitions in the One-Dimensional Extended Quantum Compass Model</title>
+      <link>https://wlibuaa.github.io/publication/liu-2012/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/liu-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Tensor Renormalization Group Algorithm for the Calculation of Thermodynamic Properties of Quantum Lattice Models</title>
+      <link>https://wlibuaa.github.io/publication/li-2011-a/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase Transitions and Thermodynamics of the Two-Dimensional Ising Model on a Distorted Kagome Lattice</title>
+      <link>https://wlibuaa.github.io/publication/li-2010-a/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Phase Transition, $O(3)$ Universality Class, and Phase Diagram of the Spin-$frac12$ Heisenberg Antiferromagnet on a Distorted Honeycomb Lattice: A Tensor Renormalization-Group Study</title>
+      <link>https://wlibuaa.github.io/publication/li-2010/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

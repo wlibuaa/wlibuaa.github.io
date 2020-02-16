@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hui-Hai Zhao | Li Group</title>
+    <link>https://wlibuaa.github.io/authors/hui-hai-zhao/</link>
+      <atom:link href="https://wlibuaa.github.io/authors/hui-hai-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hui-Hai Zhao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wlibuaa.github.io/images/logo_huaa9067b0baf12591fb286940a489acd3_303493_300x300_fit_lanczos_2.png</url>
+      <title>Hui-Hai Zhao</title>
+      <link>https://wlibuaa.github.io/authors/hui-hai-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Differentiation for Second Renormalization of Tensor Networks</title>
+      <link>https://wlibuaa.github.io/publication/chen-2019-b/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2019-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

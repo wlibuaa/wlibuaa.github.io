@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hong-Hao Tu | Li Group</title>
+    <link>https://wlibuaa.github.io/authors/hong-hao-tu/</link>
+      <atom:link href="https://wlibuaa.github.io/authors/hong-hao-tu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hong-Hao Tu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wlibuaa.github.io/images/logo_huaa9067b0baf12591fb286940a489acd3_303493_300x300_fit_lanczos_2.png</url>
+      <title>Hong-Hao Tu</title>
+      <link>https://wlibuaa.github.io/authors/hong-hao-tu/</link>
+    </image>
+    
+    <item>
+      <title>Universal Boundary Entropies in Conformal Field Theory: A Quantum Monte Carlo Study</title>
+      <link>https://wlibuaa.github.io/publication/tang-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/tang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hexagon-Singlet Solid Ansatz for the Spin-1 Kagome Antiferromagnet</title>
+      <link>https://wlibuaa.github.io/publication/li-2015-a/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Criticality in Translation-Invariant Parafermion Chains</title>
+      <link>https://wlibuaa.github.io/publication/li-2015-b/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topology and Criticality in the Resonating Affleck-Kennedy-Lieb-Tasaki Loop Spin Liquid States</title>
+      <link>https://wlibuaa.github.io/publication/li-2014/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

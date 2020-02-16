@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yun-Jing Liu | Li Group</title>
+    <link>https://wlibuaa.github.io/authors/yun-jing-liu/</link>
+      <atom:link href="https://wlibuaa.github.io/authors/yun-jing-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yun-Jing Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wlibuaa.github.io/images/logo_huaa9067b0baf12591fb286940a489acd3_303493_300x300_fit_lanczos_2.png</url>
+      <title>Yun-Jing Liu</title>
+      <link>https://wlibuaa.github.io/authors/yun-jing-liu/</link>
+    </image>
+    
+    <item>
+      <title>Bilayer Linearized Tensor Renormalization Group Approach for Thermal Tensor Networks</title>
+      <link>https://wlibuaa.github.io/publication/dong-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/dong-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Series-Expansion Thermal Tensor Network Approach for Quantum Lattice Models</title>
+      <link>https://wlibuaa.github.io/publication/chen-2017-b/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2017-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

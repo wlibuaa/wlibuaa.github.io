@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Li | Li Group</title>
+    <link>https://wlibuaa.github.io/authors/wei-li/</link>
+      <atom:link href="https://wlibuaa.github.io/authors/wei-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wlibuaa.github.io/images/logo_huaa9067b0baf12591fb286940a489acd3_303493_300x300_fit_lanczos_2.png</url>
+      <title>Wei Li</title>
+      <link>https://wlibuaa.github.io/authors/wei-li/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Differentiation for Second Renormalization of Tensor Networks</title>
+      <link>https://wlibuaa.github.io/publication/chen-2019-b/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Tensor Network Simulations of the Heisenberg Model on the Bethe Lattice</title>
+      <link>https://wlibuaa.github.io/publication/qu-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/qu-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ghost of a Vanishing Stripe Order in the Triangular Quantum Ising Magnet TmMgGaO$_4$</title>
+      <link>https://wlibuaa.github.io/publication/li-2019-c/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2019-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Temperature Scales in the Triangular-Lattice Heisenberg Antiferromagnet</title>
+      <link>https://wlibuaa.github.io/publication/chen-2019-a/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nontopological Majorana Zero Modes in Inhomogeneous Spin Ladders</title>
+      <link>https://wlibuaa.github.io/publication/robinson-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/robinson-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential Thermal Tensor Network Approach for Quantum Lattice Models</title>
+      <link>https://wlibuaa.github.io/publication/chen-2018-c/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2018-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological and Geometric Universal Thermodynamics in Conformal Field Theory</title>
+      <link>https://wlibuaa.github.io/publication/wang-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/wang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal Thermal Tensor Network and Universal Entropy on Topological Manifolds</title>
+      <link>https://wlibuaa.github.io/publication/chen-2017-c/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2017-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal Boundary Entropies in Conformal Field Theory: A Quantum Monte Carlo Study</title>
+      <link>https://wlibuaa.github.io/publication/tang-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/tang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bilayer Linearized Tensor Renormalization Group Approach for Thermal Tensor Networks</title>
+      <link>https://wlibuaa.github.io/publication/dong-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/dong-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Series-Expansion Thermal Tensor Network Approach for Quantum Lattice Models</title>
+      <link>https://wlibuaa.github.io/publication/chen-2017-b/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2017-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Criticality-Enhanced Magnetocaloric Effect in Quantum Spin Chain Material Copper Nitrate</title>
+      <link>https://wlibuaa.github.io/publication/xiang-2017-a/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/xiang-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hexagon-Singlet Solid Ansatz for the Spin-1 Kagome Antiferromagnet</title>
+      <link>https://wlibuaa.github.io/publication/li-2015-a/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topology-Driven Phase Transitions in the Classical Monomer-Dimer-Loop Model</title>
+      <link>https://wlibuaa.github.io/publication/li-2015-c/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2015-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Criticality in Translation-Invariant Parafermion Chains</title>
+      <link>https://wlibuaa.github.io/publication/li-2015-b/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplex Valence-Bond Crystal in the Spin-1 Kagome Heisenberg Antiferromagnet</title>
+      <link>https://wlibuaa.github.io/publication/liu-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/liu-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kosterlitz-Thouless Transitions and Phase Diagrams of the Interacting Monomer-Dimer Model on a Checkerboard Lattice</title>
+      <link>https://wlibuaa.github.io/publication/li-2014-a/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topology and Criticality in the Resonating Affleck-Kennedy-Lieb-Tasaki Loop Spin Liquid States</title>
+      <link>https://wlibuaa.github.io/publication/li-2014/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Symmetry-Protected Topological Order by Entanglement Entropy</title>
+      <link>https://wlibuaa.github.io/publication/li-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Simulation of Infinite Tree Tensor Network States on the Bethe Lattice</title>
+      <link>https://wlibuaa.github.io/publication/li-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Product State and Quantum Phase Transitions in the One-Dimensional Extended Quantum Compass Model</title>
+      <link>https://wlibuaa.github.io/publication/liu-2012/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/liu-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Tensor Renormalization Group Algorithm for the Calculation of Thermodynamic Properties of Quantum Lattice Models</title>
+      <link>https://wlibuaa.github.io/publication/li-2011-a/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase Transitions and Thermodynamics of the Two-Dimensional Ising Model on a Distorted Kagome Lattice</title>
+      <link>https://wlibuaa.github.io/publication/li-2010-a/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Phase Transition, $O(3)$ Universality Class, and Phase Diagram of the Spin-$frac12$ Heisenberg Antiferromagnet on a Distorted Honeycomb Lattice: A Tensor Renormalization-Group Study</title>
+      <link>https://wlibuaa.github.io/publication/li-2010/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

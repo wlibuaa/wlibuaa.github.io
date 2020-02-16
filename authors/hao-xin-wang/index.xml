@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hao-Xin Wang | Li Group</title>
+    <link>https://wlibuaa.github.io/authors/hao-xin-wang/</link>
+      <atom:link href="https://wlibuaa.github.io/authors/hao-xin-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hao-Xin Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wlibuaa.github.io/images/logo_huaa9067b0baf12591fb286940a489acd3_303493_300x300_fit_lanczos_2.png</url>
+      <title>Hao-Xin Wang</title>
+      <link>https://wlibuaa.github.io/authors/hao-xin-wang/</link>
+    </image>
+    
+    <item>
+      <title>Topological and Geometric Universal Thermodynamics in Conformal Field Theory</title>
+      <link>https://wlibuaa.github.io/publication/wang-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/wang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal Thermal Tensor Network and Universal Entropy on Topological Manifolds</title>
+      <link>https://wlibuaa.github.io/publication/chen-2017-c/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2017-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

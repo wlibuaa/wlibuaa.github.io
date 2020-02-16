@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andreas Weichselbaum | Li Group</title>
+    <link>https://wlibuaa.github.io/authors/andreas-weichselbaum/</link>
+      <atom:link href="https://wlibuaa.github.io/authors/andreas-weichselbaum/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andreas Weichselbaum</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wlibuaa.github.io/images/logo_huaa9067b0baf12591fb286940a489acd3_303493_300x300_fit_lanczos_2.png</url>
+      <title>Andreas Weichselbaum</title>
+      <link>https://wlibuaa.github.io/authors/andreas-weichselbaum/</link>
+    </image>
+    
+    <item>
+      <title>Two-Temperature Scales in the Triangular-Lattice Heisenberg Antiferromagnet</title>
+      <link>https://wlibuaa.github.io/publication/chen-2019-a/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nontopological Majorana Zero Modes in Inhomogeneous Spin Ladders</title>
+      <link>https://wlibuaa.github.io/publication/robinson-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/robinson-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential Thermal Tensor Network Approach for Quantum Lattice Models</title>
+      <link>https://wlibuaa.github.io/publication/chen-2018-c/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2018-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hexagon-Singlet Solid Ansatz for the Spin-1 Kagome Antiferromagnet</title>
+      <link>https://wlibuaa.github.io/publication/li-2015-a/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplex Valence-Bond Crystal in the Spin-1 Kagome Heisenberg Antiferromagnet</title>
+      <link>https://wlibuaa.github.io/publication/liu-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/liu-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Symmetry-Protected Topological Order by Entanglement Entropy</title>
+      <link>https://wlibuaa.github.io/publication/li-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bin-Bin Chen | Li Group</title>
+    <link>https://wlibuaa.github.io/authors/bin-bin-chen/</link>
+      <atom:link href="https://wlibuaa.github.io/authors/bin-bin-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bin-Bin Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wlibuaa.github.io/images/logo_huaa9067b0baf12591fb286940a489acd3_303493_300x300_fit_lanczos_2.png</url>
+      <title>Bin-Bin Chen</title>
+      <link>https://wlibuaa.github.io/authors/bin-bin-chen/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Differentiation for Second Renormalization of Tensor Networks</title>
+      <link>https://wlibuaa.github.io/publication/chen-2019-b/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ghost of a Vanishing Stripe Order in the Triangular Quantum Ising Magnet TmMgGaO$_4$</title>
+      <link>https://wlibuaa.github.io/publication/li-2019-c/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2019-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Temperature Scales in the Triangular-Lattice Heisenberg Antiferromagnet</title>
+      <link>https://wlibuaa.github.io/publication/chen-2019-a/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential Thermal Tensor Network Approach for Quantum Lattice Models</title>
+      <link>https://wlibuaa.github.io/publication/chen-2018-c/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2018-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Series-Expansion Thermal Tensor Network Approach for Quantum Lattice Models</title>
+      <link>https://wlibuaa.github.io/publication/chen-2017-b/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/chen-2017-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
