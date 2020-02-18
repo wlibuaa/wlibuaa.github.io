@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome | Li Group</title>
-    <link>https://wlibuaa.github.io/courses/ssp2020/</link>
-      <atom:link href="https://wlibuaa.github.io/courses/ssp2020/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wlibuaa.github.io/courses/sst2020/</link>
+      <atom:link href="https://wlibuaa.github.io/courses/sst2020/index.xml" rel="self" type="application/rss+xml" />
     <description>Welcome</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wlibuaa.github.io/images/logo_huaa9067b0baf12591fb286940a489acd3_303493_300x300_fit_lanczos_2.png</url>
       <title>Welcome</title>
-      <link>https://wlibuaa.github.io/courses/ssp2020/</link>
+      <link>https://wlibuaa.github.io/courses/sst2020/</link>
     </image>
     
     <item>
       <title>Introduction</title>
-      <link>https://wlibuaa.github.io/courses/ssp2020/chapter0/</link>
+      <link>https://wlibuaa.github.io/courses/sst2020/chapter0/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://wlibuaa.github.io/courses/ssp2020/chapter0/</guid>
+      <guid>https://wlibuaa.github.io/courses/sst2020/chapter0/</guid>
       <description>&lt;p&gt;Solid-state physics is the study of rigid matter, or solids, through methods such as quantum mechanics, crystallography, electromagnetism, and metallurgy. It is the largest branch of condensed matter physics. Solid-state physics studies how the large-scale properties of solid materials result from their atomic-scale properties. Thus, solid-state physics forms a theoretical basis of materials science. It also has direct applications, for example in the technology of transistors and semiconductors.&lt;/p&gt;
 &lt;h2 id=&#34;tips&#34;&gt;Tips&lt;/h2&gt;
 &lt;ul&gt;
@@ -30,6 +30,16 @@
 &lt;h3 id=&#34;homework&#34;&gt;Homework&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;Please&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Crystal Structures</title>
+      <link>https://wlibuaa.github.io/courses/sst2020/chapter1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://wlibuaa.github.io/courses/sst2020/chapter1/</guid>
+      <description>&lt;p&gt;Here we introduce basics on crystal structures.&lt;/p&gt;
+&lt;h2 id=&#34;tips&#34;&gt;Tips&lt;/h2&gt;
 </description>
     </item>
     
