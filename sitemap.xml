@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wlibuaa.github.io/courses/ssp2020/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wlibuaa.github.io/courses/ssp2020/chapter0/</loc>
     <lastmod>2020-02-19T00:00:00+01:00</lastmod>
   </url>
@@ -10,11 +15,6 @@
   <url>
     <loc>https://wlibuaa.github.io/courses/sst2020/chapter0/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wlibuaa.github.io/courses/ssp2020/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
