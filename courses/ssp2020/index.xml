@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome | Li Group</title>
+    <title>Welcome to SSP 2020 | Li Group</title>
     <link>https://wlibuaa.github.io/courses/ssp2020/</link>
       <atom:link href="https://wlibuaa.github.io/courses/ssp2020/index.xml" rel="self" type="application/rss+xml" />
-    <description>Welcome</description>
+    <description>Welcome to SSP 2020</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wlibuaa.github.io/images/logo_huaa9067b0baf12591fb286940a489acd3_303493_300x300_fit_lanczos_2.png</url>
-      <title>Welcome</title>
+      <title>Welcome to SSP 2020</title>
       <link>https://wlibuaa.github.io/courses/ssp2020/</link>
     </image>
     
