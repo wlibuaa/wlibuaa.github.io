@@ -5,12 +5,60 @@
     <link>https://wlibuaa.github.io/</link>
       <atom:link href="https://wlibuaa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://wlibuaa.github.io/images/logo_huaa9067b0baf12591fb286940a489acd3_303493_300x300_fit_lanczos_2.png</url>
       <title>Li Group</title>
       <link>https://wlibuaa.github.io/</link>
     </image>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>https://wlibuaa.github.io/courses/ssp2020/chapter1/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>https://wlibuaa.github.io/courses/ssp2020/chapter1/</guid>
+      <description>&lt;h2 id=&#34;crystal-structure&#34;&gt;Crystal Structure&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduce the underlying periodic lattice structure of  crystals&lt;/li&gt;
+&lt;li&gt;Definition of Bravais lattice and crystal structure&lt;/li&gt;
+&lt;li&gt;Unit cell and Wigner-Seitz cell
+&lt;ul&gt;
+&lt;li&gt;Recipes for defining the &lt;strong&gt;unit cell&lt;/strong&gt; of crystal
+&lt;ol&gt;
+&lt;li&gt;For a Bravais lattice, an unit cell is the &lt;em&gt;parallelepiped&lt;/em&gt; constructed out of its &lt;em&gt;primitive&lt;/em&gt; vectors.&lt;/li&gt;
+&lt;li&gt;For a general (Bravais or non-Bravais) lattice or real crystals, the unit cell can be constructed by (1) first identifying its underlying Bravais lattice &lt;em&gt;BL&lt;/em&gt; (coule be itself in the simplest case) and (2) building up the unit cell using the primitive vectors of &lt;em&gt;BL&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Some Bravais lattice, e.g., FCC or BCC, conventionally one is used to identify the cube containing more than 1 lattice points as its conventional unit cell.  Otherwise, we always follow rule 2 for defininng an unit cell of crystal structures.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Definition of Wigner-Seitz cell&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;slides--video&#34;&gt;Slides &amp;amp; Video&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Slides for Chapter 1 can be downloaded (please click the BIG icon below)&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc1.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc1.jpg&#34; alt=&#34;&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Video lectures (two, by Sandro Scandolo, ICTP), please click the icon below.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/videoc1a.jpg&#34; alt=&#34;Sandro Scandolo&#34; title=&#34;Sandro Scandolo&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/videoc1b.jpg&#34; alt=&#34;Sandro Scandolo&#34; title=&#34;Sandro Scandolo&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;discussions&#34;&gt;Discussions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An online discussion (c.a. 30 + 30 min, via Wechat or Dingtalk) will be arranged.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To be announced.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Chapter 0</title>
@@ -28,7 +76,7 @@
 &lt;li&gt;
 &lt;p&gt;Slides for Chapter 0 can be downloaded (please click the BIG icon below)&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slidesc0.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc0.png&#34; alt=&#34;&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slies/slidesc0.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc0.png&#34; alt=&#34;&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Video lecture (by Sandro Scandolo, ICTP), please click the icon below.&lt;/p&gt;
@@ -38,7 +86,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;discussions&#34;&gt;Discussions&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;An online discussion (c.a. 30 min, via Wechat or Dingtalk) will be arranged.&lt;/li&gt;
+&lt;li&gt;An online discussion (c.a. 30 + 30 min, via Wechat or Dingtalk) will be arranged.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
 &lt;ul&gt;
