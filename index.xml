@@ -89,6 +89,7 @@
 &lt;p&gt;Solid state/condensed matter: a &lt;em&gt;large&lt;/em&gt; multidisciplinary branch of physics&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Solid-state physics is the study of &lt;em&gt;rigid matter&lt;/em&gt;, or solids, through methods such as quantum mechanics, crystallography, electromagnetism, and metallurgy.&lt;/li&gt;
+&lt;li&gt;Prerequisite courses: Quantum mechnics and statistical mechanics&lt;/li&gt;
 &lt;li&gt;Fundation of materials science, nano science and technology, biophysics, etc.&lt;/li&gt;
 &lt;li&gt;Many industrial applications including transistors and semiconductors, and now &lt;em&gt;quantum computating&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -96,17 +97,26 @@
 &lt;li&gt;
 &lt;p&gt;&lt;em&gt;Emergent&lt;/em&gt;（涌现）physics: from &lt;strong&gt;atoms&lt;/strong&gt; to &lt;strong&gt;solids&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Solid state physics made &lt;em&gt;simple&lt;/em&gt;: regularly arranged atoms + electromagnetic force&lt;/li&gt;
-&lt;li&gt;Solid-state physics studies how the large-scale properties of solid materials result from their atomic-scale structures and interactions&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Theory of everything&lt;/strong&gt;: explain the diversity of their physical properties (&lt;em&gt;mechanical&lt;/em&gt;, &lt;em&gt;electromagnetic&lt;/em&gt;, &lt;em&gt;thermal&lt;/em&gt;, etc.) with a unified model.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Solid state physics made &lt;em&gt;simple&lt;/em&gt;: regularly arranged atoms + electromagnetic force&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Solid-state physics studies how the large-scale properties of solid materials result from their atomic-scale structures and interactions&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Theory of everything&lt;/strong&gt;: explain the diversity of their physical properties (&lt;em&gt;mechanical&lt;/em&gt;, &lt;em&gt;electromagnetic&lt;/em&gt;, &lt;em&gt;thermal&lt;/em&gt;, etc.) with a unified model.&lt;/p&gt;
+&lt;p&gt;&lt;img align=&#39;center&#39; src=&#39;https://wlibuaa.github.io/courses/ssp2020/figs/ToE.png&#39; width=&#39;700&#39; hspace=&#39;24&#39; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Energy band theory&lt;/strong&gt;: Bonn-Openheimer approximation simplies the ToE, motions of ions with electrons are separated: electron moving in a periodic potential, achieves great success in exlaining properties of &lt;em&gt;many&lt;/em&gt; materials&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Standard Model of Solid State Physics and Beyond&lt;/p&gt;
+&lt;p&gt;Beyond the Standard Model of Solid State Physics&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Solid State - Condensed Matter - Quantum Matter &lt;em&gt;Physics&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Energy band theory&lt;/strong&gt;: Bonn-Openheimer approximation&lt;/li&gt;
-&lt;li&gt;Quantum Matter Physics: strongly correlated and entangled, beyond standard models of solid-state physics, emergent &lt;em&gt;topological order&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Quantum Matter Physics: strongly correlated and entangled, beyond standard models of solid-state physics, emergent &lt;em&gt;topological order&lt;/em&gt;, novel forms of magnetism and superconductivity&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -129,7 +139,15 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;To be announced.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is the chemical constituent of quartz and glass? Please search in the internet and try to discuss main difference between the two materials?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is single crystal and where do they usually show up in Nature (instead of Lab)? Please name a few natural sinlge-crystal materials on earth.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Justification of &lt;em&gt;Bonn-Oppenheimer approximation&lt;/em&gt;: Please estimate the electron speed orbiting ion (&lt;em&gt;quantum mechanics&lt;/em&gt;), and please compare it with the speed of ions.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
