@@ -7,7 +7,7 @@
     <description>Welcome to SSP 2020</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://wlibuaa.github.io/images/logo_huaa9067b0baf12591fb286940a489acd3_303493_300x300_fit_lanczos_2.png</url>
+      <url>https://wlibuaa.github.io/images/logo_hufedcdbb0aebd76f29329d716a2a27717_91721_300x300_fit_lanczos_2.png</url>
       <title>Welcome to SSP 2020</title>
       <link>https://wlibuaa.github.io/courses/ssp2020/</link>
     </image>
@@ -19,18 +19,36 @@
       <guid>https://wlibuaa.github.io/courses/ssp2020/chapter1/</guid>
       <description>&lt;h2 id=&#34;crystal-structure&#34;&gt;Crystal Structure&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Introduce the underlying periodic lattice structure of  crystals&lt;/li&gt;
-&lt;li&gt;Definition of Bravais lattice and crystal structure&lt;/li&gt;
-&lt;li&gt;Unit cell and Wigner-Seitz cell
+&lt;li&gt;
+&lt;p&gt;Introduce the underlying periodic lattice structure of  crystals&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Definition of Bravais lattice and crystal structure&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Unit cell and Wigner-Seitz cell&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Recipes for defining the &lt;strong&gt;unit cell&lt;/strong&gt; of crystal
+&lt;li&gt;
+&lt;p&gt;Recipes for defining the &lt;strong&gt;unit cell&lt;/strong&gt; of crystal&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;For a Bravais lattice, an unit cell is the &lt;em&gt;parallelepiped&lt;/em&gt; constructed out of its &lt;em&gt;primitive&lt;/em&gt; vectors.&lt;/li&gt;
 &lt;li&gt;For a general (Bravais or non-Bravais) lattice or real crystals, the unit cell can be constructed by (1) first identifying its underlying Bravais lattice &lt;em&gt;BL&lt;/em&gt; (coule be itself in the simplest case) and (2) building up the unit cell using the primitive vectors of &lt;em&gt;BL&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;Some Bravais lattice, e.g., FCC or BCC, conventionally one is used to identify the cube containing more than 1 lattice points as its conventional unit cell.  Otherwise, we always follow rule 2 for defininng an unit cell of crystal structures.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;Definition of Wigner-Seitz cell&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Definition of Wigner-Seitz cell&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The geometric points that are nearest to the origin Bravais lattice point &lt;strong&gt;R&lt;/strong&gt;=0 than to  any other Bravais lattice points.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Practical definitionn: the space contained by bisection lines/surfaces of the origin point to other Bravais lattice points.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/wscell2d.jpeg&#34; alt=&#34;2D WS cell&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/wscell3d.jpg&#34; alt=&#34;3D WS cell&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -67,8 +85,13 @@
       <guid>https://wlibuaa.github.io/courses/ssp2020/chapter0/</guid>
       <description>&lt;h2 id=&#34;introduction-to-solid-state-physics&#34;&gt;Introduction to Solid State Physics&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Solid-state physics is the study of rigid matter, or solids, through methods such as quantum mechanics, crystallography, electromagnetism, and metallurgy.&lt;/li&gt;
-&lt;li&gt;It is the largest branch of condensed matter physics,  even of all physical sciences. Solid-state physics studies how the large-scale properties of solid materials result from their atomic-scale properties.&lt;/li&gt;
+&lt;li&gt;Solid-state/condensed-matter physics: a large descipline&lt;/li&gt;
+&lt;li&gt;Solid-state physics is the study of &lt;em&gt;rigid matter&lt;/em&gt;, or solids, through methods such as quantum mechanics, crystallography, electromagnetism, and metallurgy.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Emergent&lt;/em&gt; physics: from &lt;strong&gt;atoms&lt;/strong&gt; to &lt;strong&gt;solids&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;olid-state physics studies how the large-scale properties of solid materials result from their atomic-scale properties.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;Solid-state physics forms a theoretical basis of materials science. It also has direct applications, for example in the technology of transistors and semiconductors.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;slides--video&#34;&gt;Slides &amp;amp; Video&lt;/h2&gt;
