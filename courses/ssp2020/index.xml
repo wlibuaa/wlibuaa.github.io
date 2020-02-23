@@ -13,21 +13,112 @@
     </image>
     
     <item>
-      <title>Chapter 1</title>
+      <title>第一章 晶体结构</title>
       <link>https://wlibuaa.github.io/courses/ssp2020/chapter1/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0100</pubDate>
       <guid>https://wlibuaa.github.io/courses/ssp2020/chapter1/</guid>
       <description>&lt;h2 id=&#34;crystal-structure&#34;&gt;Crystal Structure&lt;/h2&gt;
+&lt;h3 id=&#34;1-晶体结构的基本概念&#34;&gt;&lt;em&gt;&lt;strong&gt;1. 晶体结构的基本概念&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Introduce the underlying periodic lattice structure of  crystals&lt;/p&gt;
+&lt;p&gt;晶体从外观上能够识别吗？需要从微观层面考察晶体的微观结构！&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/amethyst.jpg&#34; alt=&#34;紫水晶&#34;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/ion.jpg&#34; alt=&#34;金属&#34;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/glasscrystal.jpg&#34; alt=&#34;玻璃&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;紫水晶&lt;/td&gt;
+&lt;td&gt;金属铁&lt;/td&gt;
+&lt;td&gt;玻璃制品&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Definition of Bravais lattice and crystal structure&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Unit cell and Wigner-Seitz cell&lt;/p&gt;
+&lt;p&gt;布拉维格子（Bravais lattice）：晶体生成的美妙算法&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在漂亮的晶体之下，是原子有序排列的微观结构。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;晶体结构=布拉维格子+基元&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此表述十分类似于“程序=算法+语言”。自然界在创造如单晶矿石等晶体物质时候，基元是具体的物质内容，而由抽象的点构成的布拉维格子则是生成晶体的数学“算法”。按照指定的算法，将基元周期排列展开，就形成万千固态材料。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;布拉维格子有若干彼此等价的定义：&lt;/p&gt;
+&lt;p&gt;(a) 直观定义：布拉维格子是格点的无限周期排列，其中每一个点都等价，即从任何一个格点看出去，周边的环境（从最近邻格点一直到无穷远处）都严格相同。&lt;/p&gt;
+&lt;p&gt;(b) 数学定义：布拉维格子中的任意格点都可以表示为$R = \sum_i n_i \textbf{a}_i + r_0$，且公式不产生不属于格子中的点。式中${ a_i }$为$d$个（$d$为空间维度）线性无关的向量，称为初基矢量（primitive vector）。$r_0$为某常数，当原点取在任一格点上时$r_0=0$。&lt;/p&gt;
+&lt;p&gt;(c) 抽象定义：在加法下封闭的不共面矢量集合构成布拉维格子。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;一般格子&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;常见二维格子有正方格子，三角格子，六角格子等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;正方和三角为布拉维格子，六角格子为非布拉维格子，可以将两个点（下图中红色和蓝色）看做一个基元，按照其三角布拉维格子将其“生成”出来。因此，不难看出，六角格子是两套三角布拉维格子嵌套而成，有时人们称这类非布拉维格子为复式格子。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;单元素晶体将原子视为基元，其微观周期结构可能为布拉维格子或复式格子；多元素晶体总需要将多个原子视为基元，按照布拉维格子周期排列生成。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/squarelatt.png&#34; style=&#34;zoom:60%;&#34; name=&#34;square&#34;/&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/trianlatt.jpeg&#34; alt=&#34;triangular&#34;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/honeycomblatt.jpeg&#34; alt=&#34;honeycomb&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;正方格子&lt;/td&gt;
+&lt;td&gt;三角格子&lt;/td&gt;
+&lt;td&gt;六角格子&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;常见三维格子有简单立方，面心立方，体心立方，六角密堆积等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-晶系分类&#34;&gt;2. 晶系分类&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;二维布拉维格子：4大晶系（crystal family）5种布拉维格子&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/2DBravLatt.jpg&#34; alt=&#34;二维布拉维格子&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;单斜晶系(monoclinic net)：元胞为普通平行四边形&lt;/li&gt;
+&lt;li&gt;正交晶系(orthorhombic net)：元胞为长方形，包含简单长方和面心长方两种&lt;/li&gt;
+&lt;li&gt;六角晶系(hexagonal net)：元胞为菱形，初基矢量长度相等且夹60度（或120度）角&lt;/li&gt;
+&lt;li&gt;四角晶系(tetragonal net)：元胞为正方形&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;三维布拉维格子：7大晶系，14种布拉维格子&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/3DBravLatt.jpg&#34; alt=&#34;三维布拉维格子&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;固体物理八卦一则：Frankenheim (1842) miscounted this number as 15, A. Bravais is the first one get a right counting (1845).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-晶格元胞填充率与晶面指数&#34;&gt;3. 晶格元胞、填充率与晶面指数&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;元胞（unit cell）与魏格纳-赛兹元胞（ Wigner-Seitz cell）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;元胞是由布拉维格子初基矢量所构造的平行六面体（三维）或平行四边形（二维），元胞通过平移可以覆盖二维布拉维格子。&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Recipes for defining the &lt;strong&gt;unit cell&lt;/strong&gt; of crystal&lt;/p&gt;
 &lt;ol&gt;
@@ -61,10 +152,20 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Video lectures (two, by Sandro Scandolo, ICTP), please click the icon below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/videoc1a.jpg&#34; alt=&#34;Sandro Scandolo&#34; title=&#34;Sandro Scandolo&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 02&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/videoc1b.jpg&#34; alt=&#34;Sandro Scandolo&#34; title=&#34;Sandro Scandolo&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 03&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 04&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;discussions&#34;&gt;Discussions&lt;/h2&gt;
@@ -72,19 +173,20 @@
 &lt;li&gt;An online discussion (c.a. 30 + 30 min, via Wechat or Dingtalk) will be arranged.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;To be announced.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;作为二维布拉维格子4大晶系的一组，四角晶系为何只有简单正方格子而无面心正方？同样，为何三维布拉维格子中只有体心四角而不存在底心四角格子？为何又存在底心正交？&lt;/li&gt;
+&lt;li&gt;作为一种有趣的二维材料晶格，kagome格子备受关注。其结构如图所示，请问其布拉维格子属于哪一种？并计算填充率(filling rate)。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/kagome.jpg&#34; alt=&#34;kagome&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Chapter 0</title>
+      <title>第0章 固体物理引论</title>
       <link>https://wlibuaa.github.io/courses/ssp2020/chapter0/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0100</pubDate>
       <guid>https://wlibuaa.github.io/courses/ssp2020/chapter0/</guid>
       <description>&lt;h2 id=&#34;introduction-to-solid-state-physics&#34;&gt;Introduction to Solid State Physics&lt;/h2&gt;
-&lt;h2 id=&#34;第0章固体物理引论&#34;&gt;（第0章固体物理引论）&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;从固体物理到凝聚态物理：多学科交叉的物理学重要分支&lt;/p&gt;
@@ -107,7 +209,7 @@
 &lt;p&gt;&lt;strong&gt;万物之理（Theory of Everything，ToE）&lt;/strong&gt;：求解固体模型，解释自然界中所有固态物质极其丰富的如力学、电磁学、热学性质等物理性质。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;固态ToE的方程看似简单，但涉及多体相互作用，多体量子力学薛定谔方程难于直接求解。需要通分离变量，采取恰当的近似求解得到相应的固态理论，如声子理论与电子能带理论等。&lt;/p&gt;
+&lt;p&gt;固态ToE的方程涉及多体相互作用，属于多体量子力学薛定谔方程，随着研究对象规模的增长所需计算资源指数增加，无法直接求解。需要通分离变量，采取恰当的近似求解得到相应的&lt;strong&gt;固态理论&lt;/strong&gt;，如声子理论与电子能带理论等。&lt;/p&gt;
 &lt;p&gt;&lt;img align=&#39;center&#39; src=&#39;https://wlibuaa.github.io/courses/ssp2020/figs/ToE.png&#39; width=&#39;700&#39; hspace=&#39;24&#39; /&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -121,8 +223,9 @@
 &lt;li&gt;
 &lt;p&gt;超越固体物理的“标准模型”框架&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;以能带论、金兹堡-朗道平均场理论等为代表的固态理论构成我们理解物质世界形形色色的物态与材料的基本框架，类似于粒子物理中的“标准模型”。而量子霍尔效应、高温超导、拓扑磁性物态等新奇的发现则揭开了超越超越这个基本框架的“新物理”—关联多体物理，固体物理研究朝向非微扰、极端纠缠的量子物态新领域发展。&lt;/li&gt;
 &lt;li&gt;固态物理学（solid state physics）— 凝聚态物理学（condensed matter physics）— &lt;strong&gt;量子物态科学&lt;/strong&gt;（quantum matter science）&lt;/li&gt;
-&lt;li&gt;量子物态科学: 主要研究强烈关联和纠缠着的极端量子物质中涌现出的性质与规律。如量子Hall效应中的拓扑序和任意子激发，新奇磁性状态与超导等。&lt;/li&gt;
+&lt;li&gt;量子物态科学: 主要研究强烈关联和纠缠着的极端量子物质中涌现出的性质与规律。如量子霍尔效应中的拓扑序和任意子激发，新奇磁性状态与超导等。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
