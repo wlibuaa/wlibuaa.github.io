@@ -28,23 +28,12 @@
   
     
   
-  <meta name="description" content="Crystal Structure 1. 晶体结构的基本概念   晶体从外观上能够识别吗？需要从微观层面考察晶体的微观结构！
-          紫水晶 金属铁 玻璃制品      布拉维格子（Bravais lattice）：晶体生成的美妙算法
-  在漂亮的晶体之下，是原子有序排列的微观结构。
-  晶体结构=布拉维格子&#43;基元
-此表述十分类似于“程序=算法&#43;语言”。自然界在创造如单晶矿石等晶体物质时候，基元是具体的物质内容，而由抽象的点构成的布拉维格子则是生成晶体的数学“算法”。按照指定的算法，将基元周期排列展开，就形成万千固态材料。
-  布拉维格子有若干彼此等价的定义：
-(a) 直观定义：布拉维格子是格点的无限周期排列，其中每一个点都等价，即从任何一个格点看出去，周边的环境（从最近邻格点一直到无穷远处）都严格相同。
-(b) 数学定义：布拉维格子中的任意格点都可以表示为$R = \sum_i n_i \textbf{a}_i &#43; r_0$，且公式不产生不属于格子中的点。式中${ a_i }$为$d$个（$d$为空间维度）线性无关的向量，称为初基矢量（primitive vector）。$r_0$为某常数，当原点取在任一格点上时$r_0=0$。
-(c) 抽象定义：在加法下封闭的不共面矢量集合构成布拉维格子。
-    一般格子
-  常见二维格子有正方格子，三角格子，六角格子等。
-  正方和三角为布拉维格子，六角格子为非布拉维格子，可以将两个点（下图中红色和蓝色）看做一个基元，按照其三角布拉维格子将其“生成”出来。因此，不难看出，六角格子是两套三角布拉维格子嵌套而成，有时人们称这类非布拉维格子为复式格子。
-  单元素晶体将原子视为基元，其微观周期结构可能为布拉维格子或复式格子；多元素晶体总需要将多个原子视为基元，按照布拉维格子周期排列生成。
-          正方格子 三角格子 六角格子      常见三维格子有简单立方，面心立方，体心立方，六角密堆积等。">
+  <meta name="description" content="X-Ray Diffraction 1. 倒易点阵 (Reciprocal lattice)       2. 劳厄方程与布拉格定律     3. 晶格元胞、填充率与晶面指数       Slides &amp; Video   Slides for Chapter 2 can be downloaded (to be updated)
+  Video lectures (two, by Sandro Scandolo, ICTP), please click the icon below.
+  Lecture 05    Discussions  An online discussion (c.a. 30 &#43; 30 min, via Wechat or Dingtalk) will be arranged.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://wlibuaa.github.io/courses/ssp2020/chapter1/">
+  <link rel="alternate" hreflang="en-us" href="https://wlibuaa.github.io/courses/ssp2020/chapter2/">
 
   
 
@@ -231,7 +220,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://wlibuaa.github.io/courses/ssp2020/chapter1/">
+  <link rel="canonical" href="https://wlibuaa.github.io/courses/ssp2020/chapter2/">
 
   
   
@@ -245,22 +234,11 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Li Group">
-  <meta property="og:url" content="https://wlibuaa.github.io/courses/ssp2020/chapter1/">
-  <meta property="og:title" content="第一章 晶体结构 | Li Group">
-  <meta property="og:description" content="Crystal Structure 1. 晶体结构的基本概念   晶体从外观上能够识别吗？需要从微观层面考察晶体的微观结构！
-          紫水晶 金属铁 玻璃制品      布拉维格子（Bravais lattice）：晶体生成的美妙算法
-  在漂亮的晶体之下，是原子有序排列的微观结构。
-  晶体结构=布拉维格子&#43;基元
-此表述十分类似于“程序=算法&#43;语言”。自然界在创造如单晶矿石等晶体物质时候，基元是具体的物质内容，而由抽象的点构成的布拉维格子则是生成晶体的数学“算法”。按照指定的算法，将基元周期排列展开，就形成万千固态材料。
-  布拉维格子有若干彼此等价的定义：
-(a) 直观定义：布拉维格子是格点的无限周期排列，其中每一个点都等价，即从任何一个格点看出去，周边的环境（从最近邻格点一直到无穷远处）都严格相同。
-(b) 数学定义：布拉维格子中的任意格点都可以表示为$R = \sum_i n_i \textbf{a}_i &#43; r_0$，且公式不产生不属于格子中的点。式中${ a_i }$为$d$个（$d$为空间维度）线性无关的向量，称为初基矢量（primitive vector）。$r_0$为某常数，当原点取在任一格点上时$r_0=0$。
-(c) 抽象定义：在加法下封闭的不共面矢量集合构成布拉维格子。
-    一般格子
-  常见二维格子有正方格子，三角格子，六角格子等。
-  正方和三角为布拉维格子，六角格子为非布拉维格子，可以将两个点（下图中红色和蓝色）看做一个基元，按照其三角布拉维格子将其“生成”出来。因此，不难看出，六角格子是两套三角布拉维格子嵌套而成，有时人们称这类非布拉维格子为复式格子。
-  单元素晶体将原子视为基元，其微观周期结构可能为布拉维格子或复式格子；多元素晶体总需要将多个原子视为基元，按照布拉维格子周期排列生成。
-          正方格子 三角格子 六角格子      常见三维格子有简单立方，面心立方，体心立方，六角密堆积等。"><meta property="og:image" content="https://wlibuaa.github.io/images/logo_huf78e711280e2ffb29500bba5b0998b63_67904_300x300_fit_lanczos_2.png">
+  <meta property="og:url" content="https://wlibuaa.github.io/courses/ssp2020/chapter2/">
+  <meta property="og:title" content="第二章 晶体衍射 | Li Group">
+  <meta property="og:description" content="X-Ray Diffraction 1. 倒易点阵 (Reciprocal lattice)       2. 劳厄方程与布拉格定律     3. 晶格元胞、填充率与晶面指数       Slides &amp; Video   Slides for Chapter 2 can be downloaded (to be updated)
+  Video lectures (two, by Sandro Scandolo, ICTP), please click the icon below.
+  Lecture 05    Discussions  An online discussion (c.a. 30 &#43; 30 min, via Wechat or Dingtalk) will be arranged."><meta property="og:image" content="https://wlibuaa.github.io/images/logo_huf78e711280e2ffb29500bba5b0998b63_67904_300x300_fit_lanczos_2.png">
   <meta property="twitter:image" content="https://wlibuaa.github.io/images/logo_huf78e711280e2ffb29500bba5b0998b63_67904_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
   
     
@@ -315,7 +293,7 @@
 
 
 
-  <title>第一章 晶体结构 | Li Group</title>
+  <title>第二章 晶体衍射 | Li Group</title>
 
 </head>
 
@@ -635,11 +613,11 @@
         <a href="/courses/ssp2020/chapter0/">Chapter 0</a>
       </li>
       
-      <li class="active">
+      <li >
         <a href="/courses/ssp2020/chapter1/">Chapter 1</a>
       </li>
       
-      <li >
+      <li class="active">
         <a href="/courses/ssp2020/chapter2/">Chapter 2</a>
       </li>
       
@@ -661,10 +639,10 @@
 
       <nav id="TableOfContents">
   <ul>
-    <li><a href="#crystal-structure">Crystal Structure</a>
+    <li><a href="#x-ray-diffraction">X-Ray Diffraction</a>
       <ul>
-        <li><a href="#1-晶体结构的基本概念">1. 晶体结构的基本概念</a></li>
-        <li><a href="#2-晶系分类">2. 晶系分类</a></li>
+        <li><a href="#1-倒易点阵-reciprocal-lattice">1. 倒易点阵 (Reciprocal lattice)</a></li>
+        <li><a href="#2-劳厄方程与布拉格定律">2. 劳厄方程与布拉格定律</a></li>
         <li><a href="#3-晶格元胞填充率与晶面指数">3. 晶格元胞、填充率与晶面指数</a></li>
       </ul>
     </li>
@@ -683,157 +661,39 @@
       <article class="article">
 
         <div class="docs-article-container">
-          <h1>第一章 晶体结构</h1>
+          <h1>第二章 晶体衍射</h1>
 
           <div class="article-style">
-            <h2 id="crystal-structure">Crystal Structure</h2>
-<h3 id="1-晶体结构的基本概念"><em><strong>1. 晶体结构的基本概念</strong></em></h3>
+            <h2 id="x-ray-diffraction">X-Ray Diffraction</h2>
+<h3 id="1-倒易点阵-reciprocal-lattice">1. 倒易点阵 (Reciprocal lattice)</h3>
 <ul>
-<li>
-<p>晶体从外观上能够识别吗？需要从微观层面考察晶体的微观结构！</p>
-<table>
-<thead>
-<tr>
-<th><img src="/courses/ssp2020/figs/amethyst.jpg" alt="紫水晶"></th>
-<th><img src="/courses/ssp2020/figs/ion.jpg" alt="金属"></th>
-<th><img src="/courses/ssp2020/figs/glasscrystal.jpg" alt="玻璃"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>紫水晶</td>
-<td>金属铁</td>
-<td>玻璃制品</td>
-</tr>
-</tbody>
-</table>
-</li>
-<li>
-<p>布拉维格子（Bravais lattice）：晶体生成的美妙算法</p>
-<ul>
-<li>
-<p>在漂亮的晶体之下，是原子有序排列的微观结构。</p>
-</li>
-<li>
-<p><strong>晶体结构=布拉维格子+基元</strong></p>
-<p>此表述十分类似于“程序=算法+语言”。自然界在创造如单晶矿石等晶体物质时候，基元是具体的物质内容，而由抽象的点构成的布拉维格子则是生成晶体的数学“算法”。按照指定的算法，将基元周期排列展开，就形成万千固态材料。</p>
-</li>
-<li>
-<p>布拉维格子有若干彼此等价的定义：</p>
-<p>(a) 直观定义：布拉维格子是格点的无限周期排列，其中每一个点都等价，即从任何一个格点看出去，周边的环境（从最近邻格点一直到无穷远处）都严格相同。</p>
-<p>(b) 数学定义：布拉维格子中的任意格点都可以表示为$R = \sum_i n_i \textbf{a}_i + r_0$，且公式不产生不属于格子中的点。式中${ a_i }$为$d$个（$d$为空间维度）线性无关的向量，称为初基矢量（primitive vector）。$r_0$为某常数，当原点取在任一格点上时$r_0=0$。</p>
-<p>(c) 抽象定义：在加法下封闭的不共面矢量集合构成布拉维格子。</p>
-</li>
+<li></li>
 </ul>
-</li>
-<li>
-<p>一般格子</p>
 <ul>
-<li>
-<p>常见二维格子有正方格子，三角格子，六角格子等。</p>
-</li>
-<li>
-<p>正方和三角为布拉维格子，六角格子为非布拉维格子，可以将两个点（下图中红色和蓝色）看做一个基元，按照其三角布拉维格子将其“生成”出来。因此，不难看出，六角格子是两套三角布拉维格子嵌套而成，有时人们称这类非布拉维格子为复式格子。</p>
-</li>
-<li>
-<p>单元素晶体将原子视为基元，其微观周期结构可能为布拉维格子或复式格子；多元素晶体总需要将多个原子视为基元，按照布拉维格子周期排列生成。</p>
-<table>
-<thead>
-<tr>
-<th><img src="/courses/ssp2020/figs/squarelatt.png" style="zoom:60%;" name="square"/></th>
-<th><img src="/courses/ssp2020/figs/trianlatt.jpeg" alt="triangular"></th>
-<th><img src="/courses/ssp2020/figs/honeycomblatt.jpeg" alt="honeycomb"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>正方格子</td>
-<td>三角格子</td>
-<td>六角格子</td>
-</tr>
-</tbody>
-</table>
-</li>
-<li>
-<p>常见三维格子有简单立方，面心立方，体心立方，六角密堆积等。</p>
-</li>
+<li></li>
 </ul>
-</li>
-</ul>
-<h3 id="2-晶系分类">2. 晶系分类</h3>
+<h3 id="2-劳厄方程与布拉格定律">2. 劳厄方程与布拉格定律</h3>
 <ul>
-<li>
-<p>二维布拉维格子：4大晶系（crystal family）5种布拉维格子</p>
-<p><img src="/courses/ssp2020/figs/2DBravLatt.jpg" alt="二维布拉维格子"></p>
-<ul>
-<li>单斜晶系(monoclinic net)：元胞为普通平行四边形</li>
-<li>正交晶系(orthorhombic net)：元胞为长方形，包含简单长方和面心长方两种</li>
-<li>六角晶系(hexagonal net)：元胞为菱形，初基矢量长度相等且夹60度（或120度）角</li>
-<li>四角晶系(tetragonal net)：元胞为正方形</li>
-</ul>
-</li>
-<li>
-<p>三维布拉维格子：7大晶系，14种布拉维格子</p>
-<p><img src="/courses/ssp2020/figs/3DBravLatt.jpg" alt="三维布拉维格子"></p>
-<ul>
-<li>固体物理八卦一则：Frankenheim (1842) miscounted this number as 15, A. Bravais is the first one get a right counting (1845).</li>
-</ul>
-</li>
+<li></li>
+<li></li>
 </ul>
 <h3 id="3-晶格元胞填充率与晶面指数">3. 晶格元胞、填充率与晶面指数</h3>
 <ul>
-<li>
-<p>元胞（unit cell）与魏格纳-赛兹元胞（ Wigner-Seitz cell）</p>
-<ul>
-<li>
-<p>元胞是由布拉维格子初基矢量所构造的平行六面体（三维）或平行四边形（二维），元胞通过平移可以覆盖二维布拉维格子。</p>
-</li>
-<li>
-<p>Recipes for defining the <strong>unit cell</strong> of crystal</p>
-<ol>
-<li>For a Bravais lattice, an unit cell is the <em>parallelepiped</em> constructed out of its <em>primitive</em> vectors.</li>
-<li>For a general (Bravais or non-Bravais) lattice or real crystals, the unit cell can be constructed by (1) first identifying its underlying Bravais lattice <em>BL</em> (coule be itself in the simplest case) and (2) building up the unit cell using the primitive vectors of <em>BL</em>.</li>
-<li>Some Bravais lattice, e.g., FCC or BCC, conventionally one is used to identify the cube containing more than 1 lattice points as its conventional unit cell.  Otherwise, we always follow rule 2 for defininng an unit cell of crystal structures.</li>
-</ol>
-</li>
-<li>
-<p>Definition of Wigner-Seitz cell</p>
-<ul>
-<li>
-<p>The geometric points that are nearest to the origin Bravais lattice point <strong>R</strong>=0 than to  any other Bravais lattice points.</p>
-</li>
-<li>
-<p>Practical definitionn: the space contained by bisection lines/surfaces of the origin point to other Bravais lattice points.</p>
-<p><img src="/courses/ssp2020/figs/wscell2d.jpeg" alt="2D WS cell"></p>
-<p><img src="/courses/ssp2020/figs/wscell3d.jpg" alt="3D WS cell"></p>
-</li>
+<li></li>
 </ul>
-</li>
-</ul>
-</li>
+<ul>
+<li></li>
 </ul>
 <h2 id="slides--video">Slides &amp; Video</h2>
 <ul>
 <li>
-<p>Slides for Chapter 1 can be downloaded (please click the BIG icon below)</p>
-<p>
-<a href="/courses/ssp2020/slides/slidesc1.pdf"><img src="/courses/ssp2020/figs/coverc1.jpg" alt="" title="Wei Li"></a></p>
+<p>Slides for Chapter 2 can be downloaded (to be updated)</p>
 </li>
 <li>
 <p>Video lectures (two, by Sandro Scandolo, ICTP), please click the icon below.</p>
 <ul>
 <li>
-<p>
-<a href="https://www.bilibili.com/video/av47845416?p=2" target="_blank" rel="noopener">Lecture 02</a></p>
-</li>
-<li>
-<p>
-<a href="https://www.bilibili.com/video/av47845416?p=3" target="_blank" rel="noopener">Lecture 03</a></p>
-</li>
-<li>
-<p>
-<a href="https://www.bilibili.com/video/av47845416?p=4" target="_blank" rel="noopener">Lecture 04</a></p>
-</li>
+<a href="https://www.bilibili.com/video/av47845416?p=5" target="_blank" rel="noopener">Lecture 05</a></li>
 </ul>
 </li>
 </ul>
@@ -842,11 +702,9 @@
 <li>An online discussion (c.a. 30 + 30 min, via Wechat or Dingtalk) will be arranged.</li>
 </ul>
 <h2 id="homework">Homework</h2>
-<ol>
-<li>作为二维布拉维格子4大晶系的一组，四角晶系为何只有简单正方格子而无面心正方？同样，为何三维布拉维格子中只有体心四角而不存在底心四角格子？为何又存在底心正交？</li>
-<li>作为一种有趣的二维材料晶格，kagome格子备受关注。其结构如图所示，请问其布拉维格子属于哪一种？并计算填充率(filling rate)。</li>
-</ol>
-<p><img src="/courses/ssp2020/figs/kagome.jpg" alt="kagome"></p>
+<ul>
+<li>to be announced</li>
+</ul>
 
           </div>
 
@@ -862,8 +720,15 @@
   
   
   <div class="post-nav-item">
+    <div class="meta-nav">Previous</div>
+    <a href="/courses/ssp2020/chapter1/" rel="next">第一章 晶体结构</a>
+  </div>
+  
+  
+  
+  <div class="post-nav-item">
     <div class="meta-nav">Next</div>
-    <a href="/courses/ssp2020/chapter2/" rel="prev">第二章 晶体衍射</a>
+    <a href="/courses/ssp2020/chapter0/" rel="prev">第0章 固体物理引论</a>
   </div>
   
 </div>
@@ -885,7 +750,7 @@
   
 
 <p class="edit-page">
-  <a href="https://github.com/gcushen/hugo-academic/edit/master/content/courses/ssp2020/Chapter1.md">
+  <a href="https://github.com/gcushen/hugo-academic/edit/master/content/courses/ssp2020/Chapter2.md">
     <i class="fas fa-pen pr-2"></i>Edit this page
   </a>
 </p>

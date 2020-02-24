@@ -182,6 +182,55 @@
     </item>
     
     <item>
+      <title>第二章 晶体衍射</title>
+      <link>https://wlibuaa.github.io/courses/ssp2020/chapter2/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>https://wlibuaa.github.io/courses/ssp2020/chapter2/</guid>
+      <description>&lt;h2 id=&#34;x-ray-diffraction&#34;&gt;X-Ray Diffraction&lt;/h2&gt;
+&lt;h3 id=&#34;1-倒易点阵-reciprocal-lattice&#34;&gt;1. 倒易点阵 (Reciprocal lattice)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-劳厄方程与布拉格定律&#34;&gt;2. 劳厄方程与布拉格定律&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-晶格元胞填充率与晶面指数&#34;&gt;3. 晶格元胞、填充率与晶面指数&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;slides--video&#34;&gt;Slides &amp;amp; Video&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Slides for Chapter 2 can be downloaded (to be updated)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Video lectures (two, by Sandro Scandolo, ICTP), please click the icon below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 05&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;discussions&#34;&gt;Discussions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An online discussion (c.a. 30 + 30 min, via Wechat or Dingtalk) will be arranged.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;to be announced&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>第0章 固体物理引论</title>
       <link>https://wlibuaa.github.io/courses/ssp2020/chapter0/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0100</pubDate>
@@ -189,19 +238,35 @@
       <description>&lt;h2 id=&#34;introduction-to-solid-state-physics&#34;&gt;Introduction to Solid State Physics&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;从固体物理到凝聚态物理：多学科交叉的物理学重要分支&lt;/p&gt;
+&lt;p&gt;从&lt;strong&gt;固体物理&lt;/strong&gt;到&lt;strong&gt;凝聚态物理&lt;/strong&gt;：多学科交叉的物理学重要分支&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;固体物理采用量子力学、统计力学等方法研究刚体物质（固体）的性质，发展出了格波与声子理论、能带论、超导BCS理论、朗道-金兹堡对称破缺理论等重要方法和框架，极大拓展了人们对固体物质认识的广度和深度。&lt;/li&gt;
-&lt;li&gt;固体物理是凝聚态物理的核心部分，后者将固体和液体的研究统一在一门学科之中。固体物理学所包含的知识是材料工业、纳米科技、磁性器件、半导体工业等的支撑和基础，也是时下方兴未艾的量子计算等新兴技术的核心和重要基础。&lt;/li&gt;
-&lt;li&gt;先修课程：量子力学（及原子物理），统计物理（及热学）。&lt;/li&gt;
+&lt;li&gt;固体物理采用&lt;strong&gt;量子力学&lt;/strong&gt;、&lt;strong&gt;热力学与统计力学&lt;/strong&gt;等方法研究具有一定刚度的物质（固体）的性质，发展出了格波与声子理论、能带论、超导BCS理论、朗道-金兹堡对称破缺理论等重要方法和框架，极大拓展了人们对固体物质认识的广度和深度。&lt;/li&gt;
+&lt;li&gt;固体与液体的主要区别是固体具有一定的剪切强度，而液体没有。通俗的说，固体具有一定的形状，而液体没有。固体和液体统称凝聚态，将液体、软物质等研究纳入研究领域，固体物理在80年代实现了跨越式学科发展，进入“凝聚态物理“时代。但凝聚态物理的核心和主体内容仍是固体物理（为什么？）。&lt;/li&gt;
+&lt;li&gt;固体物理学的主要分支包括半导体、磁学、超导、表面物理等，固体物理的知识是材料工业、纳米科技、信息工业、能源工业等的基础和支撑，也是空间探测、量子计算等新兴技术的核心和重要基础。&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://new.qq.com/omn/20190312/20190312A0BSMP.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;学科诞生记：凝聚态物理的兴起&lt;/a&gt; (英文原文
+&lt;a href=&#34;https://physicstoday.scitation.org/doi/pdf/10.1063/PT.3.4110&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Physics Today: When Condensed Matter Physics Became King&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;演生（Emergent）现象及其物理：从原子到固体&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;涌现&lt;/strong&gt;（Emergence）及其物理：从原子到固体&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;简明的固体模型：有序排列的原子，以电磁相互作用结合，形成固态物质。&lt;/li&gt;
 &lt;li&gt;丰富的现象涌现：宏观尺度形形色色的固态性质，通过原子间的相互作用从微观尺度涌现出来。&lt;/li&gt;
 &lt;li&gt;单晶体（single crystal）：原子规则排列“无限”延伸形成宏观大小的单晶体。完美的单晶不仅仅对称而美好，更是简明固体物理模型的理想实现（model material）。测量单晶材料的物理性质，可以最有效地验证固体物理的预言，单晶也常常能够理想地获得固态理论预言的优良材料性能。&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://new.qq.com/omn/20200223/20200223A0DFN000.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;向涛—物理世界话演生&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/refs/anderson1972.pdf&#34;&gt;P. Anderson—More is Different&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;万物之理（Theory of Everything，ToE）&lt;/strong&gt;：原则上，通过求解固体模型的多体薛定谔方程，可以解释自然界中所有固态物质极其丰富的如力学、电磁学、热学性质等物理性质。&lt;/p&gt;
+&lt;p&gt;固态ToE的方程涉及多体相互作用。求解多体量子力学薛定谔方程的困难程度和计算资源，随着研究对象规模的增长而指数增加，无法直接求解。需要通分离变量，采取恰当的近似求解得到相应的&lt;strong&gt;固态理论&lt;/strong&gt;，如声子理论与电子能带理论等。&lt;/p&gt;
+&lt;p&gt;&lt;img align=&#39;center&#39; src=&#39;https://wlibuaa.github.io/courses/ssp2020/figs/ToE.png&#39; width=&#39;700&#39; hspace=&#39;24&#39; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;声子理论&lt;/strong&gt;：晶格离子实相互作用，振动在晶格中传播，形成格波，并激发能量量子——声子。提供了我们理解&lt;em&gt;反常固体比热&lt;/em&gt;的重要量子图像，结合非谐效应并从而能够理解固体的热胀冷缩。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;能带理论&lt;/strong&gt;：通过波恩-奥本海默近似进一步简化ToE，将电子和离子实的运动分离开，电子运动在晶格离子实提供的周期电磁势场中，形成特殊的色散关系，即电子能带。电子能带理论提供了我们理解金属、绝缘体、半导体等提供了统一的&lt;em&gt;标准模型&lt;/em&gt;。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -214,26 +279,13 @@
 &lt;tr&gt;
 &lt;td&gt;石英石单晶（天然）&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av18581752/?spm_id_from=333.788.videocard.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;五水合硫酸铜单晶（合成）&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;https://www.bilibili.com/video/av18581752/?spm_id_from=333.788.videocard.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;五水合硫酸铜单晶（人工生长）&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;万物之理（Theory of Everything，ToE）&lt;/strong&gt;：原则上，通过求解固体模型的多体薛定谔方程，可以解释自然界中所有固态物质极其丰富的如力学、电磁学、热学性质等物理性质。&lt;/p&gt;
-&lt;p&gt;固态ToE的方程涉及多体相互作用。求解多体量子力学薛定谔方程的困难程度和计算资源，随着研究对象规模的增长而指数增加，无法直接求解。需要通分离变量，采取恰当的近似求解得到相应的&lt;strong&gt;固态理论&lt;/strong&gt;，如声子理论与电子能带理论等。&lt;/p&gt;
-&lt;p&gt;&lt;img align=&#39;center&#39; src=&#39;https://wlibuaa.github.io/courses/ssp2020/figs/ToE.png&#39; width=&#39;700&#39; hspace=&#39;24&#39; /&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;声子理论&lt;/strong&gt;：晶格离子实相互作用，振动在晶格中传播，形成格波，并激发能量量子——声子。提供了我们理解&lt;em&gt;反常固体比热&lt;/em&gt;的重要量子图像，结合非谐效应并从而能够理解固体的热胀冷缩。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;能带理论&lt;/strong&gt;：通过波恩-奥本海默近似进一步简化ToE，将电子和离子实的运动分离开，电子运动在晶格离子实提供的周期电磁势场中，形成特殊的色散关系，即电子能带。电子能带理论提供了我们理解金属、绝缘体、半导体等提供了统一的&lt;em&gt;标准模型&lt;/em&gt;。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;超越固体物理的“标准模型”框架&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;超越固体物理的“标准模型”框架&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;以能带论、金兹堡-朗道平均场理论等为代表的固态理论构成我们理解物质世界形形色色的物态与材料的基本框架，类似于粒子物理中的“标准模型”。而量子霍尔效应、高温超导、拓扑磁性物态等新奇的发现则揭开了超越超越这个基本框架的“新物理”—关联多体物理，固体物理研究朝向非微扰、极端纠缠的量子物态新领域发展。&lt;/li&gt;
 &lt;li&gt;固态物理学（solid state physics）— 凝聚态物理学（condensed matter physics）— &lt;strong&gt;量子物态科学&lt;/strong&gt;（quantum matter science）&lt;/li&gt;
@@ -265,10 +317,13 @@
 &lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;What is the chemical constituent of quartz and glass? Please try to discuss main differences between the two materials?&lt;/p&gt;
+&lt;p&gt;阅读P. Anderson的&amp;quot;More is different&amp;quot;一文。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;What is single crystal and where do they usually show up in Nature (instead of Lab)? Please name a few natural sinlge-crystal materials on earth.&lt;/p&gt;
+&lt;p&gt;石英与玻璃的化学成分是什么？是什么将二者区分开来？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;自然界的单晶往往在何处能够找到? 请举3例你所熟悉的地球上天然形成的单晶物质。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Justification of &lt;em&gt;Bonn-Oppenheimer approximation&lt;/em&gt;: Please estimate the electron speed orbiting ion (using &lt;em&gt;quantum mechanics&lt;/em&gt;), and please compare it with the speed of ions.&lt;/p&gt;
