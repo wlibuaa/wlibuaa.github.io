@@ -28,20 +28,20 @@
   
     
   
-  <meta name="description" content="Crystal Structure 1. 晶体结构的基本概念   晶体从外观上能够识别吗？需要从微观层面考察晶体的微观结构！
-          紫水晶 金属铁 玻璃制品      布拉维格子（Bravais lattice）：晶体生成的美妙算法
+  <meta name="description" content="Crystal Structure 1. 晶体结构的基本概念   布拉维格子（Bravais lattice）：晶体的美妙算法
   在漂亮的晶体之下，是原子有序排列的微观结构。
-  晶体结构=布拉维格子&#43;基元
-此表述十分类似于“程序=算法&#43;语言”。自然界在创造如单晶矿石等晶体物质时候，基元是具体的物质内容，而由抽象的点构成的布拉维格子则是生成晶体的数学“算法”。按照指定的算法，将基元周期排列展开，就形成万千固态材料。
+        非凡一念：晶体不断细分，由同样晶面角度、与整体具有相似形状的元胞      晶体结构=布拉维格子&#43;基元
+类似于“程序=算法&#43;语言”：自然界在创造如单晶矿石等晶体物质时候，基元是具体的物质内容，而由抽象的点构成的布拉维格子则是生成晶体的数学“算法”。按照指定的算法，将基元周期排列展开，就形成万千固态材料。
   布拉维格子有若干彼此等价的定义：
-(a) 直观定义：布拉维格子是格点的无限周期排列，其中每一个点都等价，即从任何一个格点看出去，周边的环境（从最近邻格点一直到无穷远处）都严格相同。
+(a) 直观定义：布拉维格子是格点的无限周期排列，其中每一个点都等价。即从任何一个格点看出去，晶格都是一模一样的，周边的环境都严格相同。
 (b) 数学定义：布拉维格子中的任意格点都可以表示为$R = \sum_i n_i \textbf{a}_i &#43; r_0$，且公式不产生不属于格子中的点。式中${ a_i }$为$d$个（$d$为空间维度）线性无关的向量，称为初基矢量（primitive vector）。$r_0$为某常数，当原点取在任一格点上时$r_0=0$。
 (c) 抽象定义：在加法下封闭的不共面矢量集合构成布拉维格子。
-    一般格子
-  常见二维格子有正方格子，三角格子，六角格子等。
-  正方和三角为布拉维格子，六角格子为非布拉维格子，可以将两个点（下图中红色和蓝色）看做一个基元，按照其三角布拉维格子将其“生成”出来。因此，不难看出，六角格子是两套三角布拉维格子嵌套而成，有时人们称这类非布拉维格子为复式格子。
-  单元素晶体将原子视为基元，其微观周期结构可能为布拉维格子或复式格子；多元素晶体总需要将多个原子视为基元，按照布拉维格子周期排列生成。
-          正方格子 三角格子 六角格子      常见三维格子有简单立方，面心立方，体心立方，六角密堆积等。">
+  非布拉维格子的描述：
+非布拉维格子中的任意格点都可以表示为$R = \sum_i n_i \textbf{a}_i &#43; \sum_j r_j$，表示先按照初基矢量集合{$\textbf{a}_i$}访问最近的布拉维格点，然后再按照{$r_j$}依次访问基元中$n$个不同的点（$j$从0跑到$n-1$）。
+    常见二维格子
+  并非所有周期排列的格子都是布拉维格子。如下图所示，正方和三角为布拉维格子，但六角格子为非布拉维格子。
+  可以将六角格子中的两个点（下图中红色和蓝色）看做一个基元，按照三角布拉维格子将其“生成”出来。因此，六角格子可以视为两套三角布拉维格子嵌套而成，有时人们称这类非布拉维格子为复式格子。
+  单元素晶体将原子视为基元，其微观周期结构可能为布拉维格子或复式格子；多元素晶体总需要将多个原子视为基元，按照布拉维格子周期排列生成。">
 
   
   <link rel="alternate" hreflang="en-us" href="https://wlibuaa.github.io/courses/ssp2020/chapter1/">
@@ -247,20 +247,20 @@
   <meta property="og:site_name" content="Li Group">
   <meta property="og:url" content="https://wlibuaa.github.io/courses/ssp2020/chapter1/">
   <meta property="og:title" content="第一章 晶体结构 | Li Group">
-  <meta property="og:description" content="Crystal Structure 1. 晶体结构的基本概念   晶体从外观上能够识别吗？需要从微观层面考察晶体的微观结构！
-          紫水晶 金属铁 玻璃制品      布拉维格子（Bravais lattice）：晶体生成的美妙算法
+  <meta property="og:description" content="Crystal Structure 1. 晶体结构的基本概念   布拉维格子（Bravais lattice）：晶体的美妙算法
   在漂亮的晶体之下，是原子有序排列的微观结构。
-  晶体结构=布拉维格子&#43;基元
-此表述十分类似于“程序=算法&#43;语言”。自然界在创造如单晶矿石等晶体物质时候，基元是具体的物质内容，而由抽象的点构成的布拉维格子则是生成晶体的数学“算法”。按照指定的算法，将基元周期排列展开，就形成万千固态材料。
+        非凡一念：晶体不断细分，由同样晶面角度、与整体具有相似形状的元胞      晶体结构=布拉维格子&#43;基元
+类似于“程序=算法&#43;语言”：自然界在创造如单晶矿石等晶体物质时候，基元是具体的物质内容，而由抽象的点构成的布拉维格子则是生成晶体的数学“算法”。按照指定的算法，将基元周期排列展开，就形成万千固态材料。
   布拉维格子有若干彼此等价的定义：
-(a) 直观定义：布拉维格子是格点的无限周期排列，其中每一个点都等价，即从任何一个格点看出去，周边的环境（从最近邻格点一直到无穷远处）都严格相同。
+(a) 直观定义：布拉维格子是格点的无限周期排列，其中每一个点都等价。即从任何一个格点看出去，晶格都是一模一样的，周边的环境都严格相同。
 (b) 数学定义：布拉维格子中的任意格点都可以表示为$R = \sum_i n_i \textbf{a}_i &#43; r_0$，且公式不产生不属于格子中的点。式中${ a_i }$为$d$个（$d$为空间维度）线性无关的向量，称为初基矢量（primitive vector）。$r_0$为某常数，当原点取在任一格点上时$r_0=0$。
 (c) 抽象定义：在加法下封闭的不共面矢量集合构成布拉维格子。
-    一般格子
-  常见二维格子有正方格子，三角格子，六角格子等。
-  正方和三角为布拉维格子，六角格子为非布拉维格子，可以将两个点（下图中红色和蓝色）看做一个基元，按照其三角布拉维格子将其“生成”出来。因此，不难看出，六角格子是两套三角布拉维格子嵌套而成，有时人们称这类非布拉维格子为复式格子。
-  单元素晶体将原子视为基元，其微观周期结构可能为布拉维格子或复式格子；多元素晶体总需要将多个原子视为基元，按照布拉维格子周期排列生成。
-          正方格子 三角格子 六角格子      常见三维格子有简单立方，面心立方，体心立方，六角密堆积等。"><meta property="og:image" content="https://wlibuaa.github.io/images/logo_huf78e711280e2ffb29500bba5b0998b63_67904_300x300_fit_lanczos_2.png">
+  非布拉维格子的描述：
+非布拉维格子中的任意格点都可以表示为$R = \sum_i n_i \textbf{a}_i &#43; \sum_j r_j$，表示先按照初基矢量集合{$\textbf{a}_i$}访问最近的布拉维格点，然后再按照{$r_j$}依次访问基元中$n$个不同的点（$j$从0跑到$n-1$）。
+    常见二维格子
+  并非所有周期排列的格子都是布拉维格子。如下图所示，正方和三角为布拉维格子，但六角格子为非布拉维格子。
+  可以将六角格子中的两个点（下图中红色和蓝色）看做一个基元，按照三角布拉维格子将其“生成”出来。因此，六角格子可以视为两套三角布拉维格子嵌套而成，有时人们称这类非布拉维格子为复式格子。
+  单元素晶体将原子视为基元，其微观周期结构可能为布拉维格子或复式格子；多元素晶体总需要将多个原子视为基元，按照布拉维格子周期排列生成。"><meta property="og:image" content="https://wlibuaa.github.io/images/logo_huf78e711280e2ffb29500bba5b0998b63_67904_300x300_fit_lanczos_2.png">
   <meta property="twitter:image" content="https://wlibuaa.github.io/images/logo_huf78e711280e2ffb29500bba5b0998b63_67904_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
   
     
@@ -664,8 +664,9 @@
     <li><a href="#crystal-structure">Crystal Structure</a>
       <ul>
         <li><a href="#1-晶体结构的基本概念">1. 晶体结构的基本概念</a></li>
-        <li><a href="#2-晶系分类">2. 晶系分类</a></li>
+        <li><a href="#2-常见晶体结构">2. 常见晶体结构</a></li>
         <li><a href="#3-晶格元胞填充率与晶面指数">3. 晶格元胞、填充率与晶面指数</a></li>
+        <li><a href="#4-晶系分类与对称性">4. 晶系分类与对称性</a></li>
       </ul>
     </li>
     <li><a href="#slides--video">Slides & Video</a></li>
@@ -688,52 +689,50 @@
           <div class="article-style">
             <h2 id="crystal-structure">Crystal Structure</h2>
 <h3 id="1-晶体结构的基本概念"><em><strong>1. 晶体结构的基本概念</strong></em></h3>
+<img src="/courses/ssp2020/figs/quartz3.jpeg" style="zoom:55%;" name="square"/>
 <ul>
 <li>
-<p>晶体从外观上能够识别吗？需要从微观层面考察晶体的微观结构！</p>
+<p>布拉维格子（Bravais lattice）：晶体的美妙算法</p>
+<ul>
+<li>
+<p>在漂亮的晶体之下，是原子有序排列的微观结构。</p>
 <table>
 <thead>
 <tr>
-<th><img src="/courses/ssp2020/figs/amethyst.jpg" alt="紫水晶"></th>
-<th><img src="/courses/ssp2020/figs/ion.jpg" alt="金属"></th>
-<th><img src="/courses/ssp2020/figs/glasscrystal.jpg" alt="玻璃"></th>
+<th align="center"><img src="/courses/ssp2020/figs/grains.jpg" style="zoom:80%;"/></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>紫水晶</td>
-<td>金属铁</td>
-<td>玻璃制品</td>
+<td align="center">非凡一念：晶体不断细分，由同样晶面角度、与整体具有相似形状的元胞</td>
 </tr>
 </tbody>
 </table>
 </li>
 <li>
-<p>布拉维格子（Bravais lattice）：晶体生成的美妙算法</p>
-<ul>
-<li>
-<p>在漂亮的晶体之下，是原子有序排列的微观结构。</p>
-</li>
-<li>
 <p><strong>晶体结构=布拉维格子+基元</strong></p>
-<p>此表述十分类似于“程序=算法+语言”。自然界在创造如单晶矿石等晶体物质时候，基元是具体的物质内容，而由抽象的点构成的布拉维格子则是生成晶体的数学“算法”。按照指定的算法，将基元周期排列展开，就形成万千固态材料。</p>
+<p>类似于“程序=算法+语言”：自然界在创造如单晶矿石等晶体物质时候，基元是具体的物质内容，而由抽象的点构成的布拉维格子则是生成晶体的数学“算法”。按照指定的算法，将基元周期排列展开，就形成万千固态材料。</p>
 </li>
 <li>
 <p>布拉维格子有若干彼此等价的定义：</p>
-<p>(a) 直观定义：布拉维格子是格点的无限周期排列，其中每一个点都等价，即从任何一个格点看出去，周边的环境（从最近邻格点一直到无穷远处）都严格相同。</p>
+<p>(a) 直观定义：布拉维格子是格点的无限周期排列，其中每一个点都等价。即从任何一个格点看出去，晶格都是一模一样的，周边的环境都严格相同。</p>
 <p>(b) 数学定义：布拉维格子中的任意格点都可以表示为$R = \sum_i n_i \textbf{a}_i + r_0$，且公式不产生不属于格子中的点。式中${ a_i }$为$d$个（$d$为空间维度）线性无关的向量，称为初基矢量（primitive vector）。$r_0$为某常数，当原点取在任一格点上时$r_0=0$。</p>
 <p>(c) 抽象定义：在加法下封闭的不共面矢量集合构成布拉维格子。</p>
+</li>
+<li>
+<p>非布拉维格子的描述：</p>
+<p>非布拉维格子中的任意格点都可以表示为$R = \sum_i n_i \textbf{a}_i + \sum_j r_j$，表示先按照初基矢量集合{$\textbf{a}_i$}访问最近的布拉维格点，然后再按照{$r_j$}依次访问基元中$n$个不同的点（$j$从0跑到$n-1$）。</p>
 </li>
 </ul>
 </li>
 <li>
-<p>一般格子</p>
+<p>常见二维格子</p>
 <ul>
 <li>
-<p>常见二维格子有正方格子，三角格子，六角格子等。</p>
+<p>并非所有周期排列的格子都是布拉维格子。如下图所示，正方和三角为布拉维格子，但六角格子为非布拉维格子。</p>
 </li>
 <li>
-<p>正方和三角为布拉维格子，六角格子为非布拉维格子，可以将两个点（下图中红色和蓝色）看做一个基元，按照其三角布拉维格子将其“生成”出来。因此，不难看出，六角格子是两套三角布拉维格子嵌套而成，有时人们称这类非布拉维格子为复式格子。</p>
+<p>可以将六角格子中的两个点（下图中红色和蓝色）看做一个基元，按照三角布拉维格子将其“生成”出来。因此，六角格子可以视为两套三角布拉维格子嵌套而成，有时人们称这类非布拉维格子为复式格子。</p>
 </li>
 <li>
 <p>单元素晶体将原子视为基元，其微观周期结构可能为布拉维格子或复式格子；多元素晶体总需要将多个原子视为基元，按照布拉维格子周期排列生成。</p>
@@ -754,32 +753,211 @@
 </tbody>
 </table>
 </li>
+</ul>
+</li>
+<li>
+<p>常见三维格子</p>
+<ul>
 <li>
 <p>常见三维格子有简单立方，面心立方，体心立方，六角密堆积等。</p>
+<table>
+<thead>
+<tr>
+<th><img src="/courses/ssp2020/figs/simplecubic.png" style="zoom:60%;" /></th>
+<th><img src="/courses/ssp2020/figs/bcc.png" style="zoom:55%;" /></th>
+<th><img src="/courses/ssp2020/figs/fcc.png" style="zoom:45%;" /></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>简单立方(Simple Cubic, SC)</td>
+<td>体心立方(Body-Centered Cubic, BCC)</td>
+<td>面心立方(Face-Centered Cubic, FCC)</td>
+</tr>
+</tbody>
+</table>
+<p>​	上述三种三维晶格，简单立方，体心立方，和面心立方，均为布拉维格子，每个基元仅仅包含一个原子。但有时为了方便讨论，会将体心立方与面心立方中的若干原子组合视为基元，按照简单立方布拉维格子展开生成，更好地体现了体心和面心立方的对称性，使用更为方便习惯(conventional)。</p>
+</li>
+<li>
+<p>密堆积结构是一类非常特殊的晶体结构，常见的有六角密堆积和面心立方（没错，就是上面提到的BCC！）。</p>
+<table>
+<thead>
+<tr>
+<th><img src="/courses/ssp2020/figs/closepacking0.png" style="zoom:75%;"/></th>
+<th><img src="/courses/ssp2020/figs/hcp.png" style="zoom:60%;"/></th>
+<th><img src="/courses/ssp2020/figs/fcc2.png" style="zoom:55%;"/></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>密堆积</td>
+<td>六方密堆积(Hexagonal Compact Packing, HCP)</td>
+<td>面心立方(Face-Centered Cubic, FCC)</td>
+</tr>
+</tbody>
+</table>
+<p>从密堆积方式理解两种结构</p>
+<table>
+<thead>
+<tr>
+<th><img src="/courses/ssp2020/figs/closepacking.png" style="zoom:60%;"/></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>密堆积的A、B、C三种占位点</td>
+</tr>
+<tr>
+<td><img src="/courses/ssp2020/figs/closepacking2.png" style="zoom:60%;"/></td>
+</tr>
+<tr>
+<td>两种不同的密堆积分别形成六方密堆积和面心立方（还有无数种密堆积方式）</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ul>
 </li>
 </ul>
-<h3 id="2-晶系分类">2. 晶系分类</h3>
+<hr>
+<h3 id="2-常见晶体结构">2. 常见晶体结构</h3>
+<p>下面列举几种常见的晶体材料结构。</p>
 <ul>
 <li>
-<p>二维布拉维格子：4大晶系（crystal family）5种布拉维格子</p>
-<p><img src="/courses/ssp2020/figs/2DBravLatt.jpg" alt="二维布拉维格子"></p>
+<p>金刚石结构</p>
+<table>
+<thead>
+<tr>
+<th><img src="/courses/ssp2020/figs/diamond0.jpg" style="zoom:45%;"/></th>
+<th><img src="/courses/ssp2020/figs/diamond.png" style="zoom:65%;"/></th>
+<th><img src="/courses/ssp2020/figs/diamond1.png" style="zoom:95%;"/></th>
+<th><img src="/courses/ssp2020/figs/zincblende.png" style="zoom:65%;"/></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>金刚石</td>
+<td>$a=3.57 \overset{\circ}{\rm{A}}$</td>
+<td>俯视图</td>
+<td>类似结构：闪锌矿</td>
+</tr>
+</tbody>
+</table>
 <ul>
-<li>单斜晶系(monoclinic net)：元胞为普通平行四边形</li>
-<li>正交晶系(orthorhombic net)：元胞为长方形，包含简单长方和面心长方两种</li>
-<li>六角晶系(hexagonal net)：元胞为菱形，初基矢量长度相等且夹60度（或120度）角</li>
-<li>四角晶系(tetragonal net)：元胞为正方形</li>
+<li>
+<p>金刚石结构由单质碳（C）组成，具有非常高的硬度。类似的单质结构还有硅（Si，$a=5.43 \overset{\circ}{\rm{A}}$），锗（Ge，$a=5.66 \overset{\circ}{\rm{A}}$）等晶体。</p>
+</li>
+<li>
+<p>典型的闪锌矿结构晶体包括：碳化硅（SiC，$a=4.35 \overset{\circ}{\rm{A}}$），砷化镓（GaAs，$a=5.65 \overset{\circ}{\rm{A}}$）等晶体。</p>
+</li>
+<li>
+<p>将每个碳原子视为抽象点，金刚石结构并非布拉维格子</p>
+</li>
+<li>
+<p>选取2个碳原子组成基元（$r_0=(0,0,0)$和$r_1=(1/4,1/4,1/4)$），对应布拉维格子为面心立方</p>
+</li>
+<li>
+<p>选取8个碳原子为基元（如何选取 {$r_j$}?），对应布拉维格子为简单立方。</p>
+</li>
 </ul>
 </li>
 <li>
-<p>三维布拉维格子：7大晶系，14种布拉维格子</p>
-<p><img src="/courses/ssp2020/figs/3DBravLatt.jpg" alt="三维布拉维格子"></p>
+<p>NaCl晶体结构</p>
+<table>
+<thead>
+<tr>
+<th><img src="/courses/ssp2020/figs/nacl0.png" style="zoom:90%;"/></th>
+<th><img src="/courses/ssp2020/figs/nacl.png" style="zoom:60%;"/></th>
+<th align="left"><img src="/courses/ssp2020/figs/nacl1.jpg" style="zoom:180%;"/></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>食盐晶体</td>
+<td>$a=5.63\overset{\circ}{\rm{A}}$</td>
+<td align="left">硬球模型</td>
+</tr>
+</tbody>
+</table>
 <ul>
-<li>固体物理八卦一则：Frankenheim (1842) miscounted this number as 15, A. Bravais is the first one get a right counting (1845).</li>
+<li>具有和食盐类似晶体结构的有：氧化镁（MgO，$a=4.20\overset{\circ}{\rm{A}}$），氯化钾（KCl，$a=6.29\overset{\circ}{\rm{A}}$）等晶体。</li>
+<li>氯化钠晶体由Na和Cl两种元素组成，取二者各1组成基元，则布拉维格子为面心立方。</li>
 </ul>
 </li>
+<li>
+<p>CsCl晶体结构</p>
+<table>
+<thead>
+<tr>
+<th><img src="/courses/ssp2020/figs/cscl0.png" style="zoom:50%;"/></th>
+<th><img src="/courses/ssp2020/figs/cscl.png" style="zoom:60%;"/></th>
+<th><img src="/courses/ssp2020/figs/cscl1.jpg" style="zoom:190%;"/></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>氯化铯晶体</td>
+<td>$a=4.11 \overset{\circ}{\rm{A}}$</td>
+<td>硬球模型</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>
+<p>粉末状的样品由微小的单晶组成。</p>
+</li>
+<li>
+<p>取Cs和Cl两种元素个1个原子组成基元，则布拉维格子为简单立方（注意：CsCl晶体不是体心立方结构）。</p>
+</li>
 </ul>
+</li>
+<li>
+<p>二维晶体材料——石墨烯（单层石墨）</p>
+<table>
+<thead>
+<tr>
+<th><img src="/courses/ssp2020/figs/graphene0.png" style="zoom:80%;"/></th>
+<th><img src="/courses/ssp2020/figs/graphene.jpeg" style="zoom:150%;"/></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>石墨烯的扫描隧道显微镜照片</td>
+<td>单层石墨烯结构示意图</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>英国物理学家安德烈·盖姆和康斯坦丁·诺沃肖洛夫，用微机械剥离法成功从石墨中分离出石墨烯。共同获得
+<a href="https://www.nobelprize.org/prizes/physics/2010/summary/" target="_blank" rel="noopener">2010年诺贝尔物理学奖</a>。</li>
+<li>石墨烯具有高强度，高电导等优异的材料性能。</li>
+</ul>
+</li>
+<li>
+<p>双层魔转角石墨烯</p>
+</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th><img src="/courses/ssp2020/figs/BTGNature.jpeg" style="zoom:10%;"/></th>
+<th><img src="/courses/ssp2020/figs/BTG.jpg" style="zoom:150%;"/></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>莫里超晶格</td>
+<td>AA，AB，BA, BB 标记不同区域</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>由于双层魔转角石墨烯的独特
+<a href="https://www.nature.com/articles/nature26154" target="_blank" rel="noopener">电子关联性质</a>和
+<a href="https://www.nature.com/articles/nature26160" target="_blank" rel="noopener">非常规超导电性</a>，引起了凝聚态物理学界的广泛关注，可以阅读
+<a href="https://physicstoday.scitation.org/doi/pdf/10.1063/PT.3.4384" target="_blank" rel="noopener">Physics Today</a>的科普文章。</li>
+</ul>
+<hr>
 <h3 id="3-晶格元胞填充率与晶面指数">3. 晶格元胞、填充率与晶面指数</h3>
 <ul>
 <li>
@@ -809,6 +987,27 @@
 </li>
 </ul>
 </li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="4-晶系分类与对称性">4. 晶系分类与对称性</h3>
+<ul>
+<li>
+<p>二维布拉维格子：4大晶系（crystal family）5种布拉维格子</p>
+<p><img src="/courses/ssp2020/figs/2DBravLatt.jpg" alt="二维布拉维格子"></p>
+<ul>
+<li>单斜晶系(monoclinic net)：元胞为普通平行四边形</li>
+<li>正交晶系(orthorhombic net)：元胞为长方形，包含简单长方和面心长方两种</li>
+<li>六角晶系(hexagonal net)：元胞为菱形，初基矢量长度相等且夹60度（或120度）角</li>
+<li>四角晶系(tetragonal net)：元胞为正方形</li>
+</ul>
+</li>
+<li>
+<p>三维布拉维格子：7大晶系，14种布拉维格子</p>
+<p><img src="/courses/ssp2020/figs/3DBravLatt.jpg" alt="三维布拉维格子"></p>
+<ul>
+<li>固体物理八卦一则：Frankenheim (1842) miscounted this number as 15, A. Bravais is the first one get a right counting (1845).</li>
 </ul>
 </li>
 </ul>
@@ -842,8 +1041,12 @@
 <li>An online discussion (c.a. 30 + 30 min, via Wechat or Dingtalk) will be arranged.</li>
 </ul>
 <h2 id="homework">Homework</h2>
-<ol>
-<li>作为二维布拉维格子4大晶系的一组，四角晶系为何只有简单正方格子而无面心正方？同样，为何三维布拉维格子中只有体心四角而不存在底心四角格子？为何又存在底心正交？</li>
+<ol start="0">
+<li>一维布拉维晶格有多少种？</li>
+<li>请阅读关于石墨烯的
+<a href="https://www.nobelprize.org/uploads/2018/06/popular-physicsprize2010.pdf" target="_blank" rel="noopener">公众介绍材料</a>与
+<a href="https://www.nobelprize.org/uploads/2018/06/advanced-physicsprize2010.pdf" target="_blank" rel="noopener">科学背景材料</a>，并提交阅读笔记。</li>
+<li>作为二维布拉维格子4大晶系的一组，四角晶系为何只有简单正方格子而无面心正方？同样，为何三维布拉维格子中只有体心四方而不存在底心四方格子？为何又存在底心正交？</li>
 <li>作为一种有趣的二维材料晶格，kagome格子备受关注。其结构如图所示，请问其布拉维格子属于哪一种？并计算填充率(filling rate)。</li>
 </ol>
 <p><img src="/courses/ssp2020/figs/kagome.jpg" alt="kagome"></p>
