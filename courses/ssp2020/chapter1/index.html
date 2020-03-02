@@ -665,8 +665,9 @@
       <ul>
         <li><a href="#1-晶体结构的基本概念">1. 晶体结构的基本概念</a></li>
         <li><a href="#2-常见晶体结构">2. 常见晶体结构</a></li>
-        <li><a href="#3-晶格原胞填充率与晶面指数">3. 晶格原胞、填充率与晶面指数</a></li>
+        <li><a href="#3-原胞晶胞和填充率">3. 原胞、晶胞和填充率</a></li>
         <li><a href="#4-晶系分类与对称性">4. 晶系分类与对称性</a></li>
+        <li><a href="#5-晶向与晶面指数">5. 晶向与晶面指数</a></li>
       </ul>
     </li>
     <li><a href="#slides--video">Slides & Video</a></li>
@@ -962,7 +963,7 @@
 <a href="https://physicstoday.scitation.org/doi/pdf/10.1063/PT.3.4384" target="_blank" rel="noopener">Physics Today</a> 的科普文章。</li>
 </ul>
 <hr>
-<h3 id="3-晶格原胞填充率与晶面指数">3. 晶格原胞、填充率与晶面指数</h3>
+<h3 id="3-原胞晶胞和填充率">3. 原胞、晶胞和填充率</h3>
 <ul>
 <li>
 <p>原胞（unit cell）与晶胞</p>
@@ -980,12 +981,8 @@
 <p>初基原胞</p>
 <img src="/courses/ssp2020/figs/unitcelloblq.jpg" style="zoom:90%;"/>
 <ul>
-<li>
-<p>（初基）原胞的选取不唯一，但面积相等，且仅包含一个基元（格点）。</p>
-</li>
-<li>
-<p><em>问题：上图中哪几个是合法的元胞？哪几个不是？</em></p>
-</li>
+<li>（初基）原胞的选取不唯一，但面积相等，且仅包含一个基元（格点）。</li>
+<li><em>问题：上图中哪几个是合法的元胞？哪几个不是？</em></li>
 </ul>
 </li>
 <li>
@@ -1019,7 +1016,7 @@
 </thead>
 <tbody>
 <tr>
-<td>立方晶系三个成员的初基原胞和惯用原胞简单立方，体心立方与面心立方</td>
+<td>立方晶系三个成员（简单立方，体心立方与面心立方）的初基原胞和惯用原胞</td>
 </tr>
 </tbody>
 </table>
@@ -1031,21 +1028,40 @@
 </ul>
 </li>
 <li>
-<p>魏格纳-赛兹元胞（ Wigner-Seitz cell）</p>
+<p>魏格纳-赛兹原胞（ Wigner-Seitz unit cell）</p>
+<table>
+<thead>
+<tr>
+<th><img src="/courses/ssp2020/figs/wscell2d.jpeg" style="zoom:100%;"/></th>
+<th><img src="/courses/ssp2020/figs/wscell3d.jpg" style="zoom:80%;"/></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>二维晶格的魏格纳赛兹原胞</td>
+<td>三维晶格（面心立方和体心立方）的魏格纳赛兹原胞（正十二面体、截角八面体）</td>
+</tr>
+</tbody>
+</table>
 <ul>
 <li>
-<p>Definition of Wigner-Seitz cell</p>
-<ul>
-<li>
-<p>The geometric points that are nearest to the origin Bravais lattice point <strong>R</strong>=0 than to  any other Bravais lattice points.</p>
+<p>魏格纳-赛兹原胞是这样的空间点的集合：即他们离布拉维格点<strong>R</strong>=0比离其他任何布拉维格点都近。</p>
 </li>
 <li>
-<p>Practical definitionn: the space contained by bisection lines/surfaces of the origin point to other Bravais lattice points.</p>
-<p><img src="/courses/ssp2020/figs/wscell2d.jpeg" alt="2D WS cell"></p>
-<p><img src="/courses/ssp2020/figs/wscell3d.jpg" alt="3D WS cell"></p>
+<p>操作定义：被一个布拉维格点（原点）到其他所有格点所做的连线的平分线或平分面所包围的最小空间。</p>
+</li>
+<li>
+<p><strong>问题</strong> ：简单正方、简单立方格子的魏格纳-赛兹原胞是什么？</p>
 </li>
 </ul>
 </li>
+<li>
+<p>填充率计算（参见Sandro的视频讲义，以及喻舜尧同学的
+<a href="/courses/ssp2020/notes/2020-02-11-P4.pdf">笔记</a>）</p>
+<ul>
+<li>布拉维格子：填充率=硬球的体积/原胞体积 （<em>二维格子为面积比</em>）</li>
+<li>非布拉维格子：硬球体积需要乘以原胞中的硬球数目</li>
+<li>重要数字：二维密堆积填充率三角格子最大（$\frac{\sqrt{3} \pi}{6} \simeq$ 89%）；三维的密堆积填充率为$\frac{\sqrt{2} \pi}{6} \simeq $ 74%。</li>
 </ul>
 </li>
 </ul>
@@ -1066,10 +1082,42 @@
 <p>三维布拉维格子：7大晶系，14种布拉维格子</p>
 <p><img src="/courses/ssp2020/figs/3DBravLatt.jpg" alt="三维布拉维格子"></p>
 <ul>
-<li>固体物理八卦一则：Frankenheim (1842) miscounted this number as 15, A. Bravais is the first one get a right counting (1845).</li>
+<li>固体物理八卦一则：Frankenheim (1842) miscounted this number as 15, A. Bravais is the first one who gets a right counting (1845).</li>
 </ul>
 </li>
 </ul>
+<hr>
+<h3 id="5-晶向与晶面指数">5. 晶向与晶面指数</h3>
+<ul>
+<li>
+<p>布拉维格子中从某个格点（原点）指向另一个格点的矢量为晶向。互相平行的原子链称为晶向族[h,k,l]，布拉维格子可以分解为晶向族（<em>为什么？</em>）。</p>
+</li>
+<li>
+<p>布拉维格子可以分解为彼此平行的晶面族。</p>
+<p><img src="/courses/ssp2020/figs/millerindex.jpg" alt="三维布拉维格子"></p>
+</li>
+<li>
+<p><strong>定理：</strong> 三维布拉维格子的任意晶面均为二维布拉维格子。</p>
+<p>因此三维布拉维格子可以被解理为二维布拉维晶面的堆砌。这些二维晶面按照不平行于晶面的晶格矢量“移动”，可以既不重复也不遗漏的覆盖整个三维晶格。</p>
+</li>
+<li>
+<p><strong>晶面指数操作定义：</strong> 选择某个布拉维格子为原点，同时选择一组初基矢量作为坐标轴，然后测量晶面族中任意一个成员（靠近原点为佳）在三个坐标轴上的截距$h,k,l$。则晶面指数为$(\frac{1}{h}, \frac{1}{k}, \frac{1}{l})$，为方便记，通常将三个分数通分后取整数。</p>
+<p><img src="/courses/ssp2020/figs/millerindexprac.jpg" alt="晶面指数"></p>
+</li>
+<li>
+<p>(1,0,0)晶面为平行于$y-z$平面的晶面，(1,0,0)与(0,1,0) ，(0,0,1)晶面等实质等价。(1,1,0)为平行$z$轴且与$x$，$y$轴各夹$\pm$45<sup>o</sup>的平行晶面族，依次类推。但是需要特别注意(1,1,2)晶面（如何证明其是一个合法的晶面编号？），与$z$轴截距处没有格点（即晶面指数的上述计算规则不必在坐标轴上切过格点）。</p>
+</li>
+<li>
+<p>**问题：**面心立方是哪个面堆叠起来形成密堆积结构的？（或者问，面心立方密堆面的晶面指数是什么）</p>
+</li>
+<li>
+<p>对于体心立方和面心立方，通常不取初基矢量为轴，而是取惯用原胞的三个互相正交的$\hat{x}, \hat{y}, \hat{z} $ 方向为轴。这种对应惯用原胞取法的晶面指数称为米勒（Miller）指数。</p>
+</li>
+<li>
+<p><strong>延伸：</strong> 隐藏在操作定义背后的是引入与晶面垂直的法向方向来标记晶面。在引入倒格子（reciprocal lattice）的概念后，我们会证明晶面指数恰好定义了倒格子中的一族晶向，使得后者与晶面垂直。在立方晶系的情况下，倒格子的初基矢量与正格子相同，可以证明[h,k,l]晶向与(h,k,l)晶面垂直。</p>
+</li>
+</ul>
+<hr>
 <h2 id="slides--video">Slides &amp; Video</h2>
 <ul>
 <li>
@@ -1101,14 +1149,28 @@
 </ul>
 <h2 id="homework">Homework</h2>
 <ol start="0">
-<li>一维布拉维晶格有多少种？</li>
-<li>请阅读关于石墨烯的
+<li>
+<p>一维布拉维晶格有多少种？</p>
+</li>
+<li>
+<p>请阅读关于石墨烯的
 <a href="https://www.nobelprize.org/uploads/2018/06/popular-physicsprize2010.pdf" target="_blank" rel="noopener">公众介绍材料</a>与
-<a href="https://www.nobelprize.org/uploads/2018/06/advanced-physicsprize2010.pdf" target="_blank" rel="noopener">科学背景材料</a>，并提交阅读笔记。</li>
-<li>作为二维布拉维格子4大晶系的一组，四角晶系为何只有简单正方格子而无面心正方？同样，为何三维布拉维格子中只有体心四方而不存在底心四方格子？为何又存在底心正交？</li>
-<li>作为一种有趣的二维材料晶格，kagome格子备受关注。其结构如图所示，请问其布拉维格子属于哪一种？并计算填充率(filling rate)。</li>
+<a href="https://www.nobelprize.org/uploads/2018/06/advanced-physicsprize2010.pdf" target="_blank" rel="noopener">科学背景材料</a>，并提交阅读笔记。</p>
+</li>
 </ol>
-<p><img src="/courses/ssp2020/figs/kagome.jpg" alt="kagome"></p>
+<hr>
+<ol start="2">
+<li>
+<p>a) 三角格子的魏格纳赛兹原胞是什么？计算魏格纳赛兹原胞的边长及面积。b) 六方密堆积结构的魏格纳赛兹原胞及体积为何？（晶格常数，等于密堆积的硬球直径，设为单位1）</p>
+</li>
+<li>
+<p>作为一种有趣的二维材料晶格，kagome格子备受关注。其结构如图所示，请问其布拉维格子属于哪一种？并计算填充率(filling rate)。</p>
+<img src="/courses/ssp2020/figs/kagome.jpg" style="zoom:60%;"/>
+</li>
+<li>
+<p>作为二维布拉维格子4大晶系的一组，四角晶系为何只有简单正方格子而无面心正方？同样，为何三维布拉维格子中只有体心四方而不存在底心四方格子？为何又存在底心正交？</p>
+</li>
+</ol>
 
           </div>
 
