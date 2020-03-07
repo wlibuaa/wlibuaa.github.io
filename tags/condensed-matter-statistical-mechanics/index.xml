@@ -5,7 +5,7 @@
     <link>https://wlibuaa.github.io/tags/condensed-matter-statistical-mechanics/</link>
       <atom:link href="https://wlibuaa.github.io/tags/condensed-matter-statistical-mechanics/index.xml" rel="self" type="application/rss+xml" />
     <description>Condensed Matter - Statistical Mechanics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wlibuaa.github.io/images/logo_huf78e711280e2ffb29500bba5b0998b63_67904_300x300_fit_lanczos_2.png</url>
       <title>Condensed Matter - Statistical Mechanics</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>The Ghost of a Vanishing Stripe Order in the Triangular Quantum Ising Magnet TmMgGaO$_4$</title>
+      <title>Kosterlitz-Thouless melting of magnetic order in the triangular quantum Ising material TmMgGaO$_4$</title>
       <link>https://wlibuaa.github.io/publication/li-2019-c/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://wlibuaa.github.io/publication/li-2019-c/</guid>
-      <description></description>
+      <description>&lt;p&gt;TmMgGaO&lt;sub&gt;4&lt;/sub&gt; is one of a number of recently-synthesized quantum magnets that are proposed to realize important theoretical models. Here the authors demonstrate the agreement between detailed experimental measurements and state-of-the-art predictions based on the 2D transverse field triangular lattice Ising model.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
