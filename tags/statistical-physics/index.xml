@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical Physics | Li Group</title>
+    <link>https://wlibuaa.github.io/tags/statistical-physics/</link>
+      <atom:link href="https://wlibuaa.github.io/tags/statistical-physics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistical Physics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wlibuaa.github.io/images/logo_huf78e711280e2ffb29500bba5b0998b63_67904_300x300_fit_lanczos_2.png</url>
+      <title>Statistical Physics</title>
+      <link>https://wlibuaa.github.io/tags/statistical-physics/</link>
+    </image>
+    
+    <item>
+      <title>Thermal Tensor Renormalization Group Simulations of Square-Lattice Quantum Spin Models</title>
+      <link>https://wlibuaa.github.io/publication/li-2019-c/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2019-c/</guid>
+      <description>&lt;p&gt;In this work, we benchmark the well-controlled and numerically accurate exponential thermal tensor renormalization group (XTRG) in the simulation of interacting spin models in two dimensions. Finite temperature introduces a finite thermal correlation length $\xi$, such that for system sizes $L \gg \xi$ finite-size calculations actually simulate the thermodynamic limit. In this paper, we focus on the square lattice Heisenberg antiferromagnet (SLH) and quantum Ising models (QIM) on open and cylindrical geometries up to width W=10. We explore various one-dimensional mapping paths in the matrix product operator (MPO) representation, whose performance is clearly shown to be geometry dependent. We benchmark against quantum Monte Carlo (QMC) data, yet also the series-expansion thermal tensor network results. Thermal properties including the internal energy, specific heat, and spin structure factors, etc. are computed with high precision, obtaining excellent agreement with QMC results. XTRG also allows us to reach remarkably low temperatures. For SLH, we obtain an energy per site $u_g^&lt;em&gt;$≃−0.6694(4) and a spontaneous magnetization $m_S^&lt;/em&gt;\simeq$0.30(1) already consistent with the ground-state properties, which is obtained from extrapolated low-T thermal data on W≤8 cylinders and W≤10 open strips, respectively. We extract an exponential divergence versus T of the structure factor S(M), as well as the correlation length ξ, at the ordering wave vector M=(π,π), which represents the renormalized classical behavior and can be observed over a narrow but appreciable temperature window, by analyzing the finite-size data by XTRG simulations. For the QIM with a finite-temperature phase transition, we employ several thermal quantities, including the specific heat, Binder ratio, as well as the MPO entanglement to determine the critical temperature $T_c$.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
