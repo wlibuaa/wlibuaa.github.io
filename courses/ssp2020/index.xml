@@ -1344,7 +1344,7 @@
 &lt;p&gt;根据勒纳德-琼斯势，计算平衡位置$R_0$，以及结合能$U(R_0)$的表达式。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;为维持离子晶体稳定，需要在最近邻离子之间除静电吸引相互作用之外，引入排斥相互作用 (a) $\lambda e^{-R/\rho}$（$\rho$为特征长度）或 (b) $B/R^n$（$B$为某常数，$n$为某正整数）。假设马德隆常数为$\alpha$，请针对(a,b)两种情况，写下平衡位置$R_0$需要满足的方程，并计算在平衡位置处的马德隆能。&lt;/p&gt;
+&lt;p&gt;为维持NaCl晶体稳定，除静电吸引相互作用之外，需在最近邻离子之间引入排斥相互作用，有两种引入方式： (a) $\lambda e^{-R/\rho}$（$\rho$为特征长度）或 (b) $B/R^n$（$B$为某常数，$n$为某正整数）。假设马德隆常数为$\alpha$，请考虑(a)和(b)两种不同的排斥势，写下平衡位置$R_0$需要满足的方程，并计算在平衡位置处的马德隆能。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;计算(a)二维正方格子，(b)六角格子上的马德隆常数。&lt;/p&gt;
@@ -1362,7 +1362,7 @@
 &lt;/table&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;[assigned: 17-March-2020, due: 24-March-2020]&lt;/p&gt;
+&lt;p&gt;[assigned: 20-March-2020, due: 27-March-2020]&lt;/p&gt;
 </description>
     </item>
     
