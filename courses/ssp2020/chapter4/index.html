@@ -879,12 +879,12 @@
 <li>
 <p>对于晶体系统，波矢 $q$ 与 $q+G$ 为等价波矢，其中 $G= m \frac{2\pi}{a}$ 为倒格矢。</p>
 <ul>
-<li>格点位移$u_n = Ae^{i(q+G) na} = Ae^{iq na}$。</li>
-<li>色散关系$\omega(q+G) = 2 \sqrt{\frac{\beta}{M}} |\sin{(\frac{qa}{2}+\frac{Ga}{2})}| =\omega(q) $</li>
+<li>格点位移 $u_n = Ae^{i(q+G) na} = Ae^{iq na}$。</li>
+<li>色散关系 $\omega(q+G) = 2 \sqrt{\frac{\beta}{M}} |\sin{(\frac{qa}{2}+\frac{Ga}{2})}| =\omega(q) $</li>
 </ul>
 </li>
 <li>
-<p>考虑到原子位移和色散关系等晶格振动对 $q$ 的周期性，因此 $q \in [-\pi/a, \pi/a]$ 的点来代表所有运动模式，称为布里渊区。</p>
+<p>考虑到原子位移和色散关系等晶格振动对 $q$ 的周期性，因此可以选取区间 $q \in [-\pi/a, \pi/a]$ 内的点来代表所有运动模式，称为布里渊区。</p>
 <ul>
 <li>
 <p>在第一布里渊区内存在振动模式数目为 $\frac{2\pi/a}{2\pi/Na} = N$ ，与格点数目相等。无论是数实空间变量数目 ${u_n}$ 还是 $q$ 空间振动模式，<strong>总自由度不变</strong>。</p>
@@ -978,26 +978,59 @@
 <thead>
 <tr>
 <th><img src="/courses/ssp2020/figs/acoustic.jpg" style="zoom:105%;" name="square"/></th>
-<th><img src="/courses/ssp2020/figs/optic.jpg" style="zoom:110%;" name="square"/></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>声学支: 零能激发无能隙</td>
+<td>声学支: 零能激发无能隙，线性色散。</td>
+</tr>
+<tr>
+<td><img src="/courses/ssp2020/figs/optic.jpg" style="zoom:110%;" name="square"/></td>
+</tr>
+<tr>
 <td>光学支：低能激发有能隙$\sqrt{\frac{2\beta}{\mu}}$，$\mu = \frac{mM}{m+M}$</td>
 </tr>
 </tbody>
 </table>
 <ul>
 <li>
-<p>声学支：双原子质心做类似单原子链运动</p>
+<p>长波声学支图像</p>
+<p>求解久期方程得到本征能量后，可以求得振幅$A,B$的比值</p>
+<p>$A/B = [ 2\beta - M \omega^2 ]/[2 \beta \cos(qa)]$</p>
+<p>在长波声学支解中，取$q\to 0$（同时$\omega \to 0$）：</p>
+<p>$A/B \simeq 1$</p>
+<table>
+<thead>
+<tr>
+<th><img src="/courses/ssp2020/figs/acoustic_illus.png" style="zoom:90%;" name="square"/></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>双原子质心做类似单原子链运动</td>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
-<p>光学支：双原子围绕质心振动，容易被电磁波激发</p>
+<p>长波光学支图像</p>
+<p>$A/B \simeq [2\beta - M \frac{2 \beta}{mM} (M+m)]/2\beta = -\frac{m}{M}$</p>
+<p>因此光学支长波振动中质心不动：$A M + B m = 0$。</p>
+<table>
+<thead>
+<tr>
+<th><img src="/courses/ssp2020/figs/optic_illus.png" style="zoom:70%;" name="square"/></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>双原子围绕质心振动，容易被电磁波激发</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ul>
 </li>
-<li></li>
 </ul>
 <hr>
 <h3 id="4-正规模式与声子激发">4. 正规模式与声子激发</h3>
@@ -1022,7 +1055,7 @@
 <ul>
 <li>
 <p>Slides for Chapter 3 can be downloaded 
-<a href="/courses/ssp2020/slides/slidesc3.pdf"><img src="/courses/ssp2020/figs/coverc3.jpg" alt="here" title="Wei Li"></a></p>
+<a href="/courses/ssp2020/slides/slidesc4.pdf"><img src="/courses/ssp2020/figs/coverc4.jpg" alt="here" title="Wei Li"></a></p>
 </li>
 <li>
 <p>Video lectures (two, by Sandro Scandolo, ICTP), please click the icon below.</p>
@@ -1045,7 +1078,7 @@
 <p>$\frac{d^2 u}{d t^2} = v^2 \frac{d^2 u}{d x^2}$，其中$v$为弹性波的波速。</p>
 </li>
 <li>
-<p>考虑一个两周期原子链，耦合弹性系数按照$\beta_1$和$\beta_2$交替，写出自旋链的运动方程，并求解器本征运动模式。</p>
+<p>考虑一个两周期原子链，耦合弹性系数按照$\beta_1$和$\beta_2$交替，写出自旋链的运动方程，并求解器本征运动模式和本征能量。</p>
 </li>
 </ol>
 <p>[assigned: XX-March-2020, due: XX-March-2020]</p>
