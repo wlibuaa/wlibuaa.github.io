@@ -364,7 +364,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;4-正规模式与声子激发&#34;&gt;4. 正规模式与声子激发&lt;/h3&gt;
+&lt;h3 id=&#34;4-正规模式与格波量子化&#34;&gt;4. 正规模式与格波量子化&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -409,7 +409,7 @@
 &lt;p&gt;$\frac{d^2 u}{d t^2} = v^2 \frac{d^2 u}{d x^2}$，其中$v$为弹性波的波速。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;考虑一个两周期原子链，耦合弹性系数按照$\beta_1$和$\beta_2$交替，写出自旋链的运动方程，并求解器本征运动模式和本征能量。&lt;/p&gt;
+&lt;p&gt;考虑一个两周期原子链，耦合弹性系数按照$\beta_1$和$\beta_2$交替，写出原子链的运动方程，并求解本征运动模式和本征能量。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;[assigned: XX-March-2020, due: XX-March-2020]&lt;/p&gt;
