@@ -316,7 +316,7 @@
 &lt;td&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/optic.jpg&#34; style=&#34;zoom:110%;&#34; name=&#34;square&#34;/&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;光学支：低能激发有能隙$\sqrt{\frac{2\beta}{\mu}}$，$\mu = \frac{mM}{m+M}$&lt;/td&gt;
+&lt;td&gt;光学支：长波光学支激发能隙 $\sqrt{\frac{2\beta}{\mu}}$，$\mu = \frac{mM}{m+M}$&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -409,7 +409,10 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;5-三维晶格振动模与声子态密度&#34;&gt;5. 三维晶格振动模与声子态密度&lt;/h3&gt;
+&lt;h3 id=&#34;5-长波极限下的一维自由玻色场&#34;&gt;5. 长波极限下的一维自由玻色场&lt;/h3&gt;
+&lt;p&gt;上面介绍的是分立情况下的量子化过程。在有些情况下，先取连续极限，写成经典场然后将其量子化的做法，推导更为简明清晰，下面介绍这部分内容。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;6-三维晶格振动模与声子态密度&#34;&gt;6. 三维晶格振动模与声子态密度&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;li&gt;&lt;/li&gt;
