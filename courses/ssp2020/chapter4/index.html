@@ -664,7 +664,6 @@
         <li><a href="#3-双原子链声学支与光学支">3. 双原子链：声学支与光学支</a></li>
         <li><a href="#4-简正模式与格波量子化">4. 简正模式与格波量子化</a></li>
         <li><a href="#5-长波极限下的一维自由玻色场">5. 长波极限下的一维自由玻色场</a></li>
-        <li><a href="#6-三维晶格振动模与声子态密度">6. 三维晶格振动模与声子态密度</a></li>
       </ul>
     </li>
     <li><a href="#slides--video">Slides & Video</a></li>
@@ -929,7 +928,7 @@
 <thead>
 <tr>
 <th>$ 2\beta - m \omega^2 $</th>
-<th align="left">$ 2 \beta \cos(qa) $</th>
+<th align="left">$- 2 \beta \cos(qa) $</th>
 </tr>
 </thead>
 <tbody>
@@ -1052,18 +1051,19 @@
 </li>
 <li>
 <p>哈密顿量</p>
-<p>$H = T + V  = 2M \sum_q \omega_q^2 a_q a_q^*$</p>
+<p>$H = T + V  = M \sum_q \omega_q^2 (a_q a_q^* + a_q^* a_q)$</p>
 </li>
 <li>
 <p>引入（实）简正坐标 $x_q$与共轭动量$p_q$</p>
-<p>$x_q = a_q + q_q^*, p_q = \frac{M\omega_q}{i} (a_q - a_q^*)$</p>
+<p>$x_q = a_q + a_q^*$</p>
+<p>$p_q = \frac{M\omega_q}{i} (a_q - a_q^*)$</p>
 <p>其逆变换为</p>
 <p>$a_q = \frac{1}{2} (x_q + \frac{i}{M\omega_q} p_q)$</p>
 <p>$a_q^* = \frac{1}{2} (x_q - \frac{i}{M\omega_q} p_q)$</p>
 </li>
 <li>
 <p>使用简正坐标，可以将哈密顿量表达为简正模式之和</p>
-<p>$H =  \frac{M}{2} \sum_q  \omega_q^2 (x_q^2 + \frac{1}{M^2 \omega^2}) p^2_q = \sum_q \frac{M}{2} \omega_q^2 x_q^2 + \frac{p^2_q}{2M}$</p>
+<p>$H =  \frac{M}{2} \sum_q  \omega_q^2 (x_q^2 + \frac{1}{M^2 \omega^2} p^2_q) = \sum_q \frac{M}{2} \omega_q^2 x_q^2 + \frac{p^2_q}{2M}$</p>
 </li>
 <li>
 <p>简正模式量子化与声子</p>
@@ -1078,13 +1078,104 @@
 </ul>
 <hr>
 <h3 id="5-长波极限下的一维自由玻色场">5. 长波极限下的一维自由玻色场</h3>
-<p>上面介绍的是分立情况下的量子化过程。在有些情况下，先取连续极限，写成经典场然后将其量子化的做法，推导更为简明清晰，下面介绍这部分内容。</p>
-<hr>
-<h3 id="6-三维晶格振动模与声子态密度">6. 三维晶格振动模与声子态密度</h3>
+<p>上面介绍的是分立情况下的量子化过程。在有些情况下，先取连续极限，写成经典场然后将其做正则量子化的过程，推导更为简明、系统，下面介绍这部分内容。</p>
 <ul>
-<li></li>
-<li></li>
-<li></li>
+<li>
+<p>先写下晶格振动的拉格朗日量：</p>
+<p>$L = T - V = \sum_{n=1}^{N} \frac{m \dot{u}_n^2}{2} - \frac{\beta}{2} (u_{n+1} - u_n)^2$</p>
+</li>
+<li>
+<p>从凝聚态物理的现代视角，我们特别关心系统的低能激发，在晶格振动问题上，这对应着长波极限，因此我们取连续极限将分立$u_n$映射成经典连续场$\phi(x)$，其中：</p>
+<p>$u_n \rightarrow a^{1/2} \phi(x)$，其中$1/2$为标度维度(scaling dimension)</p>
+<p>$u_{n+1} - u_n \rightarrow a^{3/2} \partial_x \phi$，标度维度为$3/2$</p>
+<p>$\sum_n \rightarrow \frac{1}{a} \int_0^L dx$，其中 $L = Na$</p>
+</li>
+<li>
+<p>拉氏量：$L = \int_{0}^{L} \mathcal{L}(\phi, \partial_x \phi, \dot{\phi}) dx $，其中 $\mathcal{L}(\phi, \partial_x \phi, \dot{\phi}) = \frac{m}{2} \dot{\phi}^2 - \frac{\beta a^2}{2} (\partial_x \phi)^2$ 为拉氏密度。</p>
+</li>
+<li>
+<p><strong>经典场论</strong></p>
+<ul>
+<li>
+<p>作用量$S[\phi] = \int dt \int dx \mathcal{L}(\phi, \partial_x \phi, \dot{\phi})$</p>
+</li>
+<li>
+<p>作用量极小原理  $\delta S[\phi] = 0$可以推导出拉式运动方程：</p>
+<p>​	$\phi(x,t) \rightarrow \phi(x,t) + \eta(x,t) \cdot \epsilon$</p>
+</li>
+<li>
+<p>$\delta S = \int dt \int dx [\frac{m}{2} (\dot{\phi} + \epsilon \dot{\eta})^2 -\frac{\beta a^2}{2}(\partial_x \phi + \epsilon \partial_x \eta )^2 -\frac{m}{2} \dot{\phi}^2 + \frac{\beta a^2}{2} (\partial_x \phi)^2 ] $</p>
+</li>
+<li>
+<p>忽略$\epsilon^2$以上高阶项，可以得到：</p>
+<p>$ \int dx \int dt  \epsilon (m \dot{\phi} \dot{\eta} - \beta a^2 \partial_x \phi  \partial_x \eta) =0$</p>
+<p>分步积分，并假定$\eta(x,t)$在无穷远处（积分的上下界处）为0，即得：</p>
+<p>$m \partial^2_t \phi - \beta a^2 \partial^2_x \phi = 0$，场的拉氏运动方程（波动方程）。</p>
+</li>
+<li>
+<p>波动方程的一般解：$\phi_{\pm}(x \mp vt) $，代入运动方程不难得到：</p>
+<p>$m v^2 \partial^2_t \phi_{\pm} - \beta a^2 \partial^2_x \phi_{\pm} = 0$</p>
+<p>即：$v = a \sqrt{\frac{\beta}{m}}$。</p>
+</li>
+<li>
+<p>不失一般性，可以选取平面波作为正交归一的基底展开任意波函数。</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>经典场论的哈密顿形式</strong></p>
+<ul>
+<li>
+<p>按照分析力学，引入正则动量 $\pi(x) = \frac{\partial \mathcal{L}(\phi, \partial_x \phi, \dot{\phi})}{\partial \dot{\phi}} = m \dot{\phi}$</p>
+</li>
+<li>
+<p>泊松括号：{$\pi(x), \phi(x&rsquo;)$} $= -\delta(x-x&rsquo;)$</p>
+</li>
+<li>
+<p>哈密顿密度：$\mathcal{H}(\pi, \partial_x \phi, \dot{\phi}) = \pi \dot{\phi} - \mathcal{L}(\phi,\partial_x \phi, \dot{\phi}) = \frac{\pi^2}{2m} + \frac{\beta a^2}{2} (\partial_x \phi)^2$</p>
+</li>
+<li>
+<p>哈密顿量可以写成哈密顿密度的积分</p>
+<p>$H[\pi, \phi] = \int dx  \mathcal{H} = \int dx [\frac{\pi^2}{2m} + \frac{\beta a^2}{2} (\partial_x \phi)^2]$</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>场量子化</strong></p>
+<ul>
+<li>
+<p>提升$\pi(x)$和$\phi(x)$为场算符$\hat{\pi}(x), \hat{\phi}(x)$，满足$[\hat{\pi}(x), \hat{\phi}(x&rsquo;)] = -i\hbar \delta(x-x&rsquo;)$。</p>
+</li>
+<li>
+<p>傅里叶变换到动量空场算符$\pi_k, \phi_k$</p>
+<p>$\pi_k = \frac{1}{\sqrt{L}} \int_0^{L} dx e^{ikx} \pi(x)$</p>
+<p>$\phi_k = \frac{1}{\sqrt{L}} \int_0^{L} dx e^{ikx} \phi(x)$</p>
+</li>
+<li>
+<p>验证关系：$\pi_{-k}= \pi^{\dagger}_k$ （已知$\pi(x)^\dagger = \pi(x)$）。</p>
+</li>
+<li>
+<p>量子哈密顿量可以写成简正模式的和</p>
+<p>$H = \int dx \mathcal{H} = \int dx \frac{1}{2m L} (\sum_k e^{-ikx} \pi_k)^2 + \frac{\beta a^2}{2 L} (\sum_k ik e^{ikx} \phi_k)^2$</p>
+<p>​		$=\sum_k (\frac{1}{2m} \pi_k \pi_{-k} + \frac{\beta a^2 k^2}{2} \phi_k \phi_{-k})$</p>
+<p>​		$=\sum_k (\frac{1}{2m} \pi_k \pi_{-k} + \frac{m \omega_k^2}{2} \phi_k \phi_{-k})$</p>
+<p>其中$\omega_k = v k$，$v = \sqrt{\frac{\beta a^2}{2m}}$为波速</p>
+<p>如果将$\pi_{-k} \pi_k$ 视为$|\pi_k|^2$，$\phi_k \phi_{-k}$视为$|\phi_k|^2$，则量子哈密顿量非常类似于一个谐振子。</p>
+</li>
+</ul>
+</li>
+<li>
+<p>引入场的产生消灭算符</p>
+<p>$a_k = \sqrt{\frac{m\omega_k}{2 \hbar}} (\phi_k +\frac{i}{m\omega_k} \pi_{-k})$</p>
+<p>$a_k^\dagger = \sqrt{\frac{m\omega_k}{2 \hbar}} (\phi_{-k} - \frac{i}{m\omega_k} \pi_{k})$</p>
+<p>作业：验证 $[a_k,a_k^\dagger] = 1$</p>
+<p>$a_k^\dagger$ 表示产生一个$k$-模式玻色子的产生算符，$a_k$表示消灭算符，$n_k=a^\dagger_k a_k$表示$k$-模式的粒子数。</p>
+<p><strong>将哈密顿量写成对角形式</strong></p>
+<p>$H = \sum_k \hbar \omega_k (a_k^\dagger a_k + \frac{1}{2})$。</p>
+</li>
+<li>
+<p>比较声子的两种导出方式（1）分立格点推导的优势在于直观、简单、具有启发性，但缺点在于过程中充满启发式的思考，不够系统；（2）先取连续极限，然后正则量子化的做法系统、规范、具有普适性。</p>
+</li>
 </ul>
 <hr>
 <h2 id="slides--video">Slides &amp; Video</h2>
@@ -1117,10 +1208,12 @@
 <p>考虑一个两周期原子链，耦合弹性系数按照$\beta_1$和$\beta_2$交替，写出原子链的运动方程，并求解本征运动模式和本征能量。</p>
 </li>
 <li>
-<p>已知 $[x_q, p_q ] = i\hbar$，证明$[a_q, a^\dagger_{q&rsquo;}] = \delta_{q,q&rsquo;}$</p>
+<p>验证算符对易子：</p>
+<p>（1）从 $[\pi(x), \phi(x&rsquo;)] = -i\hbar \delta(x-x&rsquo;)$，导出$[\pi_k, \phi_{k&rsquo;}] = -i\hbar \delta_{k,k&rsquo;}$;</p>
+<p>（2）继续导出$[a_k, a^\dagger_{k&rsquo;}] = \delta_{k,k&rsquo;}$，玻色子对易关系。</p>
 </li>
 </ol>
-<p>[assigned: XX-March-2020, due: XX-March-2020]</p>
+<p>[assigned: 30-March-2020, due: 37-March-2020]</p>
 
           </div>
 
