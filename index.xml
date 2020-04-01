@@ -482,7 +482,7 @@
 &lt;li&gt;
 &lt;p&gt;傅里叶变换到动量空场算符$\pi_k, \phi_k$&lt;/p&gt;
 &lt;p&gt;$\pi_k = \frac{1}{\sqrt{L}} \int_0^{L} dx e^{ikx} \pi(x)$&lt;/p&gt;
-&lt;p&gt;$\phi_k = \frac{1}{\sqrt{L}} \int_0^{L} dx e^{ikx} \phi(x)$&lt;/p&gt;
+&lt;p&gt;$\phi_k = \frac{1}{\sqrt{L}} \int_0^{L} dx e^{-ikx} \phi(x)$&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;验证关系：$\pi_{-k}= \pi^{\dagger}_k$ （已知$\pi(x)^\dagger = \pi(x)$）。&lt;/p&gt;
@@ -546,7 +546,7 @@
 &lt;p&gt;（2）继续导出$[a_k, a^\dagger_{k&amp;rsquo;}] = \delta_{k,k&amp;rsquo;}$，玻色子对易关系。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;[assigned: 30-March-2020, due: 37-March-2020]&lt;/p&gt;
+&lt;p&gt;[assigned: 30-March-2020, due: 06-April-2020]&lt;/p&gt;
 </description>
     </item>
     
