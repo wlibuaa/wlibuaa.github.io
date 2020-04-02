@@ -28,17 +28,20 @@
   
     
   
-  <meta name="description" content="Introduction to Solid State Physics 1. 从固体物理到凝聚态物理：多学科交叉的物理学重要分支
- 固体物理采用量子力学、热力学与统计力学等方法，从微观结构到宏观现象，研究具有一定刚度的物质（固体）的力学、热学、电磁学、动力学性质等。发展出了格波与声子理论、能带论、超导BCS理论、朗道-金兹堡对称破缺理论等重要方法和框架，极大拓展了人们对固体物质认识的广度和深度。 固体与液体的主要区别是固体具有一定的剪切强度，而液体没有。通俗的说，固体具有一定的形状，而液体没有。固体和液体统称凝聚态，将液体、软物质等研究纳入研究领域，固体物理在80年代实现了跨越式学科发展，进入“凝聚态物理“时代。但凝聚态物理的核心和主体内容仍是固体物理（为什么？）。 固体物理学的主要分支包括半导体、磁学、超导、表面物理等，固体物理的知识是材料工业、纳米科技、信息工业、能源工业等的基础和支撑，也是空间探测、量子计算等新兴技术的核心和重要基础。  学科诞生记：凝聚态物理的兴起 (英文原文 Physics Today: When Condensed Matter Physics Became King)   2. 涌现（Emergence）及其物理：从原子到固体
-  简明的固体模型：有序排列的原子，以电磁相互作用结合，形成固态物质。
-  丰富的现象涌现：宏观尺度形形色色的固态性质，通过原子间的相互作用从微观尺度涌现出来。
-  单晶体（single crystal）：原子规则排列“无限”延伸形成宏观大小的单晶体。完美的单晶不仅仅对称而美好，更是简明固体物理模型的理想实现（model material）。测量单晶材料的物理性质，可以最有效地验证固体物理的预言，单晶也常常能够理想地获得固态理论预言的优良材料性能。
-           石英石单晶（天然）  五水合硫酸铜单晶（人工生长）    人们最早就从单晶体碎裂后不同晶面夹角不变推断出晶体中的原子排列的有序性，推荐阅读： 晶体形貌与原子排列—阿羽衣的非凡一念（曹则贤）
-  固体简明的微观结构是否意味着具有简单的固体性质？
- &ldquo;由基本粒子构成的，巨大和复杂的集聚体的行为不能依据少数粒子的性质做简单外推就能理解。而正好相反，在复杂系统的每一个层次，都会呈现出全新的规律。而要理解这些新行为，所需要做的研究，就其基础性而言与其他研究相比毫不逊色。&rdquo;   P. Anderson—More is Different （ 中译版）   ”物理其实有两种不同的范式。长久以来，物理学家都在按“还原论”的范式，寻找拼成世界的那些最基本的“积木”以及它们遵循的规律，也取得了辉煌的成功。然而，这些却还不够，不同层次上还有不同的物理，“演生论”开始大展拳脚。”   物理世界话演生（向涛 院士）  物理中的还原论与演生论   涌现物理：对称破缺与相变   量子多体与相变（文小刚）       3.">
+  <meta name="description" content="Crystal Thermodynamics         晶格比热，在高温呈现普适的德隆-佩蒂特定律，在低温反常的衰减到零。     通过对格波量子化，我们将晶格振动转化为无相互作用声子气的玻色-爱因斯坦统计，通过这一量子统计方法，我们得以破解晶格反常低温比热的谜题。   0. 自由声子气体的玻色-爱因斯坦统计   高温经典极限： 德隆—佩蒂特定律
+  在高温极限下，晶体满足能均分定理：$3N$个原子共计$3N$个动能项和$3N$个势能项，每项有平均能量$\frac{1}{2} k_B T$，$k_B$为玻尔兹曼常数，而$T$为温度。
+  不难得出，晶体在高温下平均能量为$u=3Nk_BT$，比热为$C = 3Nk_B$，这是一个普适的常数，无论晶体由何种成分组成，晶格结构如何，高温极限热容量都满足此关系，称为德隆—佩蒂特定律 (Dulong-Petit‘s law)。
+    量子声子气体： 将$q$-模式谐振子处于第$n$激发态视为激发$n$个声子，每个声子携带$\hbar \omega_q$的能量量子。在上一章内容中，我们也曾经介绍过，通过长波极限下场的正则量子化，晶格振动的声子激发可以类比“光场”中激发的能量量子—光子，体现了波动性与粒子性的统一。
+  按照玻色-爱因斯坦分布，温度为$T$化学势为0的玻色巨正则系综，能量为$\hbar \omega$的声子占据数$n_q = \frac{1}{e^{\hbar \omega/k_B T}-1}$。
+  平均能量与热容量
+为了统计方便，我们在能量空间做统计，若能量$\omega$处的声子态密度（简并度）为$g(\omega)$，代表在能量$\omega$附近$d\omega$范围内存在$g(\omega) d\omega$的模式数，因此总声子数目为：
+$\frac{1}{e^{\hbar \omega_q/k_B T}-1} g(\omega) d\omega$
+注意： $g(\omega)$不是声子密度，是声子态密度，或者说振动模式密度，代表在能量$\omega$附近$d\omega$范围内有多少激发能量近简并的振动模式。
+考虑到每个声子携带一份能量量子$\hbar \omega$，则声子气总能量可以如下计算：
+$u = \int_0^{\omega_m} \frac{\hbar \omega}{e^{\hbar \omega_q/k_B T}-1} g(\omega) d\omega $">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://wlibuaa.github.io/courses/ssp2020/chapter0/">
+  <link rel="alternate" hreflang="en-us" href="https://wlibuaa.github.io/courses/ssp2020/chapter5/">
 
   
 
@@ -225,7 +228,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://wlibuaa.github.io/courses/ssp2020/chapter0/">
+  <link rel="canonical" href="https://wlibuaa.github.io/courses/ssp2020/chapter5/">
 
   
   
@@ -239,22 +242,25 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Li Group">
-  <meta property="og:url" content="https://wlibuaa.github.io/courses/ssp2020/chapter0/">
-  <meta property="og:title" content="第0章 固体物理引论 | Li Group">
-  <meta property="og:description" content="Introduction to Solid State Physics 1. 从固体物理到凝聚态物理：多学科交叉的物理学重要分支
- 固体物理采用量子力学、热力学与统计力学等方法，从微观结构到宏观现象，研究具有一定刚度的物质（固体）的力学、热学、电磁学、动力学性质等。发展出了格波与声子理论、能带论、超导BCS理论、朗道-金兹堡对称破缺理论等重要方法和框架，极大拓展了人们对固体物质认识的广度和深度。 固体与液体的主要区别是固体具有一定的剪切强度，而液体没有。通俗的说，固体具有一定的形状，而液体没有。固体和液体统称凝聚态，将液体、软物质等研究纳入研究领域，固体物理在80年代实现了跨越式学科发展，进入“凝聚态物理“时代。但凝聚态物理的核心和主体内容仍是固体物理（为什么？）。 固体物理学的主要分支包括半导体、磁学、超导、表面物理等，固体物理的知识是材料工业、纳米科技、信息工业、能源工业等的基础和支撑，也是空间探测、量子计算等新兴技术的核心和重要基础。  学科诞生记：凝聚态物理的兴起 (英文原文 Physics Today: When Condensed Matter Physics Became King)   2. 涌现（Emergence）及其物理：从原子到固体
-  简明的固体模型：有序排列的原子，以电磁相互作用结合，形成固态物质。
-  丰富的现象涌现：宏观尺度形形色色的固态性质，通过原子间的相互作用从微观尺度涌现出来。
-  单晶体（single crystal）：原子规则排列“无限”延伸形成宏观大小的单晶体。完美的单晶不仅仅对称而美好，更是简明固体物理模型的理想实现（model material）。测量单晶材料的物理性质，可以最有效地验证固体物理的预言，单晶也常常能够理想地获得固态理论预言的优良材料性能。
-           石英石单晶（天然）  五水合硫酸铜单晶（人工生长）    人们最早就从单晶体碎裂后不同晶面夹角不变推断出晶体中的原子排列的有序性，推荐阅读： 晶体形貌与原子排列—阿羽衣的非凡一念（曹则贤）
-  固体简明的微观结构是否意味着具有简单的固体性质？
- &ldquo;由基本粒子构成的，巨大和复杂的集聚体的行为不能依据少数粒子的性质做简单外推就能理解。而正好相反，在复杂系统的每一个层次，都会呈现出全新的规律。而要理解这些新行为，所需要做的研究，就其基础性而言与其他研究相比毫不逊色。&rdquo;   P. Anderson—More is Different （ 中译版）   ”物理其实有两种不同的范式。长久以来，物理学家都在按“还原论”的范式，寻找拼成世界的那些最基本的“积木”以及它们遵循的规律，也取得了辉煌的成功。然而，这些却还不够，不同层次上还有不同的物理，“演生论”开始大展拳脚。”   物理世界话演生（向涛 院士）  物理中的还原论与演生论   涌现物理：对称破缺与相变   量子多体与相变（文小刚）       3."><meta property="og:image" content="https://wlibuaa.github.io/images/logo_huf78e711280e2ffb29500bba5b0998b63_67904_300x300_fit_lanczos_2.png">
+  <meta property="og:url" content="https://wlibuaa.github.io/courses/ssp2020/chapter5/">
+  <meta property="og:title" content="第五章 晶格热力学 | Li Group">
+  <meta property="og:description" content="Crystal Thermodynamics         晶格比热，在高温呈现普适的德隆-佩蒂特定律，在低温反常的衰减到零。     通过对格波量子化，我们将晶格振动转化为无相互作用声子气的玻色-爱因斯坦统计，通过这一量子统计方法，我们得以破解晶格反常低温比热的谜题。   0. 自由声子气体的玻色-爱因斯坦统计   高温经典极限： 德隆—佩蒂特定律
+  在高温极限下，晶体满足能均分定理：$3N$个原子共计$3N$个动能项和$3N$个势能项，每项有平均能量$\frac{1}{2} k_B T$，$k_B$为玻尔兹曼常数，而$T$为温度。
+  不难得出，晶体在高温下平均能量为$u=3Nk_BT$，比热为$C = 3Nk_B$，这是一个普适的常数，无论晶体由何种成分组成，晶格结构如何，高温极限热容量都满足此关系，称为德隆—佩蒂特定律 (Dulong-Petit‘s law)。
+    量子声子气体： 将$q$-模式谐振子处于第$n$激发态视为激发$n$个声子，每个声子携带$\hbar \omega_q$的能量量子。在上一章内容中，我们也曾经介绍过，通过长波极限下场的正则量子化，晶格振动的声子激发可以类比“光场”中激发的能量量子—光子，体现了波动性与粒子性的统一。
+  按照玻色-爱因斯坦分布，温度为$T$化学势为0的玻色巨正则系综，能量为$\hbar \omega$的声子占据数$n_q = \frac{1}{e^{\hbar \omega/k_B T}-1}$。
+  平均能量与热容量
+为了统计方便，我们在能量空间做统计，若能量$\omega$处的声子态密度（简并度）为$g(\omega)$，代表在能量$\omega$附近$d\omega$范围内存在$g(\omega) d\omega$的模式数，因此总声子数目为：
+$\frac{1}{e^{\hbar \omega_q/k_B T}-1} g(\omega) d\omega$
+注意： $g(\omega)$不是声子密度，是声子态密度，或者说振动模式密度，代表在能量$\omega$附近$d\omega$范围内有多少激发能量近简并的振动模式。
+考虑到每个声子携带一份能量量子$\hbar \omega$，则声子气总能量可以如下计算：
+$u = \int_0^{\omega_m} \frac{\hbar \omega}{e^{\hbar \omega_q/k_B T}-1} g(\omega) d\omega $"><meta property="og:image" content="https://wlibuaa.github.io/images/logo_huf78e711280e2ffb29500bba5b0998b63_67904_300x300_fit_lanczos_2.png">
   <meta property="twitter:image" content="https://wlibuaa.github.io/images/logo_huf78e711280e2ffb29500bba5b0998b63_67904_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-02-19T00:00:00&#43;01:00">
+      <meta property="article:published_time" content="2020-03-20T00:00:00&#43;01:00">
     
-    <meta property="article:modified_time" content="2020-02-19T00:00:00&#43;01:00">
+    <meta property="article:modified_time" content="2020-03-20T00:00:00&#43;01:00">
   
 
   
@@ -303,7 +309,7 @@
 
 
 
-  <title>第0章 固体物理引论 | Li Group</title>
+  <title>第五章 晶格热力学 | Li Group</title>
 
 </head>
 
@@ -619,7 +625,7 @@
     <a class="docs-toc-link" href="/courses/ssp2020/chapter0/">SSP2020</a>
     <ul class="nav docs-sidenav">
       
-      <li class="active">
+      <li >
         <a href="/courses/ssp2020/chapter0/">Chapter 0</a>
       </li>
       
@@ -639,7 +645,7 @@
         <a href="/courses/ssp2020/chapter4/">Chapter 4</a>
       </li>
       
-      <li >
+      <li class="active">
         <a href="/courses/ssp2020/chapter5/">Chapter 5</a>
       </li>
       
@@ -661,7 +667,14 @@
 
       <nav id="TableOfContents">
   <ul>
-    <li><a href="#introduction-to-solid-state-physics">Introduction to Solid State Physics</a></li>
+    <li><a href="#crystal-thermodynamics">Crystal Thermodynamics</a>
+      <ul>
+        <li><a href="#0-自由声子气体的玻色-爱因斯坦统计">0. 自由声子气体的玻色-爱因斯坦统计</a></li>
+        <li><a href="#1-固体热容量与爱因斯坦模型">1. 固体热容量与爱因斯坦模型</a></li>
+        <li><a href="#2-声子态密度">2. 声子态密度</a></li>
+        <li><a href="#3-德拜模型">3. 德拜模型</a></li>
+      </ul>
+    </li>
     <li><a href="#slides--video">Slides & Video</a></li>
     <li><a href="#discussions">Discussions</a></li>
     <li><a href="#homework">Homework</a></li>
@@ -677,133 +690,199 @@
       <article class="article">
 
         <div class="docs-article-container">
-          <h1>第0章 固体物理引论</h1>
+          <h1>第五章 晶格热力学</h1>
 
           <div class="article-style">
-            <h2 id="introduction-to-solid-state-physics">Introduction to Solid State Physics</h2>
-<p><strong>1.</strong> 从<strong>固体物理</strong>到<strong>凝聚态物理</strong>：多学科交叉的物理学重要分支</p>
-<ul>
-<li>固体物理采用<strong>量子力学</strong>、<strong>热力学与统计力学</strong>等方法，从微观结构到宏观现象，研究具有一定刚度的物质（固体）的力学、热学、电磁学、动力学性质等。发展出了格波与声子理论、能带论、超导BCS理论、朗道-金兹堡对称破缺理论等重要方法和框架，极大拓展了人们对固体物质认识的广度和深度。</li>
-<li>固体与液体的主要区别是固体具有一定的剪切强度，而液体没有。通俗的说，固体具有一定的形状，而液体没有。固体和液体统称凝聚态，将液体、软物质等研究纳入研究领域，固体物理在80年代实现了跨越式学科发展，进入“凝聚态物理“时代。但凝聚态物理的核心和主体内容仍是固体物理（为什么？）。</li>
-<li>固体物理学的主要分支包括半导体、磁学、超导、表面物理等，固体物理的知识是材料工业、纳米科技、信息工业、能源工业等的基础和支撑，也是空间探测、量子计算等新兴技术的核心和重要基础。</li>
-<li>
-<a href="https://swarma.org/?p=14933" target="_blank" rel="noopener">学科诞生记：凝聚态物理的兴起</a> (英文原文
-<a href="https://physicstoday.scitation.org/doi/pdf/10.1063/PT.3.4110" target="_blank" rel="noopener">Physics Today: When Condensed Matter Physics Became King</a>)</li>
-</ul>
-<hr>
-<p><strong>2. 涌现</strong>（Emergence）及其物理：从原子到固体</p>
-<ul>
-<li>
-<p>简明的固体模型：有序排列的原子，以电磁相互作用结合，形成固态物质。</p>
-</li>
-<li>
-<p>丰富的现象涌现：宏观尺度形形色色的固态性质，通过原子间的相互作用从微观尺度涌现出来。</p>
-</li>
-<li>
-<p>单晶体（single crystal）：原子规则排列“无限”延伸形成宏观大小的单晶体。完美的单晶不仅仅对称而美好，更是简明固体物理模型的理想实现（model material）。测量单晶材料的物理性质，可以最有效地验证固体物理的预言，单晶也常常能够理想地获得固态理论预言的优良材料性能。</p>
-</li>
-<li>
+            <h2 id="crystal-thermodynamics">Crystal Thermodynamics</h2>
 <table>
 <thead>
 <tr>
-<th><img src="/courses/ssp2020/figs/quartz.jpg" style="zoom:60%;" name="square"/></th>
-<th><img src="/courses/ssp2020/figs/cuso.jpg" style="zoom:59%;" name="square"/></th>
+<th><img src="/courses/ssp2020/figs/solidcv.png" style="zoom:50%;" name="cv"/></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>石英石单晶（天然）</td>
-<td>
-<a href="https://www.bilibili.com/video/av18581752/?spm_id_from=333.788.videocard.0" target="_blank" rel="noopener">五水合硫酸铜单晶（人工生长）</a></td>
+<td>晶格比热，在高温呈现普适的德隆-佩蒂特定律，在低温反常的衰减到零。</td>
 </tr>
 </tbody>
 </table>
-<p>人们最早就从单晶体碎裂后不同晶面夹角不变推断出晶体中的原子排列的有序性，推荐阅读：
-<a href="https://chuansongme.com/n/1588175946319" target="_blank" rel="noopener">晶体形貌与原子排列—阿羽衣的非凡一念（曹则贤）</a></p>
+<ul>
+<li>通过对格波量子化，我们将晶格振动转化为无相互作用声子气的玻色-爱因斯坦统计，通过这一量子统计方法，我们得以破解晶格反常低温比热的谜题。</li>
+</ul>
+<hr>
+<h3 id="0-自由声子气体的玻色-爱因斯坦统计">0. 自由声子气体的玻色-爱因斯坦统计</h3>
+<ul>
+<li>
+<p><strong>高温经典极限：</strong> 德隆—佩蒂特定律</p>
+<ul>
+<li>
+<p>在高温极限下，晶体满足能均分定理：$3N$个原子共计$3N$个动能项和$3N$个势能项，每项有平均能量$\frac{1}{2} k_B T$，$k_B$为玻尔兹曼常数，而$T$为温度。</p>
 </li>
 <li>
-<p>固体简明的微观结构是否意味着具有简单的固体性质？</p>
-<ul>
-<li>&ldquo;由基本粒子构成的，巨大和复杂的集聚体的行为不能依据少数粒子的性质做简单外推就能理解。而正好相反，在复杂系统的每一个层次，都会呈现出全新的规律。而要理解这些新行为，所需要做的研究，就其基础性而言与其他研究相比毫不逊色。&rdquo;
-<ul>
-<li>
-<a href="/courses/ssp2020/refs/anderson1972.pdf">P. Anderson—More is Different</a> （
-<a href="https://mp.weixin.qq.com/s/ie8yNAFmmNSviwdBGlkdXw" target="_blank" rel="noopener">中译版</a>）</li>
+<p>不难得出，晶体在高温下平均能量为$u=3Nk_BT$，比热为$C = 3Nk_B$，这是一个普适的常数，无论晶体由何种成分组成，晶格结构如何，高温极限热容量都满足此关系，称为<strong>德隆—佩蒂特定律</strong> (<strong>Dulong-Petit‘s law</strong>)。</p>
+</li>
 </ul>
 </li>
-<li>”物理其实有两种不同的范式。长久以来，物理学家都在按“还原论”的范式，寻找拼成世界的那些最基本的“积木”以及它们遵循的规律，也取得了辉煌的成功。然而，这些却还不够，不同层次上还有不同的物理，“演生论”开始大展拳脚。”
+<li>
+<p><strong>量子声子气体：</strong> 将$q$-模式谐振子处于第$n$激发态视为激发$n$个声子，每个声子携带$\hbar \omega_q$的能量量子。在上一章内容中，我们也曾经介绍过，通过长波极限下场的正则量子化，晶格振动的声子激发可以类比“光场”中激发的能量量子—光子，体现了波动性与粒子性的统一。</p>
+</li>
+<li>
+<p>按照玻色-爱因斯坦分布，温度为$T$化学势为0的玻色巨正则系综，能量为$\hbar \omega$的声子占据数$n_q = \frac{1}{e^{\hbar \omega/k_B T}-1}$。</p>
+</li>
+<li>
+<p>平均能量与热容量</p>
+<p>为了统计方便，我们在能量空间做统计，若能量$\omega$处的声子态密度（简并度）为$g(\omega)$，代表在能量$\omega$附近$d\omega$范围内存在$g(\omega) d\omega$的模式数，因此总声子数目为：</p>
+<p>$\frac{1}{e^{\hbar \omega_q/k_B T}-1} g(\omega) d\omega$</p>
+<p><strong>注意：</strong> $g(\omega)$不是声子密度，是声子<em>态密度</em>，或者说振动模式密度，代表在能量$\omega$附近$d\omega$范围内有多少激发能量近简并的振动模式。</p>
+<p>考虑到每个声子携带一份能量量子$\hbar \omega$，则声子气总能量可以如下计算：</p>
+<p>$u = \int_0^{\omega_m} \frac{\hbar \omega}{e^{\hbar \omega_q/k_B T}-1} g(\omega) d\omega $</p>
+<p>比热容计算：</p>
+<p>$C_v = (\frac{\partial u}{\partial T})_V=\int_0^{\omega_m} k_B (\frac{\hbar \omega}{k_B T})^2 \frac{e^{\hbar \omega/k_B T}}{(e^{\hbar \omega/k_B T}-1)^2} g(\omega) d\omega$</p>
+<p>其中积分上限$\omega_m$是有限值，需要保证总自由度守恒，即：</p>
+<p>$\int_0^{\omega_m} g(\omega)  = 3N$.</p>
+</li>
+</ul>
+<hr>
+<h3 id="1-固体热容量与爱因斯坦模型">1. 固体热容量与爱因斯坦模型</h3>
+<table>
+<thead>
+<tr>
+<th><img src="/courses/ssp2020/figs/Einstein.jpeg" style="zoom:40%;" name="cv"/></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>阿尔伯特 爱因斯坦 （1879-1955）</td>
+</tr>
+</tbody>
+</table>
 <ul>
 <li>
-<a href="https://www.bilibili.com/video/av90875778" target="_blank" rel="noopener">物理世界话演生（向涛 院士）</a></li>
-<li>
-<a href="http://physics.buaa.edu.cn/info/1190/3497.htm" target="_blank" rel="noopener">物理中的还原论与演生论</a></li>
+<p>爱因斯坦模型的提出（1907年）：假设固体中原子的热运动可以视为$3N$个量子谐振子的振动，各自独立的激发声子，晶体比热可以通过声子气的玻色—爱因斯坦统计计算出来。</p>
+<ul>
+<li>爱因斯坦模型可以正确给出晶体比热的高温行为，并得到比热低温衰减到零的现象，揭示出理解固体物理现象需要使用能量量子这一重要的论断。固体低温比热行为与光电效应一起，称为量子论的早期重要支柱。</li>
 </ul>
 </li>
-<li>涌现物理：对称破缺与相变
+<li>
+<p>爱因斯坦模型声子热容量：</p>
 <ul>
 <li>
-<a href="https://www.bilibili.com/video/av92533273?from=search&amp;seid=9925950896848474010" target="_blank" rel="noopener">量子多体与相变（文小刚）</a></li>
+<p>爱因斯坦模型的所有$3N$个振动模式以固定的频率$\omega_E$振动（爱因斯坦原始提议是$N$原子振动所对应的$3N$个谐振子，虽然这并不确切）对应的态密度为$g(\omega) = 3N \delta(\omega - \omega_E)$。</p>
+</li>
+<li>
+<p>计算出晶格能量</p>
+<p>$u = 3N \frac{\hbar \omega_E}{e^{\hbar \omega_E/k_B T}-1}$</p>
+</li>
+<li>
+<p>对应热容量</p>
+<p>$C_V = 3N k_B (\frac{\hbar \omega_E}{k_B T})^2 \frac{e^{\hbar \omega_E/k_B T}}{(e^{\hbar \omega_E/k_B T}-1)^2}$</p>
+<p>可以更紧凑的写成</p>
+<p>$C_V= 3N k_B (\frac{\Theta_E}{T})^2 \frac{e^{\frac{\Theta_E}{T}}}{(e^{\frac{\Theta_E}{T}}-1)^2}$，</p>
+<p>其中$\hbar \omega_E = k_B \Theta_E$，$\Theta_E$也称为爱因斯坦温度，代表原子谐振子的特征温度（能量）。</p>
+</li>
+<li>
+<p>高温极限：$C_V \to 3 N k_B$，普适常数，德隆—佩蒂特定律。</p>
+<p>低温极限：$C_V \to e^{-\Theta_E/T}$，指数衰减。</p>
+<p>[作业：推导爱因斯坦模型热容量的高温和低温极限]</p>
+</li>
 </ul>
 </li>
+<li>
+<p>爱因斯坦认真每个原子是不相互作用的独立谐振子，这一假设并不正确（否则晶体将不能传递声波），所以爱因斯坦模型虽然正确的得到了在低温衰减到零的比热容$C$，但确得到了$C$在低温指数衰减这样与实验定量上并不相符合结论。</p>
+</li>
+</ul>
+<hr>
+<h3 id="2-声子态密度">2. 声子态密度</h3>
+<ul>
+<li>
+<p>一维原子链声子态密度，$q$空间中，间距$dq$所包含的简正模式数目为$dn=\frac{L}{2\pi} dq$。</p>
+<img src="/courses/ssp2020/figs/1DphononDOS.png" style="zoom:65%;" name="cv"/>
+<ul>
+<li>
+<p>能量空间中，间距$d\omega$内包含的简正模式数为 $dn = g(\omega) d\omega$，其中$g(\omega)$称为态密度函数。已知色散关系，则可以求得态密度。</p>
+</li>
+<li>
+<p>一维原子链的色散关系为$\omega = 2 \sqrt{\frac{\beta}{M}} |\sin{\frac{qa}{2}}|$</p>
+<img src="/courses/ssp2020/figs/atomicchaindispersion.png" style="zoom:50%;" name="square"/>
+</li>
+<li>
+<p>态密度为：$g(\omega) = dn/d\omega = \frac{L}{2\pi} (2 \cdot dq)/d\omega = \frac{L}{\pi} \frac{1}{\omega&rsquo;}$。</p>
+</li>
+<li>
+<p>$\omega&rsquo; = 2 \sqrt{\frac{\beta}{M}} \cdot \frac{a}{2} \cos{\frac{qa}{2}} = \frac{a}{2}  \omega_m \cos{\frac{qa}{2}}$，其中$ \omega_m =\sqrt{\frac{4\beta}{M}}$为最大激发能量（位于$q=\pm \frac{pi}{a}$处）。</p>
+</li>
+<li>
+<p>因此，$g(\omega) =  \frac{L}{\pi} \frac{2}{a \omega_m}  \frac{1}{\cos{\frac{qa}{2}}} = \frac{2N}{\pi \omega_m \sqrt{(1 - \sin^2{\frac{qa}{2}})}}  = \frac{2N}{\pi \sqrt{(\omega_m^2 - \omega^2)}} $。</p>
+<ul>
+<li>$\omega \to 0$极限下，$g(\omega) \to \frac{2N}{\pi \omega_m}$，态密度为<strong>常数</strong>。</li>
+<li>$\omega \to \omega_m$，$g(\omega) \to \infty$，态密度为<strong>发散</strong>。</li>
+<li>$\omega &gt; \omega_m$，态密度为零。</li>
+</ul>
+</li>
+<li>
+<p>双原子链存在光学支$\omega_+$和声学支$\omega_-$，总态密度是两支之和$g(\omega) = g_+(\omega^+) + g_-(\omega^-)$。</p>
+</li>
+</ul>
+</li>
+<li>
+<p>三维晶格振动存在一支纵波与两支横波，因此对于N个原子组成的三维晶体，简正模式总数为$3N$。暂时先忽略这一因素，按照其中一支来简单计算。</p>
+<ul>
+<li>
+<p>按照$\omega(q)$关系，可以知道声子激发的等能面形成球面，半径变化$dq$范围内包含的简正模式数$dn$ 可以如下计算:</p>
+<img src="/courses/ssp2020/figs/3DphononDOS.png" style="zoom:50%;" name="square"/>
+<p>$dn = \frac{L^3}{(2\pi)^3} 4\pi q^2 dq = \frac{V}{2\pi^2} q^2 dq$</p>
+</li>
+<li>
+<p>按照态密度定义$dn = g(\omega) d\omega$，可以计算出</p>
+<p>$g(\omega) = \frac{V}{2\pi^2} q^2 \frac{1}{d\omega/dq}$</p>
+</li>
+</ul>
+</li>
+<li>
+<p>一般等能面的态密度计算公式</p>
+<img src="/courses/ssp2020/figs/IsoenergyDOS.png" style="zoom:60%;" name="square"/>
+<ul>
+<li>$q$空间计算： $dn = \frac{V}{(2\pi)^3} \int dS \cdot dq_{\perp}$</li>
+<li>$\omega$空间：$dn = g(\omega) d\omega$，其中按照定义$d\omega =\nabla_q \omega \cdot dq_{\perp} $，即波矢变化乘以能量梯度。</li>
+<li>态密度一般表达式：$g(\omega) = \frac{V}{(2\pi)^3} \int  dS \cdot \frac{1}{\nabla_q \omega}$</li>
+<li>因此，有具体的色散关系表达式$\omega(q)$，人们就可以计算出对于求解热力学量的重要信息—态密度$g(\omega)$。</li>
+<li>态总数守恒：$\int g(\omega) d\omega = 3N$，$N$为格点数目，&ldquo;3&quot;代表1支纵波2支横波。</li>
 </ul>
 </li>
 </ul>
 <hr>
-<p><strong>3. 万物之理（Theory of Everything，ToE）</strong>：原则上，通过求解固体模型的多体薛定谔方程，可以解释自然界中所有固态物质极其丰富的如力学、电磁学、热学性质等物理性质。</p>
+<h3 id="3-德拜模型">3. 德拜模型</h3>
 <ul>
-<li>多体相互作用的固态ToE的方程。求解多体量子力学薛定谔方程的困难程度和计算资源，随着研究对象规模的增长而指数增加，无法直接求解。需要通分离变量，采取恰当的近似求解得到相应的<strong>固态理论</strong>，如声子理论与电子能带理论等。</li>
-</ul>
-<p><img align='center' src='/courses/ssp2020/figs/ToE.png' width='700' hspace='24' /></p>
-<ul>
-<li><strong>声子理论</strong>：晶格离子实相互作用，振动在晶格中传播，形成格波，并激发能量量子——声子。提供了我们理解<em>反常固体比热</em>的重要量子图像，结合非谐效应并从而能够理解固体的热胀冷缩。</li>
-<li><strong>能带理论</strong>：通过波恩-奥本海默近似进一步简化ToE，将电子和离子实的运动分离开，电子运动在晶格离子实提供的周期电磁势场中，形成特殊的色散关系，即电子能带。电子能带理论提供了我们理解金属、绝缘体、半导体等提供了统一的<em>标准模型</em>。</li>
-</ul>
-<hr>
-<p><strong>4.</strong> 超越固体物理的“标准模型”框架</p>
-<ul>
-<li>以能带论、金兹堡-朗道平均场理论等为代表的固态理论构成我们理解物质世界形形色色的物态与材料的基本框架，类似于粒子物理中的“标准模型”。而量子霍尔效应、高温超导、拓扑磁性物态等新奇的发现则揭开了超越超越这个基本框架的“新物理”—关联多体物理，固体物理研究朝向非微扰、极端纠缠的量子物态新领域发展。</li>
-<li>固态物理学（solid state physics）— 凝聚态物理学（condensed matter physics）— <strong>量子物态科学</strong>（quantum matter science）</li>
-<li>量子物态科学: 主要研究强烈关联和纠缠着的极端量子物质中涌现出的性质与规律。如量子霍尔效应中的拓扑序和任意子激发，新奇磁性状态与超导等。</li>
+<li>德拜模型取长波极限下的线性色散，即$\omega = v q$，其中 $v$为格波波速，而$q$代表波矢的模。德拜模型中需要引入一个截止频率$\omega_m$，在此之下，能量-动量色散关系为线性，等能面为球面。不难看出，这是对实际晶体格波的一个理想假设。</li>
+<li>计算德拜模型态密度：$g(\omega)= 3 \frac{V}{2\pi^2} \frac{\omega^2}{v^2} \frac{1}{v} = \frac{3V omega^2}{2\pi^2 v^3}$，其中因子&quot;3&quot;考虑了三支弹性波的贡献。</li>
+<li>德拜模型比热计算</li>
 </ul>
 <hr>
 <h2 id="slides--video">Slides &amp; Video</h2>
 <ul>
 <li>
-<p>Slides for Chapter 0 can be downloaded (please click the BIG icon below)</p>
-<p>
-<a href="/courses/ssp2020/slides/slidesc0.pdf"><img src="/courses/ssp2020/figs/coverc0.png" alt="" title="Wei Li"></a></p>
+<p>Slides for Chapter 3 can be downloaded 
+<a href="/courses/ssp2020/slides/slidesc4.pdf"><img src="/courses/ssp2020/figs/coverc4.jpg" alt="here" title="Wei Li"></a></p>
 </li>
 <li>
-<p>Video lecture (by Sandro Scandolo, ICTP), please click the icon below.</p>
-<p>
-<a href="https://www.bilibili.com/video/av47845416?p=1" target="_blank" rel="noopener"><img src="/courses/ssp2020/figs/videoc0.png" alt="Sandro Scandolo" title="Sandro Scandolo"></a></p>
-</li>
+<p>Video lectures (two, by Sandro Scandolo, ICTP), please click the icon below.</p>
+<ul>
 <li>
-<p>
-<a href="/courses/ssp2020/notes/2020-02-07-P1.pdf">Notes by Shun-Yao Yu (Lecture 01)</a>.</p>
+<a href="https://www.bilibili.com/video/av47845416?p=19" target="_blank" rel="noopener">Lecture 19</a></li>
+<li>
+<a href="https://www.bilibili.com/video/av47845416?p=20" target="_blank" rel="noopener">Lecture 20</a></li>
+</ul>
 </li>
 </ul>
-<hr>
 <h2 id="discussions">Discussions</h2>
 <ul>
-<li>An online discussion (c.a. 30 + 30 min, via Wechat or Dingtalk) will be arranged.</li>
+<li>An online discussion (c.a. 90 min, via Wechat or Dingtalk) will be arranged.</li>
 </ul>
-<hr>
 <h2 id="homework">Homework</h2>
-<ul>
-<li>
-<p>阅读P. Anderson的&quot;More is different&quot;一文。</p>
-</li>
-<li>
-<p>石英与玻璃的化学成分是什么？是什么将二者区分开来？</p>
-</li>
-<li>
-<p>自然界的单晶往往在何处能够找到? 请举3例你所熟悉的地球上天然形成的单晶物质。</p>
-</li>
-<li>
-<p>Justification of <em>Bonn-Oppenheimer approximation</em>: Please estimate the electron speed orbiting ion (using <em>quantum mechanics</em>), and please compare it with the speed of ions.</p>
-</li>
-</ul>
+<ol>
+<li>推导爱因斯坦模型的高温和低温极限。</li>
+</ol>
+<p>​      [assigned: XX-April-2020, due: XX-April-2020]</p>
 
           </div>
 
@@ -820,9 +899,15 @@
   
   <div class="post-nav-item">
     <div class="meta-nav">Previous</div>
-    <a href="/courses/ssp2020/chapter3/" rel="next">第三章 晶体结合</a>
+    <a href="/courses/ssp2020/chapter4/" rel="next">第四章 晶格振动</a>
   </div>
   
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Next</div>
+    <a href="/courses/ssp2020/chapter1/" rel="prev">第一章 晶体结构</a>
+  </div>
   
 </div>
 
@@ -831,7 +916,7 @@
         </div>
 
         <div class="body-footer">
-          <p>Last updated on Feb 19, 2020</p>
+          <p>Last updated on Mar 20, 2020</p>
 
           
 
@@ -843,7 +928,7 @@
   
 
 <p class="edit-page">
-  <a href="https://github.com/gcushen/hugo-academic/edit/master/content/courses/ssp2020/Chapter0.md">
+  <a href="https://github.com/gcushen/hugo-academic/edit/master/content/courses/ssp2020/Chapter5.md">
     <i class="fas fa-pen pr-2"></i>Edit this page
   </a>
 </p>
