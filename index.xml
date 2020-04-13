@@ -850,7 +850,7 @@
 &lt;p&gt;核心是计算热膨胀系数 $\alpha = \frac{1}{V} (\frac{\partial V}{\partial T})_P$ （等压），为此，我们做若干准备工作：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;*热身活动：*定容热容恒等式&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;热身活动：&lt;/em&gt; 定容热容恒等式&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;晶格自由能：$F=U-TS$&lt;/p&gt;
@@ -914,7 +914,7 @@
 &lt;p&gt;膨胀系数 $\alpha = \frac{1}{B} (\frac{\partial P}{\partial T})_V  = \frac{1}{B} \sum_q \gamma_q \frac{\partial}{\partial T}(\frac{u_q}{V})$&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;用平均格林艾森参数 $\gamma$ 取代 $\gamma$，则不难得到：&lt;/p&gt;
+&lt;p&gt;用平均格林艾森参数 $\gamma$ 取代 $\gamma_q$，则不难得到：&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;理想固体无热膨胀：&lt;/strong&gt;&lt;/p&gt;
@@ -1014,6 +1014,12 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;​      [assigned: 07-April-2020, due: 14-April-2020]&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;证明在简谐近似下，晶体的声子定容比热和定压比热无差别，并导出单位体积两种比热的关系 $c_p - c_v = B T \alpha^2$。&lt;/p&gt;
+&lt;p&gt;[assigned: 14-April-2020, due: 21-April-2020]&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
