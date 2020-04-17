@@ -5,12 +5,44 @@
     <link>https://wlibuaa.github.io/</link>
       <atom:link href="https://wlibuaa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://wlibuaa.github.io/images/logo_huf78e711280e2ffb29500bba5b0998b63_67904_300x300_fit_lanczos_2.png</url>
       <title>Li Group</title>
       <link>https://wlibuaa.github.io/</link>
     </image>
+    
+    <item>
+      <title>第六章 自由电子费米气体</title>
+      <link>https://wlibuaa.github.io/courses/ssp2020/chapter6/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0100</pubDate>
+      <guid>https://wlibuaa.github.io/courses/ssp2020/chapter6/</guid>
+      <description>&lt;h2 id=&#34;free-electron-fermi-gas&#34;&gt;Free Electron Fermi Gas&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/fermisuf.png&#34; style=&#34;zoom:50%;&#34; name=&#34;cv&#34;/&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;自由费米气体的动量空间费米球。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slides--video&#34;&gt;Slides &amp;amp; Video&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides for Chapter 3 can be downloaded 
+&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc5.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc6.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;To be announced.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>第四章 晶格振动</title>
