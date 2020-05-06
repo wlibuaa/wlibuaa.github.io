@@ -2576,6 +2576,9 @@
 &lt;p&gt;$H = -t \sum_i c_i^\dagger c_{i+1} + h.c. + \sum_{i,j} c_i^\dagger c_j^\dagger V(r_i,r_j) c_j c_i $，&lt;/p&gt;
 &lt;p&gt;其中$c_i$和$c_i^\dagger$表示在$r_i$处消灭和产生一个费米子，$V(r_i,r_j)$表示相互作用库伦势。&lt;/p&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;请写出Hatree-Fock近似的直接和交换相互作用能形式，并结合表达式阐述其本质。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
