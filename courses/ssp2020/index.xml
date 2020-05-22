@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>第七章 能量理论（上）</title>
+      <title>第七章 能带理论（上）</title>
       <link>https://wlibuaa.github.io/courses/ssp2020/chapter7/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0100</pubDate>
       <guid>https://wlibuaa.github.io/courses/ssp2020/chapter7/</guid>
       <description>&lt;h2 id=&#34;energy-band-theory-i&#34;&gt;Energy Band Theory (I)&lt;/h2&gt;
+&lt;p&gt;布洛赫定理，近自由近似，紧束缚近似，二次量子化&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -59,6 +60,43 @@
 &lt;p&gt;
 &lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=14&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 14&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;to be announced.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>第八章 能带理论（下）</title>
+      <link>https://wlibuaa.github.io/courses/ssp2020/chapter8/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0100</pubDate>
+      <guid>https://wlibuaa.github.io/courses/ssp2020/chapter8/</guid>
+      <description>&lt;h2 id=&#34;energy-band-theory-ii&#34;&gt;Energy Band Theory (II)&lt;/h2&gt;
+&lt;p&gt;能带电子的半经典运动，电导与金属-绝缘体-半导体，金属的费米面，磁场中的运动与德哈斯-范阿尔芬效应，朗道能级与量子霍尔效应&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/FermiSurf.jpg&#34; style=&#34;zoom:100%;&#34; name=&#34;cv&#34;/&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;金属铜的费米面&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;lecture-notes&#34;&gt;Lecture Notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slides--video&#34;&gt;Slides &amp;amp; Video&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides for Chapter 8 can be downloaded 能带理论（下）  
+&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc8.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc8.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
