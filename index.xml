@@ -5,7 +5,7 @@
     <link>https://wlibuaa.github.io/</link>
       <atom:link href="https://wlibuaa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wlibuaa.github.io/images/logo_huf78e711280e2ffb29500bba5b0998b63_67904_300x300_fit_lanczos_2.png</url>
       <title>Li Group</title>
@@ -33,34 +33,24 @@
 &lt;/table&gt;
 &lt;h3 id=&#34;lecture-notes&#34;&gt;Lecture Notes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;布洛赫定理与近自由电子近似  
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec7.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/note7.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;紧束缚近似  
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec7b.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/notec7b.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;二次量子化  
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec7c.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/notec7c.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;布洛赫定理与近自由电子近似  &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec7.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/note7.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;紧束缚近似  &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec7b.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/notec7b.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;二次量子化  &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec7c.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/notec7c.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;slides--video&#34;&gt;Slides &amp;amp; Video&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Slides for Chapter 7 can be downloaded 能带理论（上）  
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc7.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc7.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Slides for Chapter 7 can be downloaded 能带理论（上）  &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc7.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc7.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Video lectures (by Sandro Scandolo, ICTP), please click the link below.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 09&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 10&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=11&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 11&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=12&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 12&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 13&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=14&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 14&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 09&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=11&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 11&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=12&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 12&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 13&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=14&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 14&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -92,18 +82,14 @@
 &lt;/table&gt;
 &lt;h3 id=&#34;lecture-notes&#34;&gt;Lecture Notes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;半经典运动 
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec8.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/notec8.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;稳恒电场与磁场中的能带电子 
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec8b.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/notec8b.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;德哈斯-范阿尔芬效应 
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec8c.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/notec8c.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;半经典运动 &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec8.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/notec8.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;稳恒电场与磁场中的能带电子 &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec8b.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/notec8b.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;德哈斯-范阿尔芬效应 &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec8c.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/notec8c.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;slides--video&#34;&gt;Slides &amp;amp; Video&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Slides for Chapter 8 can be downloaded 能带理论（下）  
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc8.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc8.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Slides for Chapter 8 can be downloaded 能带理论（下）  &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc8.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc8.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
@@ -133,14 +119,12 @@
 &lt;/table&gt;
 &lt;h3 id=&#34;lecture-notes&#34;&gt;Lecture Notes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;BCS Theory 
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec9.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/notec9.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BCS Theory &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec9.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/notec9.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;晶体缺陷&#34;&gt;晶体缺陷&lt;/h2&gt;
 &lt;p&gt;Slides for Chapter 9 can be downloaded below:&lt;/p&gt;
-&lt;p&gt;晶体缺陷  
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc9.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc9.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;晶体缺陷  &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc9.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc9.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>
@@ -165,16 +149,13 @@
 &lt;/table&gt;
 &lt;h3 id=&#34;lecture-notes&#34;&gt;Lecture Notes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;自由电子气热力学热力学  
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec6a.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/notea.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;自由电子气输运性质 
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec6b.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc6noteb.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;自由电子气热力学热力学  &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec6a.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/notea.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;自由电子气输运性质 &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/notec6b.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc6noteb.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;slides--video&#34;&gt;Slides &amp;amp; Video&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Slides for Chapter 6 can be downloaded 
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc6.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc6.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Slides for Chapter 6 can be downloaded &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc6.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc6.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
@@ -282,7 +263,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;简谐近似：&lt;/strong&gt;  两个相邻原子间的相互作用势能为$\phi(x)$，$x$为原子间距，固体中$x=a+\delta$，$\delta$为一小量。势能可以展开为：&lt;/p&gt;
-&lt;p&gt;$\phi(a+\delta) = \phi(a) + \frac{d \phi(x)}{d x}|_{x=a} \delta +  \frac{1}{2!} \frac{d^2 \phi(x)}{d x^2}|_{x=a} \delta^2 + &amp;hellip;$&lt;/p&gt;
+&lt;p&gt;$\phi(a+\delta) = \phi(a) + \frac{d \phi(x)}{d x}|&lt;em&gt;{x=a} \delta +  \frac{1}{2!} \frac{d^2 \phi(x)}{d x^2}|&lt;/em&gt;{x=a} \delta^2 + &amp;hellip;$&lt;/p&gt;
 &lt;p&gt;由于$\phi(a)$为势能极小点（不失一般性，取$\phi(a)=0$），$\frac{d \phi(x)}{d x}|_{x=a}=0$。&lt;/p&gt;
 &lt;p&gt;按照简谐近似取到2阶项，并简记弹性系数$\beta \equiv \frac{d^2 \phi(x)}{d x^2}|_{x=a}$。&lt;/p&gt;
 &lt;ul&gt;
@@ -435,13 +416,13 @@
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;$ 2\beta - m \omega^2 $&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;$- 2 \beta \cos(qa) $&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;$- 2 \beta \cos(qa) $&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;$ -2 \beta \cos(qa) $&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;$ 2\beta - M \omega^2 $&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;$ 2\beta - M \omega^2 $&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -578,7 +559,7 @@
 &lt;p&gt;&lt;strong&gt;量子化：&lt;/strong&gt; 将每个简正模式$H_q$量子化，即量子谐振子。引入阶梯算符$a,a^\dagger$，则谐振子可以写作&lt;/p&gt;
 &lt;p&gt;$a_q = \sqrt{\frac{M \omega}{2\hbar}} (x_q + \frac{i}{M\omega_q} p_q)$&lt;/p&gt;
 &lt;p&gt;$a^\dagger_q = \sqrt{\frac{M \omega}{2\hbar}} (x_q - \frac{i}{M\omega_q} p_q)$&lt;/p&gt;
-&lt;p&gt;验证$[a_q, a^\dagger_{q&amp;rsquo;}] = \delta_{q,q&amp;rsquo;}$&lt;/p&gt;
+&lt;p&gt;验证$[a_q, a^\dagger_{q&#39;}] = \delta_{q,q&#39;}$&lt;/p&gt;
 &lt;p&gt;$H_q = \hbar \omega_q a_q a^\dagger_q = \hbar \omega_q (n_q + 1/2)$，其中$n_q = a_q^\dagger a_q$表示简正模式处在第$n_q$个激发态。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;声子：&lt;/strong&gt; 简正模式$\omega_q$处于第$n_q$个激发态则激发$n_q$个声子。则晶格振动可以表达为$q$-模式激发$n_q$个声子的集合（无相互作用声子气）。注意，$q$-模式所激发的声子不是某个原子的个别激发带来的，而是所有$N$个原子的集体激发。&lt;/p&gt;
 &lt;/li&gt;
@@ -636,7 +617,7 @@
 &lt;p&gt;按照分析力学，引入正则动量 $\pi(x) = \frac{\partial \mathcal{L}(\phi, \partial_x \phi, \dot{\phi})}{\partial \dot{\phi}} = m \dot{\phi}$&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;泊松括号：{$\pi(x), \phi(x&amp;rsquo;)$} $= -\delta(x-x&amp;rsquo;)$&lt;/p&gt;
+&lt;p&gt;泊松括号：{$\pi(x), \phi(x&#39;)$} $= -\delta(x-x&#39;)$&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;哈密顿密度：$\mathcal{H}(\pi, \partial_x \phi, \dot{\phi}) = \pi \dot{\phi} - \mathcal{L}(\phi,\partial_x \phi, \dot{\phi}) = \frac{\pi^2}{2m} + \frac{\beta a^2}{2} (\partial_x \phi)^2$&lt;/p&gt;
@@ -651,7 +632,7 @@
 &lt;p&gt;&lt;strong&gt;场量子化&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;提升$\pi(x)$和$\phi(x)$为场算符$\hat{\pi}(x), \hat{\phi}(x)$，满足$[\hat{\pi}(x), \hat{\phi}(x&amp;rsquo;)] = -i\hbar \delta(x-x&amp;rsquo;)$。&lt;/p&gt;
+&lt;p&gt;提升$\pi(x)$和$\phi(x)$为场算符$\hat{\pi}(x), \hat{\phi}(x)$，满足$[\hat{\pi}(x), \hat{\phi}(x&#39;)] = -i\hbar \delta(x-x&#39;)$。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;傅里叶变换到动量空场算符$\pi_k, \phi_k$&lt;/p&gt;
@@ -688,16 +669,13 @@
 &lt;h2 id=&#34;slides--video&#34;&gt;Slides &amp;amp; Video&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Slides for Chapter 3 can be downloaded 
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc4.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc4.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Slides for Chapter 3 can be downloaded &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc4.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc4.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Video lectures (two, by Sandro Scandolo, ICTP), please click the icon below.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 19&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 20&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 19&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 20&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -716,8 +694,8 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;验证算符对易子：&lt;/p&gt;
-&lt;p&gt;（1）从 $[\pi(x), \phi(x&amp;rsquo;)] = -i\hbar \delta(x-x&amp;rsquo;)$，导出$[\pi_k, \phi_{k&amp;rsquo;}] = -i\hbar \delta_{k,k&amp;rsquo;}$;&lt;/p&gt;
-&lt;p&gt;（2）继续导出$[a_k, a^\dagger_{k&amp;rsquo;}] = \delta_{k,k&amp;rsquo;}$，玻色子对易关系。&lt;/p&gt;
+&lt;p&gt;（1）从 $[\pi(x), \phi(x&#39;)] = -i\hbar \delta(x-x&#39;)$，导出$[\pi_k, \phi_{k&#39;}] = -i\hbar \delta_{k,k&#39;}$;&lt;/p&gt;
+&lt;p&gt;（2）继续导出$[a_k, a^\dagger_{k&#39;}] = \delta_{k,k&#39;}$，玻色子对易关系。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;[assigned: 30-March-2020, due: 06-April-2020]&lt;/p&gt;
@@ -842,10 +820,10 @@
 &lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/atomicchaindispersion.png&#34; style=&#34;zoom:50%;&#34; name=&#34;square&#34;/&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;态密度为：$g(\omega) = dn/d\omega = \frac{L}{2\pi} (2 \cdot dq)/d\omega = \frac{L}{\pi} \frac{1}{\omega&amp;rsquo;}$。&lt;/p&gt;
+&lt;p&gt;态密度为：$g(\omega) = dn/d\omega = \frac{L}{2\pi} (2 \cdot dq)/d\omega = \frac{L}{\pi} \frac{1}{\omega&#39;}$。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;$\omega&amp;rsquo; = 2 \sqrt{\frac{\beta}{M}} \cdot \frac{a}{2} \cos{\frac{qa}{2}} = \frac{a}{2}  \omega_m \cos{\frac{qa}{2}}$，其中$ \omega_m =\sqrt{\frac{4\beta}{M}}$为最大激发能量（位于$q=\pm \frac{pi}{a}$处）。&lt;/p&gt;
+&lt;p&gt;$\omega&#39; = 2 \sqrt{\frac{\beta}{M}} \cdot \frac{a}{2} \cos{\frac{qa}{2}} = \frac{a}{2}  \omega_m \cos{\frac{qa}{2}}$，其中$ \omega_m =\sqrt{\frac{4\beta}{M}}$为最大激发能量（位于$q=\pm \frac{pi}{a}$处）。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;因此，$g(\omega) =  \frac{L}{\pi} \frac{2}{a \omega_m}  \frac{1}{\cos{\frac{qa}{2}}} = \frac{2N}{\pi \omega_m \sqrt{(1 - \sin^2{\frac{qa}{2}})}}  = \frac{2N}{\pi \sqrt{(\omega_m^2 - \omega^2)}} $。&lt;/p&gt;
@@ -1003,12 +981,12 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/Potential.png&#34; style=&#34;zoom:60%;&#34; name=&#34;ah&#34;/&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/Potential.png&#34; style=&#34;zoom:60%;&#34; name=&#34;ah&#34;/&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;原子势场：热运动导致原子在势阱内运动。&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;原子势场：热运动导致原子在势阱内运动。&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1115,16 +1093,13 @@
 &lt;h2 id=&#34;slides--video&#34;&gt;Slides &amp;amp; Video&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Slides for Chapter 3 can be downloaded 
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc5.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc5.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Slides for Chapter 3 can be downloaded &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc5.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc5.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Video lectures (two, by Sandro Scandolo, ICTP), please click the icon below.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 19&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 20&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 19&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 20&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -1212,12 +1187,12 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/grains.jpg&#34; style=&#34;zoom:80%;&#34;/&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/grains.jpg&#34; style=&#34;zoom:80%;&#34;/&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;非凡一念：晶体不断细分，由同样晶面角度、与整体具有相似形状的元胞&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;非凡一念：晶体不断细分，由同样晶面角度、与整体具有相似形状的元胞&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1381,14 +1356,14 @@
 &lt;tr&gt;
 &lt;th&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/nacl0.png&#34; style=&#34;zoom:90%;&#34;/&gt;&lt;/th&gt;
 &lt;th&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/nacl.png&#34; style=&#34;zoom:60%;&#34;/&gt;&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/nacl1.jpg&#34; style=&#34;zoom:180%;&#34;/&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/nacl1.jpg&#34; style=&#34;zoom:180%;&#34;/&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;食盐晶体&lt;/td&gt;
 &lt;td&gt;$a=5.63\overset{\circ}{\rm{A}}$&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;硬球模型&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;硬球模型&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1442,8 +1417,7 @@
 &lt;/table&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;英国物理学家安德烈·盖姆和康斯坦丁·诺沃肖洛夫，用微机械剥离法成功从石墨中分离出石墨烯。共同获得
-&lt;a href=&#34;https://www.nobelprize.org/prizes/physics/2010/summary/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2010年诺贝尔物理学奖&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;英国物理学家安德烈·盖姆和康斯坦丁·诺沃肖洛夫，用微机械剥离法成功从石墨中分离出石墨烯。共同获得&lt;a href=&#34;https://www.nobelprize.org/prizes/physics/2010/summary/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2010年诺贝尔物理学奖&lt;/a&gt;。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;石墨烯具有高强度，高电导等优异的材料性能。&lt;/p&gt;
@@ -1469,10 +1443,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;ul&gt;
-&lt;li&gt;由于双层魔转角石墨烯的独特
-&lt;a href=&#34;https://www.nature.com/articles/nature26154&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电子关联性质&lt;/a&gt;和
-&lt;a href=&#34;https://www.nature.com/articles/nature26160&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;非常规超导电性&lt;/a&gt;，引起了凝聚态物理学界的广泛关注，可以阅读
-&lt;a href=&#34;https://physicstoday.scitation.org/doi/pdf/10.1063/PT.3.4384&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Physics Today&lt;/a&gt; 的科普文章。&lt;/li&gt;
+&lt;li&gt;由于双层魔转角石墨烯的独特&lt;a href=&#34;https://www.nature.com/articles/nature26154&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电子关联性质&lt;/a&gt;和&lt;a href=&#34;https://www.nature.com/articles/nature26160&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;非常规超导电性&lt;/a&gt;，引起了凝聚态物理学界的广泛关注，可以阅读&lt;a href=&#34;https://physicstoday.scitation.org/doi/pdf/10.1063/PT.3.4384&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Physics Today&lt;/a&gt; 的科普文章。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;3-原胞晶胞和填充率&#34;&gt;3. 原胞、晶胞和填充率&lt;/h3&gt;
@@ -1572,8 +1543,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;填充率计算（参见Sandro的视频讲义，以及喻舜尧同学的
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/notes/2020-02-11-P4.pdf&#34;&gt;笔记&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;填充率计算（参见Sandro的视频讲义，以及喻舜尧同学的&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/notes/2020-02-11-P4.pdf&#34;&gt;笔记&lt;/a&gt;）&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;布拉维格子：填充率=硬球的体积/原胞体积 （&lt;em&gt;二维格子为面积比&lt;/em&gt;）&lt;/li&gt;
 &lt;li&gt;非布拉维格子：硬球体积需要乘以原胞中的硬球数目&lt;/li&gt;
@@ -1665,23 +1635,19 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Slides for Chapter 1 can be downloaded (please click the BIG icon below)&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc1.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc1.jpg&#34; alt=&#34;&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc1.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc1.jpg&#34; alt=&#34;&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Video lectures (two, by Sandro Scandolo, ICTP), please click the icon below.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 02&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 02&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 03&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 03&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 04&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 04&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -1696,9 +1662,7 @@
 &lt;p&gt;一维布拉维晶格有多少种？&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;请阅读关于石墨烯的
-&lt;a href=&#34;https://www.nobelprize.org/uploads/2018/06/popular-physicsprize2010.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公众介绍材料&lt;/a&gt;与
-&lt;a href=&#34;https://www.nobelprize.org/uploads/2018/06/advanced-physicsprize2010.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;科学背景材料&lt;/a&gt;，并提交阅读笔记。&lt;/p&gt;
+&lt;p&gt;请阅读关于石墨烯的&lt;a href=&#34;https://www.nobelprize.org/uploads/2018/06/popular-physicsprize2010.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公众介绍材料&lt;/a&gt;与&lt;a href=&#34;https://www.nobelprize.org/uploads/2018/06/advanced-physicsprize2010.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;科学背景材料&lt;/a&gt;，并提交阅读笔记。&lt;/p&gt;
 &lt;hr&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -1777,22 +1741,22 @@
 &lt;h3 id=&#34;1-劳厄方程与倒易点阵-reciprocal-lattice&#34;&gt;1. 劳厄方程与倒易点阵 (Reciprocal lattice)&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;为引入倒格矢，考虑在布拉维格子上的X-射线衍射问题：入射波为$e^{i (\bf{k}\cdot\bf{r} - \omega t})$，在格点$\bf{r=R}$处发生反射，沿着$\bf{k&amp;rsquo;}$继续传播，波函数为$e^{i (\bf{k&amp;rsquo;}\cdot\bf{r} - \omega&amp;rsquo; t})$。&lt;/p&gt;
+&lt;p&gt;为引入倒格矢，考虑在布拉维格子上的X-射线衍射问题：入射波为$e^{i (\bf{k}\cdot\bf{r} - \omega t})$，在格点$\bf{r=R}$处发生反射，沿着$\bf{k&#39;}$继续传播，波函数为$e^{i (\bf{k&#39;}\cdot\bf{r} - \omega&#39; t})$。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;弹性散射，原子附近的电子云随入射波震荡，并发射相同波长/频率的反射波，$\omega&amp;rsquo; = \omega$，且$|\bf{k}|=|\bf{k&amp;rsquo;}|$。&lt;/p&gt;
+&lt;p&gt;弹性散射，原子附近的电子云随入射波震荡，并发射相同波长/频率的反射波，$\omega&#39; = \omega$，且$|\bf{k}|=|\bf{k&#39;}|$。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;波从$\bf r_0$出出发，经原子反射后反射到达$\bf r_f$处，波函数为：&lt;/p&gt;
-&lt;p&gt;$ e^{i  k \cdot (R-r_o) } \times e^{i  \bf{k&amp;rsquo;} \cdot (r_f-R) }  = e^{i(\bf{k&amp;rsquo;} \cdot r_f - k \cdot r_0)} \times e^{i  (\bf{k&amp;rsquo;} - k) \cdot R }$&lt;/p&gt;
+&lt;p&gt;$ e^{i  k \cdot (R-r_o) } \times e^{i  \bf{k&#39;} \cdot (r_f-R) }  = e^{i(\bf{k&#39;} \cdot r_f - k \cdot r_0)} \times e^{i  (\bf{k&#39;} - k) \cdot R }$&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;假设观察者足够远，看到$k&#39;$方向的彼此平行的出射波，其强度需要对任意$R_I$求和，即$|\sum_I e^{i  (\bf{k&amp;rsquo;} - k) \cdot R_I} |^2$。&lt;/p&gt;
+&lt;p&gt;假设观察者足够远，看到$k&#39;$方向的彼此平行的出射波，其强度需要对任意$R_I$求和，即$|\sum_I e^{i  (\bf{k&#39;} - k) \cdot R_I} |^2$。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;对于满足&lt;strong&gt;劳厄方程&lt;/strong&gt;$\bf e^{i  (\bf{k&amp;rsquo;} - k) \cdot R } \equiv 1$条件的衍射情况，将在$\bf{k&amp;rsquo;}$方向看到&lt;strong&gt;相干衍射&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;对于满足&lt;strong&gt;劳厄方程&lt;/strong&gt;$\bf e^{i  (\bf{k&#39;} - k) \cdot R } \equiv 1$条件的衍射情况，将在$\bf{k&#39;}$方向看到&lt;strong&gt;相干衍射&lt;/strong&gt;。&lt;/p&gt;
 &lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/lauerformula.png&#34; style=&#34;zoom:50%;&#34; name=&#34;&#34;/&gt;
-&lt;p&gt;因此，想要看到相干衍射峰，对衍射波的波矢变化$\bf \Delta k =  k&amp;rsquo;-k$是有严格要求的。下面我们会看到，这个实际上是约定了一组特殊的矢量集，称为倒格矢集合{$G$}。&lt;/p&gt;
+&lt;p&gt;因此，想要看到相干衍射峰，对衍射波的波矢变化$\bf \Delta k =  k&#39;-k$是有严格要求的。下面我们会看到，这个实际上是约定了一组特殊的矢量集，称为倒格矢集合{$G$}。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -1937,7 +1901,7 @@
 &lt;li&gt;
 &lt;p&gt;原子形状因子（atomic form factor, $f$）&lt;/p&gt;
 &lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/atomicformfact.jpg&#34; style=&#34;zoom:100%;&#34; name=&#34;&#34;/&gt;
-&lt;p&gt;在考虑布拉维格子衍射时，我们将每个格点视为抽象的几何点处理。在实际晶格结构中，需要将基元内容放置在格点处，光受到电子云的散射，晶体衍射会受到具体原子形状因子的影响。衍射峰强度需要乘以原子形状因子$f_j(G) = \int n_j(r) e^{i(k&amp;rsquo;-k)r} dr  = \int n_j(r) e^{iGr} dr$&lt;/p&gt;
+&lt;p&gt;在考虑布拉维格子衍射时，我们将每个格点视为抽象的几何点处理。在实际晶格结构中，需要将基元内容放置在格点处，光受到电子云的散射，晶体衍射会受到具体原子形状因子的影响。衍射峰强度需要乘以原子形状因子$f_j(G) = \int n_j(r) e^{i(k&#39;-k)r} dr  = \int n_j(r) e^{iGr} dr$&lt;/p&gt;
 &lt;p&gt;其中$n_j(r)$为在第$j$个原子附近，空间$r$点处的电子密度n_j(r)$，因此原子形状因子随具体原子不同而不同，且允许呈现出各向异性的特征。&lt;/p&gt;
 &lt;p&gt;然而，在下面的讨论中，为简化计，我们认为原子均为球形，形状因子为与空间角度无关的常数$f_0$。&lt;/p&gt;
 &lt;/li&gt;
@@ -1971,7 +1935,7 @@
 &lt;p&gt;注意，不仅仅在体心立方和面心立方中，因人为约定，带来不平庸的几何结构因子。一般的情况下，因为基元中包含多于一个以上的原子时，都存在几何结构因子。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;因此，对应于“晶体结构=布拉维点阵+基元”，我们可以类似写下：&lt;strong&gt;晶体衍射=倒格子+结构因子&lt;/strong&gt;。注意，这里的&amp;quot;+&amp;quot;应该不能简单理解加法的加，而是复合结构（或者说“乘”也许更为恰当）。倒格子本身均为布拉维格子，而结构因子会在此基础上改变倒格子不同格点的强度，产生更为复杂的结构，在特殊情况下会将部分倒格点消去（如上面所讨论的面心立方和体心立方情况）。&lt;/p&gt;
+&lt;p&gt;因此，对应于“晶体结构=布拉维点阵+基元”，我们可以类似写下：&lt;strong&gt;晶体衍射=倒格子+结构因子&lt;/strong&gt;。注意，这里的&amp;quot;+&amp;ldquo;应该不能简单理解加法的加，而是复合结构（或者说“乘”也许更为恰当）。倒格子本身均为布拉维格子，而结构因子会在此基础上改变倒格子不同格点的强度，产生更为复杂的结构，在特殊情况下会将部分倒格点消去（如上面所讨论的面心立方和体心立方情况）。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;在讨论晶体衍射时，布拉维格子的重要性凸显出来。例如，氯化铯结构我们如果错误地当成体心立方，就会得不到正确的晶体衍射分析。&lt;/p&gt;
@@ -2104,16 +2068,13 @@
 &lt;h2 id=&#34;slides--video&#34;&gt;Slides &amp;amp; Video&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Slides for Chapter 2 can be downloaded 
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc2.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc2.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Slides for Chapter 2 can be downloaded &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc2.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc2.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Video lectures (two, by Sandro Scandolo, ICTP), please click the icon below.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 05&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 06&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 05&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 06&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -2498,16 +2459,13 @@
 &lt;h2 id=&#34;slides--video&#34;&gt;Slides &amp;amp; Video&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Slides for Chapter 3 can be downloaded 
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc3.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc3.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Slides for Chapter 3 can be downloaded &lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc3.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc3.jpg&#34; alt=&#34;here&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Video lectures (two, by Sandro Scandolo, ICTP), please click the icon below.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 07&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 08&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 07&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 08&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -2556,9 +2514,7 @@
 &lt;li&gt;固体物理采用&lt;strong&gt;量子力学&lt;/strong&gt;、&lt;strong&gt;热力学与统计力学&lt;/strong&gt;等方法，从微观结构到宏观现象，研究具有一定刚度的物质（固体）的力学、热学、电磁学、动力学性质等。发展出了格波与声子理论、能带论、超导BCS理论、朗道-金兹堡对称破缺理论等重要方法和框架，极大拓展了人们对固体物质认识的广度和深度。&lt;/li&gt;
 &lt;li&gt;固体与液体的主要区别是固体具有一定的剪切强度，而液体没有。通俗的说，固体具有一定的形状，而液体没有。固体和液体统称凝聚态，将液体、软物质等研究纳入研究领域，固体物理在80年代实现了跨越式学科发展，进入“凝聚态物理“时代。但凝聚态物理的核心和主体内容仍是固体物理（为什么？）。&lt;/li&gt;
 &lt;li&gt;固体物理学的主要分支包括半导体、磁学、超导、表面物理等，固体物理的知识是材料工业、纳米科技、信息工业、能源工业等的基础和支撑，也是空间探测、量子计算等新兴技术的核心和重要基础。&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://swarma.org/?p=14933&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;学科诞生记：凝聚态物理的兴起&lt;/a&gt; (英文原文
-&lt;a href=&#34;https://physicstoday.scitation.org/doi/pdf/10.1063/PT.3.4110&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Physics Today: When Condensed Matter Physics Became King&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://swarma.org/?p=14933&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;学科诞生记：凝聚态物理的兴起&lt;/a&gt; (英文原文&lt;a href=&#34;https://physicstoday.scitation.org/doi/pdf/10.1063/PT.3.4110&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Physics Today: When Condensed Matter Physics Became King&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;2. 涌现&lt;/strong&gt;（Emergence）及其物理：从原子到固体&lt;/p&gt;
@@ -2583,36 +2539,29 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;石英石单晶（天然）&lt;/td&gt;
-&lt;td&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av18581752/?spm_id_from=333.788.videocard.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;五水合硫酸铜单晶（人工生长）&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.bilibili.com/video/av18581752/?spm_id_from=333.788.videocard.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;五水合硫酸铜单晶（人工生长）&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;人们最早就从单晶体碎裂后不同晶面夹角不变推断出晶体中的原子排列的有序性，推荐阅读：
-&lt;a href=&#34;https://chuansongme.com/n/1588175946319&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;晶体形貌与原子排列—阿羽衣的非凡一念（曹则贤）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;人们最早就从单晶体碎裂后不同晶面夹角不变推断出晶体中的原子排列的有序性，推荐阅读：&lt;a href=&#34;https://chuansongme.com/n/1588175946319&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;晶体形貌与原子排列—阿羽衣的非凡一念（曹则贤）&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;固体简明的微观结构是否意味着具有简单的固体性质？&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&amp;ldquo;由基本粒子构成的，巨大和复杂的集聚体的行为不能依据少数粒子的性质做简单外推就能理解。而正好相反，在复杂系统的每一个层次，都会呈现出全新的规律。而要理解这些新行为，所需要做的研究，就其基础性而言与其他研究相比毫不逊色。&amp;rdquo;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/refs/anderson1972.pdf&#34;&gt;P. Anderson—More is Different&lt;/a&gt; （
-&lt;a href=&#34;https://mp.weixin.qq.com/s/ie8yNAFmmNSviwdBGlkdXw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;中译版&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/refs/anderson1972.pdf&#34;&gt;P. Anderson—More is Different&lt;/a&gt; （&lt;a href=&#34;https://mp.weixin.qq.com/s/ie8yNAFmmNSviwdBGlkdXw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;中译版&lt;/a&gt;）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;”物理其实有两种不同的范式。长久以来，物理学家都在按“还原论”的范式，寻找拼成世界的那些最基本的“积木”以及它们遵循的规律，也取得了辉煌的成功。然而，这些却还不够，不同层次上还有不同的物理，“演生论”开始大展拳脚。”
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av90875778&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;物理世界话演生（向涛 院士）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://physics.buaa.edu.cn/info/1190/3497.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;物理中的还原论与演生论&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/av90875778&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;物理世界话演生（向涛 院士）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://physics.buaa.edu.cn/info/1190/3497.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;物理中的还原论与演生论&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;涌现物理：对称破缺与相变
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av92533273?from=search&amp;amp;seid=9925950896848474010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;量子多体与相变（文小刚）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/av92533273?from=search&amp;amp;seid=9925950896848474010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;量子多体与相变（文小刚）&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -2640,17 +2589,14 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Slides for Chapter 0 can be downloaded (please click the BIG icon below)&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc0.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc0.png&#34; alt=&#34;&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/slides/slidesc0.pdf&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/coverc0.png&#34; alt=&#34;&#34; title=&#34;Wei Li&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Video lecture (by Sandro Scandolo, ICTP), please click the icon below.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/videoc0.png&#34; alt=&#34;Sandro Scandolo&#34; title=&#34;Sandro Scandolo&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/av47845416?p=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/videoc0.png&#34; alt=&#34;Sandro Scandolo&#34; title=&#34;Sandro Scandolo&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/notes/2020-02-07-P1.pdf&#34;&gt;Notes by Shun-Yao Yu (Lecture 01)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wlibuaa.github.io/courses/ssp2020/notes/2020-02-07-P1.pdf&#34;&gt;Notes by Shun-Yao Yu (Lecture 01)&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -2721,6 +2667,14 @@
     </item>
     
     <item>
+      <title>Evidence of the Berezinskii-Kosterlitz-Thouless phase in a frustrated magnet</title>
+      <link>https://wlibuaa.github.io/publication/li-2020-c/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2020-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Universal thermodynamics in the Kitaev fractional liquid</title>
       <link>https://wlibuaa.github.io/publication/li-2020-b/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
@@ -2746,14 +2700,6 @@
     </item>
     
     <item>
-      <title>Evidence of the Berezinskii-Kosterlitz-Thouless phase in a frustrated magnet</title>
-      <link>https://wlibuaa.github.io/publication/li-2020-c/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://wlibuaa.github.io/publication/li-2020-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Thermal Tensor Network Simulations of the Heisenberg Model on the Bethe Lattice</title>
       <link>https://wlibuaa.github.io/publication/qu-2019/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
@@ -2775,7 +2721,7 @@
       <link>https://wlibuaa.github.io/publication/chen-2019-a/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://wlibuaa.github.io/publication/chen-2019-a/</guid>
-      <description>&lt;p&gt;The anomalous thermodynamic properties of the paradigmatic frustrated spin-1/2 triangular-lattice Heisenberg antiferromagnet (TLH) has remained an open topic of research over decades, both experimentally and theoretically. Here, we further the theoretical understanding based on the recently developed, powerful exponential tensor renormalization group method on cylinders and stripes in a quasi-one-dimensional (1D) setup, as well as a tensor product operator approach directly in 2D. The observed thermal properties of the TLH are in excellent agreement with two recent experimental measurements on the virtually ideal TLH material Ba8CoNb6O24. Remarkably, our numerical simulations reveal two crossover temperature scales, at Tl/J$∼$0.20 and Th/J$∼$0.55, with J the Heisenberg exchange coupling, which are also confirmed by a more careful inspection of the experimental data. We propose that in the intermediate regime between the low-temperature scale Tl and the higher one Th, the ``rotonlike&amp;rsquo;&amp;rsquo; excitations are activated with a strong chiral component and a large contribution to thermal entropies. Bearing remarkable resemblance to the renowned roton thermodynamics in liquid helium, these gapped excitations suppress the incipient 120$∘$ order that emerges for temperatures below Tl.&lt;/p&gt;
+      <description>&lt;p&gt;The anomalous thermodynamic properties of the paradigmatic frustrated spin-1/2 triangular-lattice Heisenberg antiferromagnet (TLH) has remained an open topic of research over decades, both experimentally and theoretically. Here, we further the theoretical understanding based on the recently developed, powerful exponential tensor renormalization group method on cylinders and stripes in a quasi-one-dimensional (1D) setup, as well as a tensor product operator approach directly in 2D. The observed thermal properties of the TLH are in excellent agreement with two recent experimental measurements on the virtually ideal TLH material Ba8CoNb6O24. Remarkably, our numerical simulations reveal two crossover temperature scales, at Tl/J$∼$0.20 and Th/J$∼$0.55, with J the Heisenberg exchange coupling, which are also confirmed by a more careful inspection of the experimental data. We propose that in the intermediate regime between the low-temperature scale Tl and the higher one Th, the ``rotonlike&#39;&#39; excitations are activated with a strong chiral component and a large contribution to thermal entropies. Bearing remarkable resemblance to the renowned roton thermodynamics in liquid helium, these gapped excitations suppress the incipient 120$∘$ order that emerges for temperatures below Tl.&lt;/p&gt;
 </description>
     </item>
     
