@@ -5,7 +5,7 @@
     <link>https://wlibuaa.github.io/authors/</link>
       <atom:link href="https://wlibuaa.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wlibuaa.github.io/images/logo_huf78e711280e2ffb29500bba5b0998b63_67904_300x300_fit_lanczos_2.png</url>
       <title>Authors</title>
@@ -13,26 +13,130 @@
     </image>
     
     <item>
-      <title>Bin-Bin Chen</title>
-      <link>https://wlibuaa.github.io/authors/bin-bin-chen/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://wlibuaa.github.io/authors/bin-bin-chen/</guid>
+      <title>Dai-Wei Qu</title>
+      <link>https://wlibuaa.github.io/authors/dai-wei-qu/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/authors/dai-wei-qu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Han Li</title>
       <link>https://wlibuaa.github.io/authors/han-li/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://wlibuaa.github.io/authors/han-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hao-Kai Zhang</title>
+      <link>https://wlibuaa.github.io/authors/hao-kai-zhang/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/authors/hao-kai-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shou-Shu Gong</title>
+      <link>https://wlibuaa.github.io/authors/shou-shu-gong/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/authors/shou-shu-gong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wei Li</title>
       <link>https://wlibuaa.github.io/authors/wei-li/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://wlibuaa.github.io/authors/wei-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yang Qi</title>
+      <link>https://wlibuaa.github.io/authors/yang-qi/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/authors/yang-qi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi-Zhen Jia</title>
+      <link>https://wlibuaa.github.io/authors/yi-zhen-jia/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/authors/yi-zhen-jia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bin-Bin Chen</title>
+      <link>https://wlibuaa.github.io/authors/bin-bin-chen/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/authors/bin-bin-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hai-Jun Liao</title>
+      <link>https://wlibuaa.github.io/authors/hai-jun-liao/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/authors/hai-jun-liao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hui-Hai Zhao</title>
+      <link>https://wlibuaa.github.io/authors/hui-hai-zhao/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/authors/hui-hai-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lei Wang</title>
+      <link>https://wlibuaa.github.io/authors/lei-wang/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/authors/lei-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tao Xiang</title>
+      <link>https://wlibuaa.github.io/authors/tao-xiang/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/authors/tao-xiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi-Bin Guo</title>
+      <link>https://wlibuaa.github.io/authors/yi-bin-guo/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/authors/yi-bin-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuan Gao</title>
+      <link>https://wlibuaa.github.io/authors/yuan-gao/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/authors/yuan-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuzhi Liu</title>
+      <link>https://wlibuaa.github.io/authors/yuzhi-liu/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/authors/yuzhi-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Z. Y. Xie</title>
+      <link>https://wlibuaa.github.io/authors/z.-y.-xie/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/authors/z.-y.-xie/</guid>
       <description></description>
     </item>
     
@@ -53,14 +157,6 @@
     </item>
     
     <item>
-      <title>Yang Qi</title>
-      <link>https://wlibuaa.github.io/authors/yang-qi/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://wlibuaa.github.io/authors/yang-qi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yuan-Da Liao</title>
       <link>https://wlibuaa.github.io/authors/yuan-da-liao/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
@@ -73,78 +169,6 @@
       <link>https://wlibuaa.github.io/authors/zi-yang-meng/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://wlibuaa.github.io/authors/zi-yang-meng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hai-Jun Liao</title>
-      <link>https://wlibuaa.github.io/authors/hai-jun-liao/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://wlibuaa.github.io/authors/hai-jun-liao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hui-Hai Zhao</title>
-      <link>https://wlibuaa.github.io/authors/hui-hai-zhao/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://wlibuaa.github.io/authors/hui-hai-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lei Wang</title>
-      <link>https://wlibuaa.github.io/authors/lei-wang/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://wlibuaa.github.io/authors/lei-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tao Xiang</title>
-      <link>https://wlibuaa.github.io/authors/tao-xiang/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://wlibuaa.github.io/authors/tao-xiang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yi-Bin Guo</title>
-      <link>https://wlibuaa.github.io/authors/yi-bin-guo/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://wlibuaa.github.io/authors/yi-bin-guo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yuan Gao</title>
-      <link>https://wlibuaa.github.io/authors/yuan-gao/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://wlibuaa.github.io/authors/yuan-gao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yuzhi Liu</title>
-      <link>https://wlibuaa.github.io/authors/yuzhi-liu/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://wlibuaa.github.io/authors/yuzhi-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Z. Y. Xie</title>
-      <link>https://wlibuaa.github.io/authors/z.-y.-xie/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://wlibuaa.github.io/authors/z.-y.-xie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dai-Wei Qu</title>
-      <link>https://wlibuaa.github.io/authors/dai-wei-qu/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://wlibuaa.github.io/authors/dai-wei-qu/</guid>
       <description></description>
     </item>
     
@@ -177,14 +201,6 @@
       <link>https://wlibuaa.github.io/authors/lei-chen/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://wlibuaa.github.io/authors/lei-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shou-Shu Gong</title>
-      <link>https://wlibuaa.github.io/authors/shou-shu-gong/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://wlibuaa.github.io/authors/shou-shu-gong/</guid>
       <description></description>
     </item>
     
@@ -475,7 +491,14 @@
       <link>https://wlibuaa.github.io/authors/bchen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://wlibuaa.github.io/authors/bchen/</guid>
-      <description></description>
+      <description>&lt;p&gt;My research interest focuses on efficient numerical simulations within the tensor network state ansatz,
+to tackle novel phenomena in quantum manybody systems, including quantum spin liquid, unconventional
+superconductivity, topological states, etc.&lt;/p&gt;
+&lt;p&gt;Working on the PyTorch library as well as the QSpace library, I have developed several efficient thermal
+tensor network methods, e.g. series expansion thermal tensor network (SETTN), exponential tensor
+renormalization group (XTRG) and differentiable tensor renormalization group ($\partial$TRG) for
+accurate thermal simulations of quantum manybody systems.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -531,6 +554,14 @@
       <link>https://wlibuaa.github.io/authors/wli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://wlibuaa.github.io/authors/wli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://wlibuaa.github.io/authors/xyliu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/authors/xyliu/</guid>
       <description></description>
     </item>
     
