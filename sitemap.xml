@@ -188,14 +188,6 @@
   </url>
   
   <url>
-<<<<<<< HEAD
-=======
-    <loc>https://wlibuaa.github.io/courses/</loc>
-    <lastmod>2020-05-07T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
->>>>>>> master
     <loc>https://wlibuaa.github.io/tags/condensed-matter-statistical-mechanics/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url>
@@ -604,6 +596,10 @@
   
   <url>
     <loc>https://wlibuaa.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wlibuaa.github.io/courses/</loc>
   </url>
   
   <url>

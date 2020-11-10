@@ -1071,8 +1071,10 @@
 &lt;p&gt;其中$u = \sum_q u_q$，$\gamma$为平均格林艾森参数。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;热膨胀系数&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;回忆：$\alpha = \frac{1}{V} (\frac{\partial V}{\partial T})_P$&lt;/p&gt;
@@ -1105,11 +1107,11 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;晶格热输运**&lt;/p&gt;
-&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;晶格热输运**&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;slides--video&#34;&gt;Slides &amp;amp; Video&lt;/h2&gt;
@@ -1699,8 +1701,10 @@
 &lt;p&gt;请阅读关于石墨烯的
 &lt;a href=&#34;https://www.nobelprize.org/uploads/2018/06/popular-physicsprize2010.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公众介绍材料&lt;/a&gt;与
 &lt;a href=&#34;https://www.nobelprize.org/uploads/2018/06/advanced-physicsprize2010.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;科学背景材料&lt;/a&gt;，并提交阅读笔记。&lt;/p&gt;
-&lt;hr&gt;
 &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;a) 三角格子的魏格纳赛兹原胞是什么？计算魏格纳赛兹原胞的边长及面积。b) 六方密堆积结构的魏格纳赛兹原胞及体积为何？（晶格常数，等于密堆积的硬球直径，设为单位1）&lt;/p&gt;
 &lt;/li&gt;
@@ -2131,8 +2135,10 @@
 &lt;li&gt;
 &lt;p&gt;证明劳厄方程/布拉格定律的等价表述：入射波波矢$\bf{k}$与倒格矢$\bf{G}$满足关系$\bf{k} \cdot \frac{1}{2} G= (\frac{1}{2}G)^2$，则产生布拉格衍射。并籍此说明该表述的一个直观图像：入射波矢出发点位于原点$O$时，当终点位于布里渊区边界上时，发生布拉格衍射。&lt;/p&gt;
 &lt;p&gt;[assigned: 06-March-2020, due: 13-March-2020]&lt;/p&gt;
-&lt;hr&gt;
 &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;证明晶面族与倒格矢关系的逆定理，即给定倒格矢，必存在与之正交的晶面族。&lt;/p&gt;
 &lt;/li&gt;
@@ -2142,8 +2148,10 @@
 &lt;li&gt;
 &lt;p&gt;请画出三角格子的倒格子，并找出倒格子的魏格纳-赛兹（WS）原胞。原格子的晶格常数为$a$，请计算这个WS原胞（一个正多边形）的边长，以及中心到任意一条边的高，然后计算WS原胞的面积。&lt;/p&gt;
 &lt;p&gt;[assigned: 10-March-2020, due: 17-March-2020]&lt;/p&gt;
-&lt;hr&gt;
 &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;6&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;请计算金刚石的结构因子，假设碳原子的形状因子为常数$f_0$。&lt;/p&gt;
 &lt;img src=&#34;https://wlibuaa.github.io/courses/ssp2020/figs/diamond.png&#34; style=&#34;zoom:50%;&#34;/&gt;
