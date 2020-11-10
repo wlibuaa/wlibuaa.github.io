@@ -12,6 +12,7 @@
       <link>https://wlibuaa.github.io/authors/</link>
     </image>
     
+<<<<<<< HEAD
     <item>
       <title>Dai-Wei Qu</title>
       <link>https://wlibuaa.github.io/authors/dai-wei-qu/</link>
@@ -589,5 +590,7 @@ accurate thermal simulations of quantum manybody systems.&lt;/p&gt;
       <description></description>
     </item>
     
+=======
+>>>>>>> master
   </channel>
 </rss>
