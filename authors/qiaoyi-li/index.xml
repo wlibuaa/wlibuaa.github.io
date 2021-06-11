@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiaoyi Li | Li Group</title>
+    <link>https://wlibuaa.github.io/authors/qiaoyi-li/</link>
+      <atom:link href="https://wlibuaa.github.io/authors/qiaoyi-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qiaoyi Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wlibuaa.github.io/images/logo_huf78e711280e2ffb29500bba5b0998b63_67904_300x300_fit_lanczos_2.png</url>
+      <title>Qiaoyi Li</title>
+      <link>https://wlibuaa.github.io/authors/qiaoyi-li/</link>
+    </image>
+    
+    <item>
+      <title>Symmetry-Protected Topological Edge Modes and Emergent Partial Time-Reversal Symmetry Breaking in Open Quantum Many-Body Systems</title>
+      <link>https://wlibuaa.github.io/publication/li-2021-prl/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://wlibuaa.github.io/publication/li-2021-prl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
